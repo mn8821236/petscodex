@@ -1683,6 +1683,12 @@
       "path": "emma-stone"
     },
     {
+      "id": "blingbara",
+      "displayName": "Blingbara",
+      "description": "A tiny capybara pet wearing a crown with crown-only bling stars.",
+      "path": "blingbara"
+    },
+    { 
       "id": "liebao",
       "displayName": "猎宝",
       "description": "A lazy bone-masked rogue research companion for Codex.",

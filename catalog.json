@@ -1704,6 +1704,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "superweird-petr",
+            "path": "superweird-petr",
+            "displayName": "SuperWEIRD Petr",
+            "description": "SuperWEIRD Petr is a character from the Steam co-op automation roguelite video game SuperWEIRD, where you turn single-use robots into a perfect automated system.",
+            "author": "Pets Codex user: zulman",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

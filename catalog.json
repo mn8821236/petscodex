@@ -135,6 +135,12 @@
       "path": "labubu"
     },
     {
+      "id": "little-foundling",
+      "displayName": "Little Foundling",
+      "description": "An original chibi long-eared mint-green space foundling Codex pet in a cozy beige robe.",
+      "path": "little-foundling"
+    },
+    {
       "id": "chiikawa",
       "displayName": "Chiikawa",
       "description": "A tiny round white comfort-mascot Codex pet with shy smiles, sleepy poses, and cheerful sticker-sprite energy.",

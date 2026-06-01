@@ -1747,6 +1747,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "sakura-chibi",
+            "path": "sakura-chibi",
+            "displayName": "Sakura Chibi",
+            "description": "An original chibi purple-haired schoolgirl desktop pet inspired by Fate.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

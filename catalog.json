@@ -1715,6 +1715,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "feiyu-usagi",
+            "path": "feiyu-usagi",
+            "displayName": "Feiyu Usagi",
+            "description": "An original tiny yellow mascot desktop pet inspired by Chiikawa.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

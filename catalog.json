@@ -1715,6 +1715,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "feiyu-hachiware",
+            "path": "feiyu-hachiware",
+            "displayName": "Feiyu Hachiware",
+            "description": "An original tiny blue-and-white mascot desktop pet inspired by Chiikawa.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

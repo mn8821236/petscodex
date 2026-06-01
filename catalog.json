@@ -1736,6 +1736,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "feiyu-chiikawa",
+            "path": "feiyu-chiikawa",
+            "displayName": "Feiyu Chiikawa",
+            "description": "An original tiny white mascot desktop pet inspired by Chiikawa.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

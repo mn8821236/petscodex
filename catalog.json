@@ -1868,6 +1868,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "rin-chibi",
+            "path": "rin-chibi",
+            "displayName": "Rin Chibi",
+            "description": "An original chibi mage-girl Codex pet inspired by Rin Tohsaka, with black twin tails, red accents, and playful magic poses.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

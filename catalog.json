@@ -1824,6 +1824,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "levi-chibi",
+            "path": "levi-chibi",
+            "displayName": "Levi Chibi",
+            "description": "An original chibi scout captain desktop pet inspired by Levi Ackerman.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

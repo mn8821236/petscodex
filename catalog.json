@@ -1758,6 +1758,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "thunder-fox-mascot",
+            "path": "thunder-fox-mascot",
+            "displayName": "Thunder Fox Mascot",
+            "description": "An original golden thunder fox Codex pet with lively electric-themed movement.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

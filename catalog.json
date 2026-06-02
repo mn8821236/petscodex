@@ -1890,6 +1890,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "saber-chibi",
+            "path": "saber-chibi",
+            "displayName": "Saber Chibi",
+            "description": "An original chibi sword knight desktop pet inspired by Fate.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1780,6 +1780,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "sailor-moon-chibi",
+            "path": "sailor-moon-chibi",
+            "displayName": "Sailor Moon Chibi",
+            "description": "An original chibi moon magical-girl desktop pet inspired by Sailor Moon.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1791,6 +1791,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "reindeer-doctor",
+            "path": "reindeer-doctor",
+            "displayName": "Reindeer Doctor Mascot",
+            "description": "An original tiny reindeer doctor Codex pet with varied mascot actions.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

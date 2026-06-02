@@ -1879,6 +1879,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "miku-chibi",
+            "path": "miku-chibi",
+            "displayName": "Miku Chibi",
+            "description": "An original chibi virtual singer desktop pet inspired by Hatsune Miku.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

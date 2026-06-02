@@ -1802,6 +1802,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "naruto-chibi",
+            "path": "naruto-chibi",
+            "displayName": "Naruto Chibi",
+            "description": "An original chibi orange ninja desktop pet inspired by Naruto Uzumaki.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

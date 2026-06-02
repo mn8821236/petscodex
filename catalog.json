@@ -1813,6 +1813,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "magical-incubator",
+            "path": "magical-incubator",
+            "displayName": "Magical Incubator Mascot",
+            "description": "An original white magical mascot Codex pet inspired by popular anime creature archetypes.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

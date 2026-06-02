@@ -1857,6 +1857,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "forest-spirit-mascot",
+            "path": "forest-spirit-mascot",
+            "displayName": "Forest Spirit Mascot",
+            "description": "An original round forest spirit Codex pet inspired by gentle anime mascot archetypes.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

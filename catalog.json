@@ -1769,6 +1769,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "tanjiro-chibi",
+            "path": "tanjiro-chibi",
+            "displayName": "Tanjiro Chibi",
+            "description": "An original chibi demon-slayer swordsman desktop pet inspired by Tanjiro Kamado.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1846,6 +1846,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "gadget-robot-cat",
+            "path": "gadget-robot-cat",
+            "displayName": "Gadget Robot Cat",
+            "description": "An original blue gadget robot cat Codex pet with tool and hover poses.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1835,6 +1835,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "goku-chibi",
+            "path": "goku-chibi",
+            "displayName": "Goku Chibi",
+            "description": "An original chibi martial arts desktop pet inspired by Son Goku.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

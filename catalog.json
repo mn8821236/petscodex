@@ -1912,6 +1912,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "ram-chibi",
+            "path": "ram-chibi",
+            "displayName": "Ram Chibi",
+            "description": "An original chibi pink-haired maid desktop pet inspired by Re:Zero.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

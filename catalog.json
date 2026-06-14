@@ -1934,6 +1934,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "emilia-chibi",
+            "path": "emilia-chibi",
+            "displayName": "Emilia Chibi",
+            "description": "An original chibi silver-haired elf mage Codex pet inspired by Emilia, with violet eyes, lavender accents, and ice-magic poses.",
+            "author": "Pets Codex user: feiyu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

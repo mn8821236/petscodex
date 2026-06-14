@@ -1923,6 +1923,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "crayon-shinchan-butt-alien",
+            "path": "crayon-shinchan-butt-alien",
+            "displayName": "Crayon Shinchan - Butt Alien",
+            "description": "A simple flat-cartoon back-facing butt-dance pet with yellow shorts and tiny shoes.",
+            "author": "Pets Codex user: os369510",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

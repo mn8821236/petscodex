@@ -1967,6 +1967,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "makise-kurisu-lab-ver3",
+            "path": "makise-kurisu-lab-ver3",
+            "displayName": "Makise Kurisu Lab",
+            "description": "Makise Kurisu's Lab Version: Mature anime styling and a confused reaction to being hovered over.",
+            "author": "Pets Codex user: nikminer",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1956,6 +1956,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "kurisu-makise-lab-version2",
+            "path": "kurisu-makise-lab-version2",
+            "displayName": "Kurisu Makise Lab version 2",
+            "description": "A chibi Kurisu Makise-style Codex pet.",
+            "author": "Pets Codex user: nikminer",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1978,6 +1978,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "tifa",
+            "path": "tifa",
+            "displayName": "Tifa",
+            "description": "Final Fantasy-inspired chibi martial-artist heroine pet with stronger scale-stabilized animation.",
+            "author": "Pets Codex user: lywo",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

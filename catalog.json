@@ -1989,6 +1989,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "manman",
+            "path": "manman",
+            "displayName": "满满",
+            "description": "一只以主人真实猫咪为原型的奶白短毛小母猫动态宠物，拥有圆脸、蓝灰大眼和粉色鼻子。",
+            "author": "Pets Codex user: realtylan0505",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

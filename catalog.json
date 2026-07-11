@@ -2000,6 +2000,19 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "makise-kurisu-researcher",
+            "path": "makise-kurisu-researcher",
+            "displayName": "Makise Kurisu Researcher",
+            "description": "An unofficial fan-made chibi Makise Kurisu pet: a calm, intelligent, occasionally tsundere researcher. For personal, non-commercial use only.",
+            "author": "Puge",
+            "tags": [
+                "community",
+                "fan-made",
+                "anime",
+                "non-commercial"
+            ]
         }
     ]
 }

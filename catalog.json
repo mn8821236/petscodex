@@ -2024,6 +2024,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "junimo",
+            "path": "junimo",
+            "displayName": "Junimo",
+            "description": "A cheerful forest Junimo companion inspired by Stardew Valley, ready to help around the Codex workspace.",
+            "author": "Pets Codex user: petscodex",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

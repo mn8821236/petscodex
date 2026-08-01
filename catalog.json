@@ -2035,6 +2035,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "miermu",
+            "path": "miermu",
+            "displayName": "Miermu",
+            "description": "A custom Codex digital pet based on Miermu, a playful silver tabby and white cat with big green eyes and a pink nose.",
+            "author": "Pets Codex user: mibatu",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

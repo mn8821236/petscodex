@@ -2046,6 +2046,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "atlas",
+            "path": "atlas",
+            "displayName": "Atlas",
+            "description": "A curious indigo steppe fox who turns careful building into a warm little adventure.",
+            "author": "Pets Codex user: hhhggg3997",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

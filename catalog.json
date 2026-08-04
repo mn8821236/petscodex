@@ -2057,6 +2057,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "snowbun",
+            "path": "snowbun",
+            "displayName": "Snowbun",
+            "description": "A tiny chibi winter girl pet with black hair, white scarf and sweater, red purse, black leggings, and fluffy white boots.",
+            "author": "Pets Codex user: yangang",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

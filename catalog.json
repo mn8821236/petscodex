@@ -2101,6 +2101,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cristiano-ronaldo",
+            "path": "cristiano-ronaldo",
+            "displayName": "Cristiano Ronaldo",
+            "description": "A chibi Cristiano Ronaldo-style Codex pet.",
+            "author": "Pets Codex user: kasi",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

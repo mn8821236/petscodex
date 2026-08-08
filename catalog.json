@@ -2068,6 +2068,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "jerry",
+            "path": "jerry",
+            "displayName": "Jerry",
+            "description": "A chibi Jerry-style Codex pet.",
+            "author": "Pets Codex user: kasi",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

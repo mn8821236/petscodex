@@ -2070,6 +2070,17 @@
             ]
         },
         {
+            "id": "tom",
+            "path": "tom",
+            "displayName": "Tom",
+            "description": "A chibi Tom-style Codex pet.",
+            "author": "Pets Codex user: kasi",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "jerry",
             "path": "jerry",
             "displayName": "Jerry",

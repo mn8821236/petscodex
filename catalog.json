@@ -2070,6 +2070,17 @@
             ]
         },
         {
+            "id": "jerry",
+            "path": "jerry",
+            "displayName": "Jerry",
+            "description": "A chibi Jerry-style Codex pet.",
+            "author": "Pets Codex user: kasi",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "nezuko-kamado-demon",
             "path": "nezuko-kamado-demon",
             "displayName": "Nezuko Kamado",

@@ -2112,6 +2112,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "michael-jackson",
+            "path": "michael-jackson",
+            "displayName": "Michael Jackson",
+            "description": "A chibi Michael Jackson-style Codex pet.",
+            "author": "Pets Codex user: kasi",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

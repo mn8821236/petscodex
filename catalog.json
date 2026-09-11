@@ -2178,6 +2178,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cluster-helmsman",
+            "path": "cluster-helmsman",
+            "displayName": "Cluster Helmsman",
+            "description": "A Kubernetes-inspired cloud-native helmsman that coordinates pods and nodes, restores desired state, and keeps distributed workloads on course.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

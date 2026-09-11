@@ -1,0 +1,7 @@
+{
+  "id": "shellby",
+  "displayName": "Shellby",
+  "description": "A Unix shell and terminal-inspired black cat that runs commands, waits for approvals, and watches over developer workflows.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

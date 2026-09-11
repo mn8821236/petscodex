@@ -1,0 +1,7 @@
+{
+  "id": "rubber-duck-debugger",
+  "displayName": "Rubber Duck Debugger",
+  "description": "A companion inspired by rubber duck debugging: patient listening that helps developers explain code, expose assumptions, and discover solutions.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -2123,6 +2123,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "tux",
+            "path": "tux",
+            "displayName": "Tux",
+            "description": "A Linux-inspired penguin companion that helps developers compile, inspect, and complete work with the reliable, collaborative spirit of open-source systems.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

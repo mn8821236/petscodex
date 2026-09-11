@@ -2134,6 +2134,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "rubber-duck-debugger",
+            "path": "rubber-duck-debugger",
+            "displayName": "Rubber Duck Debugger",
+            "description": "A companion inspired by rubber duck debugging: patient listening that helps developers explain code, expose assumptions, and discover solutions.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

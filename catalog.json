@@ -2156,6 +2156,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "bug-beetle",
+            "path": "bug-beetle",
+            "displayName": "Bug Beetle",
+            "description": "A playful beetle inspired by the software bug, equally happy to slip into code and help developers reproduce, trace, and fix defects.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

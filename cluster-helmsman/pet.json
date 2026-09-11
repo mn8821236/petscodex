@@ -1,0 +1,7 @@
+{
+  "id": "cluster-helmsman",
+  "displayName": "Cluster Helmsman",
+  "description": "A Kubernetes-inspired cloud-native helmsman that coordinates pods and nodes, restores desired state, and keeps distributed workloads on course.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -2211,6 +2211,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "harbor-whale",
+            "path": "harbor-whale",
+            "displayName": "Harbor Whale",
+            "description": "A container-engineering-inspired whale carrying modular software packages, reflecting image-based delivery, isolation, portability, and reliable deployment.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

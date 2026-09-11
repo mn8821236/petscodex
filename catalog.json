@@ -2145,6 +2145,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "java-duke",
+            "path": "java-duke",
+            "displayName": "Java Duke",
+            "description": "A Java-inspired software companion shaped by the JVM ecosystem, object-oriented development, portable bytecode, and the ritual of coffee-powered coding.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

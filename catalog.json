@@ -2125,6 +2125,17 @@
             ]
         },
         {
+            "id": "shellby",
+            "path": "shellby",
+            "displayName": "Shellby",
+            "description": "A Unix shell and terminal-inspired black cat that runs commands, waits for approvals, and watches over developer workflows.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "tux",
             "path": "tux",
             "displayName": "Tux",

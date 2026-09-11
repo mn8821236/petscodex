@@ -1,0 +1,7 @@
+{
+  "id": "go-gopher",
+  "displayName": "Go Gopher",
+  "description": "A Go-inspired blue gopher built around the language’s simplicity, practical concurrency, fast tooling, and dependable developer experience.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

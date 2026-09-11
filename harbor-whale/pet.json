@@ -1,0 +1,7 @@
+{
+  "id": "harbor-whale",
+  "displayName": "Harbor Whale",
+  "description": "A container-engineering-inspired whale carrying modular software packages, reflecting image-based delivery, isolation, portability, and reliable deployment.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

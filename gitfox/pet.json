@@ -1,0 +1,7 @@
+{
+  "id": "gitfox",
+  "displayName": "GitFox",
+  "description": "A Git-inspired branch-tailed fox that helps developers commit changes, merge branches, resolve conflicts, and navigate version history.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

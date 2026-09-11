@@ -1,0 +1,7 @@
+{
+  "id": "tux",
+  "displayName": "Tux",
+  "description": "A Linux-inspired penguin companion that helps developers compile, inspect, and complete work with the reliable, collaborative spirit of open-source systems.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

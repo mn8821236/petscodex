@@ -1,0 +1,7 @@
+{
+  "id": "bug-beetle",
+  "displayName": "Bug Beetle",
+  "description": "A playful beetle inspired by the software bug, equally happy to slip into code and help developers reproduce, trace, and fix defects.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

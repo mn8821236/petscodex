@@ -2134,6 +2134,105 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "tux",
+            "path": "tux",
+            "displayName": "Tux",
+            "description": "A Linux-inspired penguin companion that helps developers compile, inspect, and complete work with the reliable, collaborative spirit of open-source systems.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "rubber-duck-debugger",
+            "path": "rubber-duck-debugger",
+            "displayName": "Rubber Duck Debugger",
+            "description": "A companion inspired by rubber duck debugging: patient listening that helps developers explain code, expose assumptions, and discover solutions.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "java-duke",
+            "path": "java-duke",
+            "displayName": "Java Duke",
+            "description": "A Java-inspired software companion shaped by the JVM ecosystem, object-oriented development, portable bytecode, and the ritual of coffee-powered coding.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "bug-beetle",
+            "path": "bug-beetle",
+            "displayName": "Bug Beetle",
+            "description": "A playful beetle inspired by the software bug, equally happy to slip into code and help developers reproduce, trace, and fix defects.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "ferris",
+            "path": "ferris",
+            "displayName": "Ferris",
+            "description": "A Rust-inspired crab companion whose sturdy claws evoke ownership, borrowing, memory safety, and fearless systems programming.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cluster-helmsman",
+            "path": "cluster-helmsman",
+            "displayName": "Cluster Helmsman",
+            "description": "A Kubernetes-inspired cloud-native helmsman that coordinates pods and nodes, restores desired state, and keeps distributed workloads on course.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "go-gopher",
+            "path": "go-gopher",
+            "displayName": "Go Gopher",
+            "description": "A Go-inspired blue gopher built around the language’s simplicity, practical concurrency, fast tooling, and dependable developer experience.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "gitfox",
+            "path": "gitfox",
+            "displayName": "GitFox",
+            "description": "A Git-inspired branch-tailed fox that helps developers commit changes, merge branches, resolve conflicts, and navigate version history.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "harbor-whale",
+            "path": "harbor-whale",
+            "displayName": "Harbor Whale",
+            "description": "A container-engineering-inspired whale carrying modular software packages, reflecting image-based delivery, isolation, portability, and reliable deployment.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

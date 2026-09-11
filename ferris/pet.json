@@ -1,0 +1,7 @@
+{
+  "id": "ferris",
+  "displayName": "Ferris",
+  "description": "A Rust-inspired crab companion whose sturdy claws evoke ownership, borrowing, memory safety, and fearless systems programming.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

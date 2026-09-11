@@ -2167,6 +2167,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "ferris",
+            "path": "ferris",
+            "displayName": "Ferris",
+            "description": "A Rust-inspired crab companion whose sturdy claws evoke ownership, borrowing, memory safety, and fearless systems programming.",
+            "author": "Pets Codex user: system",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

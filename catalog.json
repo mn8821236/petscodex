@@ -2244,6 +2244,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "nessie",
+            "path": "nessie",
+            "displayName": "Nessie",
+            "description": "A gentle green Nessie with a cream belly and a rounded sticker illustration look.",
+            "author": "Pets Codex user: fenglifubuki",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

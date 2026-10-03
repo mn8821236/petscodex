@@ -5258,6 +5258,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zeref-dragneel",
+            "path": "cozy-zeref-dragneel",
+            "displayName": "杰尔夫·多拉格尼尔 Zeref Dragneel",
+            "description": "UNOFFICIAL FAN-ART Zeref Dragneel companion with quiet book pages, a floating feather, black-and-white light play and nine original animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

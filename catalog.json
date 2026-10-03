@@ -3047,6 +3047,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-polar-bear-flurry",
+            "path": "cozy-polar-bear-flurry",
+            "displayName": "北极熊飞雪 Polar Bear Flurry",
+            "description": "Original polar bear cub with broad padded paws, a little blue scarf, and a soft, playful four-pawed stride.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

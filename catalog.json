@@ -2563,6 +2563,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-finn",
+            "path": "cozy-finn",
+            "displayName": "芬恩 Finn",
+            "description": "Unofficial Finn fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

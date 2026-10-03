@@ -4543,6 +4543,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-izuku-midoriya",
+            "path": "cozy-izuku-midoriya",
+            "displayName": "Izuku Midoriya — Cozy Fan Art",
+            "description": "Unofficial Izuku Midoriya fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

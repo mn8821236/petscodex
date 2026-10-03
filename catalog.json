@@ -3740,6 +3740,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-highland-cow-rusty",
+            "path": "cozy-highland-cow-rusty",
+            "displayName": "高地牛锈锈 Highland Cow Rusty",
+            "description": "Rusty is a shaggy Highland calf who tosses a russet fringe, greets with gentle horn sways, chews contentedly and peeks at the world with bright curious eyes.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

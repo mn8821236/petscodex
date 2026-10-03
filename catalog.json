@@ -4697,6 +4697,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-riceball-onigiri",
+            "path": "cozy-riceball-onigiri",
+            "displayName": "海苔饭团 Riceball Onigiri",
+            "description": "A gentle triangular rice ball with sesame eyes and a neat nori belt. It waddles on tiny rice feet, smooths its seaweed wrap, tilts its pointed top in greeting, and checks a little sesame fleck.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3674,6 +3674,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wool-lamb-meringue",
+            "path": "cozy-wool-lamb-meringue",
+            "displayName": "绵羊蛋白糖 Wool Lamb Meringue",
+            "description": "Meringue is a gentle curly-fleeced lamb with floppy ears, tiny dark hooves and a soft sage ribbon, sharing cozy meadow calm and playful little leaps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

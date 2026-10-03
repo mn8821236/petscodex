@@ -2596,6 +2596,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tartaglia",
+            "path": "cozy-tartaglia",
+            "displayName": "达达利亚 Tartaglia",
+            "description": "Unofficial Tartaglia fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

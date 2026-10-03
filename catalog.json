@@ -2354,6 +2354,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-desk-carrot-sprout",
+            "path": "cozy-desk-carrot-sprout",
+            "displayName": "桌面萝卜芽 Desk Carrot Sprout",
+            "description": "Original Desk Carrot Sprout desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

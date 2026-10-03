@@ -3641,6 +3641,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "lion-dance-cub",
+            "path": "lion-dance-cub",
+            "displayName": "Lion Dance Cub",
+            "description": "A golden lion cub in a red-and-gold lion-dance-inspired hood. This jubilant little performer brings brave leaps, festive warmth, and patient practice to your desktop.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

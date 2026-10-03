@@ -4202,6 +4202,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nezuko-kamado",
+            "path": "cozy-nezuko-kamado",
+            "displayName": "Nezuko Kamado — Cozy Fan Art",
+            "description": "Unofficial Nezuko Kamado fan-art animated companion from Demon Slayer, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

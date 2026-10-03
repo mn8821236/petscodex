@@ -5786,6 +5786,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kokichi-oma",
+            "path": "cozy-kokichi-oma",
+            "displayName": "王马小吉 Kokichi Oma",
+            "description": "Unofficial Kokichi Oma fan-art companion with scarf puppets, a playful card trick and springy running steps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

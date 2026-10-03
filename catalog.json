@@ -5665,6 +5665,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-desmond-miles",
+            "path": "cozy-desmond-miles",
+            "displayName": "戴斯蒙德·迈尔斯 Desmond Miles",
+            "description": "Unofficial fan-art Desmond Miles companion inspired by Assassin's Creed. Simplified modern outfit and original nine-state choreography feature zipper and wristband checks, a low exercise rail, ordinary removable testing ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

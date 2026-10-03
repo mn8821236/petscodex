@@ -4290,6 +4290,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zenitsu-agatsuma",
+            "path": "cozy-zenitsu-agatsuma",
+            "displayName": "Zenitsu Agatsuma — Cozy Fan Art",
+            "description": "Unofficial Zenitsu Agatsuma fan-art animated companion from Demon Slayer, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

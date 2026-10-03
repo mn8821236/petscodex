@@ -5357,6 +5357,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-grell-sutcliff",
+            "path": "cozy-grell-sutcliff",
+            "displayName": "格雷尔·萨特克利夫 Grell Sutcliff",
+            "description": "Unofficial Grell Sutcliff fan-art companion from Black Butler, with flowing red hair, a theatrical coat flourish, and playful mirror grooming across nine original animated states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

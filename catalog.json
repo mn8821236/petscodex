@@ -4389,6 +4389,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-praying-mantis-leaf",
+            "path": "cozy-praying-mantis-leaf",
+            "displayName": "螳螂叶叶 Praying Mantis Leaf",
+            "description": "An original leaf-green praying mantis with a curious triangular head, sweeping antennae, a graceful foreleg greeting, and careful foreleg grooming.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

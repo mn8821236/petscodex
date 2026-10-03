@@ -4554,6 +4554,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-katsuki-bakugo",
+            "path": "cozy-katsuki-bakugo",
+            "displayName": "Katsuki Bakugo — Cozy Fan Art",
+            "description": "Unofficial Katsuki Bakugo fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3971,6 +3971,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nico-robin",
+            "path": "cozy-nico-robin",
+            "displayName": "Nico Robin — Cozy Fan Art",
+            "description": "Unofficial Nico Robin fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

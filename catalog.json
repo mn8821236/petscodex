@@ -3652,6 +3652,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "tiger-kungfu",
+            "path": "tiger-kungfu",
+            "displayName": "Tiger Kungfu",
+            "description": "A cheerful tiger cub in a teal martial-arts tunic. Kungfu practices with patience, celebrates small wins, and meets each new challenge with steady focus.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

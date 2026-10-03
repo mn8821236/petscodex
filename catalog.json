@@ -4730,6 +4730,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-denji",
+            "path": "cozy-denji",
+            "displayName": "Denji — Cozy Fan Art",
+            "description": "Unofficial Denji fan-art animated companion from Chainsaw Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

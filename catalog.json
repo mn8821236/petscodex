@@ -4323,6 +4323,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shinobu-kocho",
+            "path": "cozy-shinobu-kocho",
+            "displayName": "Shinobu Kocho — Cozy Fan Art",
+            "description": "Unofficial Shinobu Kocho fan-art animated companion from Demon Slayer, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

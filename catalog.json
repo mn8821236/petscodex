@@ -5225,6 +5225,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-freed-justine",
+            "path": "cozy-freed-justine",
+            "displayName": "弗里德·贾斯汀 Freed Justine",
+            "description": "UNOFFICIAL FAN-ART Freed Justine companion with rune-ring, hair-tie and scroll motions. Conservative creative costume adaptation; exact canonical costume is unverified.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3861,6 +3861,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-monkey-d-luffy",
+            "path": "cozy-monkey-d-luffy",
+            "displayName": "Monkey D. Luffy — Cozy Fan Art",
+            "description": "Unofficial Monkey D. Luffy fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3949,6 +3949,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tony-tony-chopper",
+            "path": "cozy-tony-tony-chopper",
+            "displayName": "Tony Tony Chopper — Cozy Fan Art",
+            "description": "Unofficial Tony Tony Chopper fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

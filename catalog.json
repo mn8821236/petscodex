@@ -2299,6 +2299,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hu-tao",
+            "path": "cozy-hu-tao",
+            "displayName": "胡桃 Hu Tao",
+            "description": "Unofficial Hu Tao fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

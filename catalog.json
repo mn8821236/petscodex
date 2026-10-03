@@ -2992,6 +2992,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "ragdoll-cloud",
+            "path": "ragdoll-cloud",
+            "displayName": "Ragdoll Cloud",
+            "description": "A fluffy cream-and-chocolate ragdoll with sky-blue eyes. Cloud brings a gentle pace and soft-hearted encouragement to the busiest days.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

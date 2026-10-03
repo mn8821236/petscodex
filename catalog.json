@@ -5621,6 +5621,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mega-man",
+            "path": "cozy-mega-man",
+            "displayName": "Mega Man — Cozy Fan Art",
+            "description": "Unofficial Mega Man fan-art animated companion from Mega Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

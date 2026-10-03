@@ -4906,6 +4906,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-loba",
+            "path": "cozy-loba",
+            "displayName": "罗芭 Loba",
+            "description": "Unofficial Loba fan-art companion who turns her bracelet, twirls a slim staff and opens a jewel box to inspect a gem.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

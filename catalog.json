@@ -3982,6 +3982,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-portgas-d-ace",
+            "path": "cozy-portgas-d-ace",
+            "displayName": "Portgas D. Ace — Cozy Fan Art",
+            "description": "Unofficial Portgas D. Ace fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

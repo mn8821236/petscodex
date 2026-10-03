@@ -5049,6 +5049,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mae-borowski",
+            "path": "cozy-mae-borowski",
+            "displayName": "梅·博罗夫斯基 Mae Borowski",
+            "description": "Unofficial Mae Borowski fan-art companion from Night in the Woods, with bass rhythms, tiny ledge pull-ups and playful paper-cup catches.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

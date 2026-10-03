@@ -3696,6 +3696,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "peach-pangolin",
+            "path": "peach-pangolin",
+            "displayName": "Peach Pangolin",
+            "description": "An original peach-and-copper pangolin with layered rounded scales, a curled tail and lilac bow tie. Peach Pangolin brings sweet waves, springy leaps, thoughtful pauses and quietly determined desktop company.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

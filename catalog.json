@@ -5687,6 +5687,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-yusuf-tazim",
+            "path": "cozy-yusuf-tazim",
+            "displayName": "优素福·塔齐姆 Yusuf Tazim",
+            "description": "Unofficial fan-art Yusuf Tazim companion inspired by Assassin's Creed. Costume colors and closed tunic are simplified creative adaptations. Original nine-state choreography features scarf checks, a rolled-map toss and ca",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

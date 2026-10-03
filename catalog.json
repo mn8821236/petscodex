@@ -5401,6 +5401,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bomberman",
+            "path": "cozy-bomberman",
+            "displayName": "Bomberman — Cozy Fan Art",
+            "description": "Unofficial Bomberman fan-art animated companion from Bomberman, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3201,6 +3201,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-the-puppet",
+            "path": "cozy-the-puppet",
+            "displayName": "傀儡 The Puppet",
+            "description": "Unofficial The Puppet fan-art animated companion from Five Nights at Freddy's, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

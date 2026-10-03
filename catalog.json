@@ -3355,6 +3355,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-yuri",
+            "path": "cozy-yuri",
+            "displayName": "优里 Yuri",
+            "description": "Unofficial Yuri fan-art animated companion from Doki Doki Literature Club, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

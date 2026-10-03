@@ -2849,6 +2849,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "red-panda-maple",
+            "path": "red-panda-maple",
+            "displayName": "Red Panda Maple",
+            "description": "A curious red panda in a sage neckerchief with a maple-leaf clasp. Maple brings warm autumn colors, a ringed tail, and a thoughtful explorer’s spirit to your desktop.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

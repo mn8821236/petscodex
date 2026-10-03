@@ -4125,6 +4125,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-flamingo-ballet",
+            "path": "cozy-flamingo-ballet",
+            "displayName": "火烈鸟芭蕾 Flamingo Ballet",
+            "description": "An original pink flamingo with graceful one-legged balance, sweeping neck bows and curious little checks of its webbed feet.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

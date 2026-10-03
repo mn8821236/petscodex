@@ -2530,6 +2530,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lumine",
+            "path": "cozy-lumine",
+            "displayName": "荧 Lumine",
+            "description": "Unofficial Lumine fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

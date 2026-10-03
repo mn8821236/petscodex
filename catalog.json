@@ -5610,6 +5610,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-silver-hedgehog",
+            "path": "cozy-silver-hedgehog",
+            "displayName": "Silver the Hedgehog — Cozy Fan Art",
+            "description": "Unofficial Silver the Hedgehog fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

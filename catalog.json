@@ -4708,6 +4708,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pathfinder",
+            "path": "cozy-pathfinder",
+            "displayName": "探路者 Pathfinder",
+            "description": "Unofficial Pathfinder fan-art companion with changing chest-screen expressions, a playful grappling-hook greeting and careful little leg-joint checkups.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

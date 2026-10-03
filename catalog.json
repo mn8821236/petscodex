@@ -4598,6 +4598,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-croissant-crescent",
+            "path": "cozy-croissant-crescent",
+            "displayName": "牛角包月牙 Croissant Crescent",
+            "description": "A cheerful golden croissant whose flaky crescent flexes as it trots, bows its curled tip, brushes off a crumb, and admires its pastry layers.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

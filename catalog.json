@@ -2882,6 +2882,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-chiikawa",
+            "path": "cozy-chiikawa",
+            "displayName": "吉伊卡哇 Chiikawa",
+            "description": "Unofficial Chiikawa fan-art animated companion from Chiikawa, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

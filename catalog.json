@@ -5115,6 +5115,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gregg-lee",
+            "path": "cozy-gregg-lee",
+            "displayName": "格雷格·李 Gregg Lee",
+            "description": "Unofficial Gregg Lee fan-art companion from Night in the Woods, with excited arm windmills, paper-cup claws and curious wind-up-toy surprises.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

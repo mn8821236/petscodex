@@ -4675,6 +4675,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sushi-roll-nori",
+            "path": "cozy-sushi-roll-nori",
+            "displayName": "寿司海苔 Sushi Roll Nori",
+            "description": "A bright-eyed sushi roll with a fluffy rice rim and tiny rice feet. It tidies its nori wrap, tilts curiously toward its cucumber topping, and bounces along with a friendly wave.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

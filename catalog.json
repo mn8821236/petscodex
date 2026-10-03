@@ -2684,6 +2684,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-marceline",
+            "path": "cozy-marceline",
+            "displayName": "玛瑟琳 Marceline",
+            "description": "Unofficial Marceline fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

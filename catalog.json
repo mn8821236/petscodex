@@ -3069,6 +3069,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "snoopy-daydream",
+            "path": "snoopy-daydream",
+            "displayName": "Snoopy Daydream",
+            "description": "Unofficial Snoopy fan-art desktop companion with black floppy ears, a red collar and an easygoing smile. Features friendly waves, lively jumps, patient thinking and focused work. Not affiliated with or endorsed by the ch",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

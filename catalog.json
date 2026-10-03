@@ -3531,6 +3531,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "raccoon-busker",
+            "path": "raccoon-busker",
+            "displayName": "Raccoon Busker",
+            "description": "A cheerful raccoon in a teal cap with a honey-brown ukulele. Busker fills quiet moments with little tunes and tackles tasks with a songwriter’s curiosity.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

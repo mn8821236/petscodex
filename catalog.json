@@ -2255,6 +2255,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hyrax-pebble",
+            "path": "cozy-hyrax-pebble",
+            "displayName": "蹄兔岩团 Hyrax Pebble",
+            "description": "Original Hyrax Pebble desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

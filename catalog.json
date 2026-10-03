@@ -4829,6 +4829,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wraith",
+            "path": "cozy-wraith",
+            "displayName": "恶灵 Wraith",
+            "description": "Unofficial Wraith fan-art companion with a tiny violet rift, a scarf-tucked sidestep and careful checks of her forearm wraps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

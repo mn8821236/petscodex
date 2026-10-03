@@ -3245,6 +3245,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-toy-bonnie",
+            "path": "cozy-toy-bonnie",
+            "displayName": "玩具邦尼 Toy Bonnie",
+            "description": "Unofficial Toy Bonnie fan-art animated companion from Five Nights at Freddy's, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

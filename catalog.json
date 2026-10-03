@@ -2365,6 +2365,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-retro-cassette-tempo",
+            "path": "cozy-retro-cassette-tempo",
+            "displayName": "磁带节拍 Retro Cassette Tempo",
+            "description": "Original Retro Cassette Tempo desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

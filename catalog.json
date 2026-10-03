@@ -3751,6 +3751,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "sasuke-uchiha",
+            "path": "sasuke-uchiha",
+            "displayName": "Sasuke Uchiha",
+            "description": "Unofficial Sasuke Uchiha fan-art animated companion from Naruto, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

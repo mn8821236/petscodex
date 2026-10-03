@@ -3311,6 +3311,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "kuromi-wink",
+            "path": "kuromi-wink",
+            "displayName": "Kuromi Wink",
+            "description": "Unofficial Kuromi fan-art desktop companion with a black jester hood, pink skull accent and playful attitude. Includes impish waves, springy jumps, thoughtful pauses and focused work. Not affiliated with or endorsed by t",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

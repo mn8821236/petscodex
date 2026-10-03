@@ -5302,6 +5302,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shadow",
+            "path": "cozy-shadow",
+            "displayName": "Shadow the Hedgehog — Cozy Fan Art",
+            "description": "Unofficial Shadow the Hedgehog fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

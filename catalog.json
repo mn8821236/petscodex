@@ -3278,6 +3278,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-purple-guy",
+            "path": "cozy-purple-guy",
+            "displayName": "紫衣人 Purple Guy",
+            "description": "Unofficial Purple Guy fan-art animated companion from Five Nights at Freddy's, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

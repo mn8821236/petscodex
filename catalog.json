@@ -2629,6 +2629,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-canary-sunseed",
+            "path": "cozy-canary-sunseed",
+            "displayName": "金丝雀葵籽 Canary Sunseed",
+            "description": "Original Canary Sunseed desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

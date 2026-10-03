@@ -2288,6 +2288,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zhongli",
+            "path": "cozy-zhongli",
+            "displayName": "钟离 Zhongli",
+            "description": "Unofficial Zhongli fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

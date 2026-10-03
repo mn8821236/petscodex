@@ -5280,6 +5280,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tails",
+            "path": "cozy-tails",
+            "displayName": "Miles Tails Prower — Cozy Fan Art",
+            "description": "Unofficial Miles Tails Prower fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

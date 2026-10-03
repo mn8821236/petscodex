@@ -2937,6 +2937,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cartman",
+            "path": "cozy-cartman",
+            "displayName": "埃里克卡特曼 Eric Cartman",
+            "description": "Unofficial Eric Cartman fan-art animated companion from South Park, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

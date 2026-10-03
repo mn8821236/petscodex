@@ -5874,6 +5874,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-doom-slayer",
+            "path": "cozy-doom-slayer",
+            "displayName": "Doom Slayer — Cozy Fan Art",
+            "description": "Unofficial Doom Slayer fan-art animated companion from Doom, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -2739,6 +2739,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lumpy-space-princess",
+            "path": "cozy-lumpy-space-princess",
+            "displayName": "团团公主 Lumpy Space Princess",
+            "description": "Unofficial Lumpy Space Princess fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

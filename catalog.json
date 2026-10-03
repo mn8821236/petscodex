@@ -3421,6 +3421,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "narwhal-snowcone",
+            "path": "narwhal-snowcone",
+            "displayName": "Narwhal Snowcone",
+            "description": "An icy-blue clay narwhal with a pearly spiral horn. Snowcone is a playful frosty dreamer who adds a little wonder to the workday.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

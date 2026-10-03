@@ -5775,6 +5775,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-keith-voltron",
+            "path": "cozy-keith-voltron",
+            "displayName": "凯斯 Keith",
+            "description": "Unofficial Keith fan-art companion with Paladin gear checks, a clockwork lion toy and agile running steps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -5588,6 +5588,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-weevil-underwood",
+            "path": "cozy-weevil-underwood",
+            "displayName": "羽蛾 Weevil Underwood",
+            "description": "Unofficial Weevil Underwood fan-art companion with beetle observation, card inspection and quick compact steps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

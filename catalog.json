@@ -3058,6 +3058,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "ferret-ribbon",
+            "path": "ferret-ribbon",
+            "displayName": "Ferret Ribbon",
+            "description": "A nimble cream-and-sable ferret wearing a coral ribbon. Ribbon is a playful helper with an inquisitive nose and a talent for tying up loose ends.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

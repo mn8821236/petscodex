@@ -3608,6 +3608,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-squirrel-acorn",
+            "path": "cozy-squirrel-acorn",
+            "displayName": "松鼠橡果 Squirrel Acorn",
+            "description": "Acorn is a cheerful red squirrel with tufted ears, a cream belly and a sweeping bushy tail, bringing lively woodland curiosity to the desktop.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

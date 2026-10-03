@@ -2497,6 +2497,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-terriermon",
+            "path": "cozy-terriermon",
+            "displayName": "大耳兽 Terriermon",
+            "description": "Unofficial Terriermon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

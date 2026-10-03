@@ -3080,6 +3080,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "british-blue-pip",
+            "path": "british-blue-pip",
+            "displayName": "British Blue Pip",
+            "description": "A round blue-gray British shorthair with copper eyes and soft little cheeks. Pip brings quiet concentration and cozy companionship.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

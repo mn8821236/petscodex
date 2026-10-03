@@ -4004,6 +4004,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-parrot-macaw-carnival",
+            "path": "cozy-parrot-macaw-carnival",
+            "displayName": "金刚鹦鹉嘉年华 Parrot Macaw Carnival",
+            "description": "An original scarlet macaw with brilliant yellow-blue wings, a playful raised-claw greeting and a fondness for fussing over its long colorful tail.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

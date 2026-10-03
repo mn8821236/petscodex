@@ -2486,6 +2486,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gatomon",
+            "path": "cozy-gatomon",
+            "displayName": "迪路兽 Gatomon",
+            "description": "Unofficial Gatomon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

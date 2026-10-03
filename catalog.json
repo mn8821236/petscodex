@@ -4378,6 +4378,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bumblebee-honeycap",
+            "path": "cozy-bumblebee-honeycap",
+            "displayName": "熊蜂蜜帽 Bumblebee Honeycap",
+            "description": "An original fuzzy bumblebee with a cream pollen cap, buzzing translucent wings, a polite cap-tip greeting, and tiny forelegs that brush its face.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

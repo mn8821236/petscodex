@@ -2926,6 +2926,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-asterix",
+            "path": "cozy-asterix",
+            "displayName": "阿斯泰利克斯 Asterix",
+            "description": "Unofficial Asterix fan-art animated companion from Asterix, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

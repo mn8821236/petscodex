@@ -2695,6 +2695,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-marshall-lee",
+            "path": "cozy-marshall-lee",
+            "displayName": "马歇尔李 Marshall Lee",
+            "description": "Unofficial Marshall Lee fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

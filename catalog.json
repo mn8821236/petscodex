@@ -5533,6 +5533,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-susie",
+            "path": "cozy-susie",
+            "displayName": "Susie — Cozy Fan Art",
+            "description": "Unofficial Susie fan-art animated companion from Deltarune, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -5720,6 +5720,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rayman",
+            "path": "cozy-rayman",
+            "displayName": "Rayman — Cozy Fan Art",
+            "description": "Unofficial Rayman fan-art animated companion from Rayman, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4070,6 +4070,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-owl-bookmark",
+            "path": "cozy-owl-bookmark",
+            "displayName": "书签猫头鹰 Owl Bookmark",
+            "description": "An original tawny owl with amber eyes, slow head turns, gentle wing greetings, sleepy feather fluff and curious sideways peering across nine animated states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

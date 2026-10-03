@@ -4213,6 +4213,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-turtle-mossback",
+            "path": "cozy-turtle-mossback",
+            "displayName": "苔背龟 Turtle Mossback",
+            "description": "An original moss-backed turtle who slowly peeks out of its shell, offers a tiny forefoot greeting and stretches to inspect its little rooftop garden.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

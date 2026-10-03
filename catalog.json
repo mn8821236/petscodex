@@ -2717,6 +2717,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-razor",
+            "path": "cozy-razor",
+            "displayName": "雷泽 Razor",
+            "description": "Unofficial Razor fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

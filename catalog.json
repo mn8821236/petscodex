@@ -3366,6 +3366,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "octopus-plum",
+            "path": "octopus-plum",
+            "displayName": "Octopus Plum",
+            "description": "A plum-purple crochet octopus in a teal beret. Plum is a cheerful little artist whose eight busy tentacles are always ready for the next idea.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

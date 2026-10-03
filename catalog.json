@@ -4928,6 +4928,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-caustic",
+            "path": "cozy-caustic",
+            "displayName": "侵蚀 Caustic",
+            "description": "Unofficial Caustic fan-art companion who checks a sealed canister, polishes his goggles and aligns three empty test tubes.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

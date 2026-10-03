@@ -4191,6 +4191,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tanjiro-kamado",
+            "path": "cozy-tanjiro-kamado",
+            "displayName": "Tanjiro Kamado — Cozy Fan Art",
+            "description": "Unofficial Tanjiro Kamado fan-art animated companion from Demon Slayer, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

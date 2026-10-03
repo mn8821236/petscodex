@@ -5731,6 +5731,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ryu",
+            "path": "cozy-ryu",
+            "displayName": "Ryu — Cozy Fan Art",
+            "description": "Unofficial Ryu fan-art animated companion from Street Fighter, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

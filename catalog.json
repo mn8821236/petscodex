@@ -3432,6 +3432,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "beagle-scout",
+            "path": "beagle-scout",
+            "displayName": "Beagle Scout",
+            "description": "A tricolor beagle with floppy ears and a white-tipped tail. Scout is a curious, good-natured companion who loves checking every detail.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

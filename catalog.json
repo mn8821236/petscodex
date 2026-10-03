@@ -2332,6 +2332,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kagamine-rin",
+            "path": "cozy-kagamine-rin",
+            "displayName": "镜音铃 Kagamine Rin",
+            "description": "Unofficial Kagamine Rin fan-art animated companion from VOCALOID. Original character colors and nine expressive animation states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

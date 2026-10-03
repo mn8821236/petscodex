@@ -5181,6 +5181,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kenshin-himura",
+            "path": "cozy-kenshin-himura",
+            "displayName": "Kenshin Himura — Cozy Fan Art",
+            "description": "Unofficial Kenshin Himura fan-art animated companion from Rurouni Kenshin, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

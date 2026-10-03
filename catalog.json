@@ -3487,6 +3487,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "border-collie-dash",
+            "path": "border-collie-dash",
+            "displayName": "Border Collie Dash",
+            "description": "A bright-eyed black-and-white border collie with a feathery tail. Dash channels lively energy into careful thinking and encouraging company.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

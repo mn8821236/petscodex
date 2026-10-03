@@ -5203,6 +5203,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gon-freecss",
+            "path": "cozy-gon-freecss",
+            "displayName": "Gon Freecss — Cozy Fan Art",
+            "description": "Unofficial Gon Freecss fan-art animated companion from Hunter × Hunter, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3014,6 +3014,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "siamese-chai",
+            "path": "siamese-chai",
+            "displayName": "Siamese Chai",
+            "description": "An elegant cream-and-seal Siamese with clear blue eyes. Chai is an inquisitive companion who enjoys a good puzzle and a thoughtful pause.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

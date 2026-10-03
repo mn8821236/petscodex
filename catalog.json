@@ -4741,6 +4741,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-power",
+            "path": "cozy-power",
+            "displayName": "Power — Cozy Fan Art",
+            "description": "Unofficial Power fan-art animated companion from Chainsaw Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

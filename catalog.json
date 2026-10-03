@@ -5599,6 +5599,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ezio-auditore",
+            "path": "cozy-ezio-auditore",
+            "displayName": "埃齐奥·奥迪托雷 Ezio Auditore",
+            "description": "Unofficial fan-art Ezio Auditore companion inspired by Assassin's Creed II. Simplified costume and original nine-state choreography feature hood checks, a safe low-rail vault, unfurling a city map, map-roll recovery, and",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

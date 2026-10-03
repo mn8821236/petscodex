@@ -4048,6 +4048,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kingfisher-creek",
+            "path": "cozy-kingfisher-creek",
+            "displayName": "翠鸟溪溪 Kingfisher Creek",
+            "description": "An original cobalt-and-orange kingfisher whose focused head bobs, pointed-bill tracking, quick wing greeting and feather shakes bring nine expressive bird animations to life.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

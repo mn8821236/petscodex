@@ -3993,6 +3993,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-budgie-mintwing",
+            "path": "cozy-budgie-mintwing",
+            "displayName": "虎皮鹦鹉薄荷翼 Budgie Mintwing",
+            "description": "An original mint-green budgie with scalloped wing markings, a cheerful head-bobbing chatter and a playful sidestep greeting.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

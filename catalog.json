@@ -4037,6 +4037,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-son-goku",
+            "path": "cozy-son-goku",
+            "displayName": "Son Goku — Cozy Fan Art",
+            "description": "Unofficial Son Goku fan-art animated companion from Dragon Ball, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

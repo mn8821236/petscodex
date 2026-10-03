@@ -3718,6 +3718,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-donkey-thistle",
+            "path": "cozy-donkey-thistle",
+            "displayName": "小毛驴蓟花 Donkey Thistle",
+            "description": "Thistle is a curious gray donkey with expressive long ears and a tufted tail, greeting with ear flicks, sniffing out surprises and taking cheerful little hops.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

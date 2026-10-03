@@ -4477,6 +4477,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-compile-golem-pebble",
+            "path": "cozy-compile-golem-pebble",
+            "displayName": "编译石头人 Compile Golem Pebble",
+            "description": "A gentle little stone golem with mossy eyebrows and warm amber eyes. Pebble settles its stacked blocks, takes determined heavy steps, readjusts its shoulder stones, and peeks into a softly glowing chest seam.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

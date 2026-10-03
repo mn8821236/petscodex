@@ -3135,6 +3135,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-chica",
+            "path": "cozy-chica",
+            "displayName": "奇卡 Chica",
+            "description": "Unofficial Chica fan-art animated companion from Five Nights at Freddy's, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

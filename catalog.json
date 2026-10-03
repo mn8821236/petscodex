@@ -2893,6 +2893,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-capoo",
+            "path": "cozy-capoo",
+            "displayName": "咖波 Capoo",
+            "description": "Unofficial Capoo fan-art animated companion from Bugcat Capoo, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

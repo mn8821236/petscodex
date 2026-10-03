@@ -4081,6 +4081,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-piccolo",
+            "path": "cozy-piccolo",
+            "displayName": "Piccolo — Cozy Fan Art",
+            "description": "Unofficial Piccolo fan-art animated companion from Dragon Ball, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

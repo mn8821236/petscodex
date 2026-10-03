@@ -3685,6 +3685,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mini-goat-clover",
+            "path": "cozy-mini-goat-clover",
+            "displayName": "小山羊苜蓿 Mini Goat Clover",
+            "description": "Clover is a caramel-and-white goat kid who nibbles clover, greets with a little horn bow, paws impatiently and investigates every curiosity with a tilted head.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

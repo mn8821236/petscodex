@@ -3542,6 +3542,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "frenchie-dumpling",
+            "path": "frenchie-dumpling",
+            "displayName": "Frenchie Dumpling",
+            "description": "A squishy fawn French bulldog with wonderful bat ears. Dumpling offers funny little expressions, steady company, and a warm welcome.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

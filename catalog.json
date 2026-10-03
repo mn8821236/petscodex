@@ -4851,6 +4851,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-fern",
+            "path": "cozy-fern",
+            "displayName": "Fern — Cozy Fan Art",
+            "description": "Unofficial Fern fan-art animated companion from Frieren: Beyond Journey’s End, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

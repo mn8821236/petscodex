@@ -5423,6 +5423,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sans",
+            "path": "cozy-sans",
+            "displayName": "Sans — Cozy Fan Art",
+            "description": "Unofficial Sans fan-art animated companion from Undertale, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

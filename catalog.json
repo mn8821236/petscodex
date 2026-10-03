@@ -5753,6 +5753,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cloud-strife",
+            "path": "cozy-cloud-strife",
+            "displayName": "Cloud Strife — Cozy Fan Art",
+            "description": "Unofficial Cloud Strife fan-art animated companion from Final Fantasy VII, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

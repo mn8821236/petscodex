@@ -3938,6 +3938,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-puffin-harbor",
+            "path": "cozy-puffin-harbor",
+            "displayName": "海鹦港湾 Puffin Harbor",
+            "description": "An original Atlantic puffin who waddles on orange webbed feet, wiggles short wings, rubs its striped bill and makes tiny flapping hops.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

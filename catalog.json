@@ -3256,6 +3256,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cinnamoroll-swirl",
+            "path": "cinnamoroll-swirl",
+            "displayName": "Cinnamoroll Swirl",
+            "description": "Unofficial Cinnamoroll fan-art desktop companion with long white ears, blue eyes and a curled tail. Brings soft waves, airy jumps, thoughtful pauses and friendly work company. Not affiliated with or endorsed by the chara",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

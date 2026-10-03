@@ -3102,6 +3102,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "blueberry-tapir",
+            "path": "blueberry-tapir",
+            "displayName": "Blueberry Tapir",
+            "description": "An original gray-blue tapir with a cream saddle, soft little snout and plum bow tie. Blueberry Tapir offers gentle waves, bouncy jumps, patient thought and cozy laptop company for your desktop.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

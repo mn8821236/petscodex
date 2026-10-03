@@ -4169,6 +4169,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hisoka",
+            "path": "cozy-hisoka",
+            "displayName": "Hisoka — Cozy Fan Art",
+            "description": "Unofficial fan-art animated pet of Hisoka from Hunter x Hunter, preserving his magenta hair, asymmetric face markings and iconic card-suit outfit across nine expressive states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

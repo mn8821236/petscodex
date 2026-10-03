@@ -2541,6 +2541,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-albedo",
+            "path": "cozy-albedo",
+            "displayName": "阿贝多 Albedo",
+            "description": "Unofficial Albedo fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

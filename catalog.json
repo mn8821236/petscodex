@@ -3927,6 +3927,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sanji",
+            "path": "cozy-sanji",
+            "displayName": "Sanji — Cozy Fan Art",
+            "description": "Unofficial Sanji fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

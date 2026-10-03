@@ -5060,6 +5060,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sailor-jupiter",
+            "path": "cozy-sailor-jupiter",
+            "displayName": "Sailor Jupiter — Cozy Fan Art",
+            "description": "Unofficial Sailor Jupiter fan-art animated companion from Sailor Moon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3476,6 +3476,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "hedgehog-rockstar",
+            "path": "hedgehog-rockstar",
+            "displayName": "Hedgehog Rockstar",
+            "description": "A cinnamon hedgehog with a red electric guitar and a soft spiky mohawk. Rockstar brings upbeat energy, expressive riffs, and a can-do attitude.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -5335,6 +5335,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sebastian-michaelis",
+            "path": "cozy-sebastian-michaelis",
+            "displayName": "塞巴斯蒂安·米卡利斯 Sebastian Michaelis",
+            "description": "Unofficial Sebastian Michaelis fan-art companion from Black Butler, featuring careful tea service, a white-glove bow, and a gentle cat greeting across nine original animated states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

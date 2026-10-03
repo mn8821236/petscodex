@@ -5489,6 +5489,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kuriboh",
+            "path": "cozy-kuriboh",
+            "displayName": "栗子球 Kuriboh",
+            "description": "Unofficial Kuriboh fan-art animated companion from Yu-Gi-Oh!, with shaggy fur puffing, playful rolls, green-claw squash-and-bounce movement and careful miniature card inspection across nine animated states. Independently",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

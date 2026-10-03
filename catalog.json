@@ -4884,6 +4884,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-frieza",
+            "path": "cozy-frieza",
+            "displayName": "Frieza — Cozy Fan Art",
+            "description": "Unofficial Frieza fan-art animated companion from Dragon Ball, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

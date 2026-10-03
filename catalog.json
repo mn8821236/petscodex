@@ -3410,6 +3410,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pomodoro-tomato-tick",
+            "path": "cozy-pomodoro-tomato-tick",
+            "displayName": "番茄时钟滴答 Pomodoro Tomato Tick",
+            "description": "An original cheerful tomato-shaped kitchen timer companion with a leafy crown, a cream dial band and lively little red shoes.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

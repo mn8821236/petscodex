@@ -2948,6 +2948,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "totoro-pebble",
+            "path": "totoro-pebble",
+            "displayName": "Totoro Pebble",
+            "description": "Unofficial Totoro fan-art desktop companion, with a soft gray silhouette and familiar cream chevron belly. Includes friendly waves, springy jumps, patient thinking and focused work. Not affiliated with or endorsed by the",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

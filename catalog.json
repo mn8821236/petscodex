@@ -2618,6 +2618,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-maltese-snowbell",
+            "path": "cozy-maltese-snowbell",
+            "displayName": "马尔济斯雪铃 Maltese Snowbell",
+            "description": "Original Maltese Snowbell desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4653,6 +4653,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-loid-forger",
+            "path": "cozy-loid-forger",
+            "displayName": "Loid Forger — Cozy Fan Art",
+            "description": "Unofficial Loid Forger fan-art animated companion from SPY x FAMILY, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

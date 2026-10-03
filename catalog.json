@@ -3465,6 +3465,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hamster-oat",
+            "path": "cozy-hamster-oat",
+            "displayName": "仓鼠燕麦 Hamster Oat",
+            "description": "Oat is an original golden hamster with plump cheeks, a cream belly and curious pink paws, brought to life through cozy naps, quick scampers and playful tumbles.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

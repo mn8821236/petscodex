@@ -2860,6 +2860,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "maple-fox",
+            "path": "maple-fox",
+            "displayName": "Maple Fox",
+            "description": "An original russet woodland fox in a teal bandana, with dark socks and an elegant white-tipped tail. Maple Fox keeps company through cheerful waves, lively jumps, quiet thinking and focused work.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

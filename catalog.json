@@ -2387,6 +2387,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-megurine-luka",
+            "path": "cozy-megurine-luka",
+            "displayName": "巡音流歌 Megurine Luka",
+            "description": "Unofficial Megurine Luka fan-art animated companion from VOCALOID. Original character colors and nine expressive animation states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -2574,6 +2574,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jake",
+            "path": "cozy-jake",
+            "displayName": "杰克 Jake",
+            "description": "Unofficial Jake fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

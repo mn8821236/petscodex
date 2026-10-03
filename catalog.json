@@ -4840,6 +4840,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-frieren",
+            "path": "cozy-frieren",
+            "displayName": "Frieren — Cozy Fan Art",
+            "description": "Unofficial Frieren fan-art animated companion from Frieren: Beyond Journey’s End, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

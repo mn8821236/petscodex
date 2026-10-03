@@ -2431,6 +2431,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-klee",
+            "path": "cozy-klee",
+            "displayName": "可莉 Klee",
+            "description": "Unofficial Klee fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

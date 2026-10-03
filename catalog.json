@@ -2959,6 +2959,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "panda-bamboo",
+            "path": "panda-bamboo",
+            "displayName": "Panda Bamboo",
+            "description": "A round panda cub with a bamboo-leaf tuft and jade vest. Bamboo is a cheerful little gardener who puts patient care into every task.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4510,6 +4510,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mikasa-ackerman",
+            "path": "cozy-mikasa-ackerman",
+            "displayName": "Mikasa Ackerman — Cozy Fan Art",
+            "description": "Unofficial Mikasa Ackerman fan-art animated companion from Attack on Titan, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

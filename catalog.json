@@ -2442,6 +2442,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ayaka",
+            "path": "cozy-ayaka",
+            "displayName": "神里绫华 Kamisato Ayaka",
+            "description": "Unofficial Kamisato Ayaka fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

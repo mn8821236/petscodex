@@ -5555,6 +5555,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-yugi-muto",
+            "path": "cozy-yugi-muto",
+            "displayName": "武藤游戏 Yugi Muto",
+            "description": "Unofficial Yugi Muto fan-art animated companion from Yu-Gi-Oh!, with card fanning, Millennium Puzzle gestures, hinged Duel Disk inspection and energetic articulated running across nine states. Independently drawn fan art",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

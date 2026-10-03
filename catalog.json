@@ -3223,6 +3223,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "husky-frost",
+            "path": "husky-frost",
+            "displayName": "Husky Frost",
+            "description": "A silver-and-white husky with ice-blue eyes and a lively curled tail. Frost brings alert focus and a playful spark to your day.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

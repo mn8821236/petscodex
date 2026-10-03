@@ -3905,6 +3905,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-toucan-mango",
+            "path": "cozy-toucan-mango",
+            "displayName": "巨嘴鸟芒果 Toucan Mango",
+            "description": "An original bright-billed toucan who greets with beak clacks, preens its feathers, tilts its head and takes little flapping hops.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

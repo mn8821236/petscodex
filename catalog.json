@@ -5577,6 +5577,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rex-raptor",
+            "path": "cozy-rex-raptor",
+            "displayName": "龙崎 Rex Raptor",
+            "description": "Unofficial Rex Raptor fan-art animated companion from Yu-Gi-Oh!, with dinosaur-model play, red-beanie adjustments, card recovery and energetic running across nine animated states. Independently drawn fan art; not affilia",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

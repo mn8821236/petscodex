@@ -5313,6 +5313,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-amy-rose",
+            "path": "cozy-amy-rose",
+            "displayName": "Amy Rose — Cozy Fan Art",
+            "description": "Unofficial Amy Rose fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4356,6 +4356,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-snail-dew",
+            "path": "cozy-snail-dew",
+            "displayName": "露珠蜗牛 Snail Dew",
+            "description": "An original cream garden snail with an amber spiral shell, curious stretching eyestalks, a rippling soft foot, and a shy peek from its shell.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

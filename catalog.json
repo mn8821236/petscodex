@@ -3597,6 +3597,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "disco-alpaca",
+            "path": "disco-alpaca",
+            "displayName": "Disco Alpaca",
+            "description": "A cream alpaca in violet shades and a shimmering flared jumpsuit. Disco brings joyful dance-floor energy and a little sparkle to every completed task.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3300,6 +3300,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-monika",
+            "path": "cozy-monika",
+            "displayName": "莫妮卡 Monika",
+            "description": "Unofficial Monika fan-art animated companion from Doki Doki Literature Club, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4983,6 +4983,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sailor-mercury",
+            "path": "cozy-sailor-mercury",
+            "displayName": "Sailor Mercury — Cozy Fan Art",
+            "description": "Unofficial Sailor Mercury fan-art animated companion from Sailor Moon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

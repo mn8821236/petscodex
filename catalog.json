@@ -4400,6 +4400,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-satoru-gojo",
+            "path": "cozy-satoru-gojo",
+            "displayName": "Satoru Gojo — Cozy Fan Art",
+            "description": "Unofficial Satoru Gojo fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

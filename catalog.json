@@ -2376,6 +2376,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-agumon",
+            "path": "cozy-agumon",
+            "displayName": "亚古兽 Agumon",
+            "description": "Unofficial Agumon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4235,6 +4235,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sea-horse-coral",
+            "path": "cozy-sea-horse-coral",
+            "displayName": "海马珊瑚 Sea Horse Coral",
+            "description": "An original coral-orange seahorse companion with fluttering fins, expressive snout bows, curling tail greetings and buoyant swimming motions.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

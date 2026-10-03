@@ -5830,6 +5830,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tifa-lockhart",
+            "path": "cozy-tifa-lockhart",
+            "displayName": "Tifa Lockhart — Cozy Fan Art",
+            "description": "Unofficial Tifa Lockhart fan-art animated companion from Final Fantasy VII, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

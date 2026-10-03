@@ -4763,6 +4763,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-saitama",
+            "path": "cozy-saitama",
+            "displayName": "Saitama — Cozy Fan Art",
+            "description": "Unofficial Saitama fan-art animated companion from One-Punch Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

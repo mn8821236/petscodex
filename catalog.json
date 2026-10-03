@@ -3553,6 +3553,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mikuo",
+            "path": "cozy-mikuo",
+            "displayName": "Mikuo",
+            "description": "Unofficial fan-art companion inspired by Mikuo, with short teal hair, a headset and teal-trimmed stage attire.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

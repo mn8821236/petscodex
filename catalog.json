@@ -2783,6 +2783,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "orbit-otter",
+            "path": "orbit-otter",
+            "displayName": "Orbit Otter",
+            "description": "A caramel otter space cadet in a navy flight jacket, bringing curious focus and a little orbital joy to your desktop.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

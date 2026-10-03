@@ -5082,6 +5082,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-inuyasha",
+            "path": "cozy-inuyasha",
+            "displayName": "Inuyasha — Cozy Fan Art",
+            "description": "Unofficial Inuyasha fan-art animated companion from Inuyasha, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

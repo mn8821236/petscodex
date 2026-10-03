@@ -4180,6 +4180,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-goose-honklet",
+            "path": "cozy-goose-honklet",
+            "displayName": "小鹅嘎嘎 Goose Honklet",
+            "description": "An original white goose who stretches its neck for a little honk, bows with open wings and rests its bill in soft back feathers.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

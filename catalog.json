@@ -5247,6 +5247,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sting-eucliffe",
+            "path": "cozy-sting-eucliffe",
+            "displayName": "斯汀·尤克利夫 Sting Eucliffe",
+            "description": "UNOFFICIAL FAN-ART Sting Eucliffe companion with soft light-ball play, confident collar flourishes, white-chocolate pauses and nine original animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3267,6 +3267,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "samoyed-puff",
+            "path": "samoyed-puff",
+            "displayName": "Samoyed Puff",
+            "description": "A smiling snow-white Samoyed with a cloud-soft coat. Puff stays cheerful, watches patiently, and adds a little warmth to your workspace.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

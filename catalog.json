@@ -5159,6 +5159,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-erza-scarlet",
+            "path": "cozy-erza-scarlet",
+            "displayName": "艾露莎·舒卡勒托 Erza Scarlet",
+            "description": "UNOFFICIAL FAN-ART Erza Scarlet companion with armor-clasp motions, gentle armor lights, strawberry-cake care and nine original animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

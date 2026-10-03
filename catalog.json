@@ -5005,6 +5005,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lapis-lazuli",
+            "path": "cozy-lapis-lazuli",
+            "displayName": "青金石 Lapis Lazuli",
+            "description": "Unofficial Lapis Lazuli fan-art companion with unfolding water wings, a playful orbiting water orb and a tiny rising water column.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

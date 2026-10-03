@@ -5863,6 +5863,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kratos",
+            "path": "cozy-kratos",
+            "displayName": "Kratos — Cozy Fan Art",
+            "description": "Unofficial Kratos fan-art animated companion from God of War, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3960,6 +3960,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cockatiel-lemoncrest",
+            "path": "cozy-cockatiel-lemoncrest",
+            "displayName": "玄凤鹦鹉柠冠 Cockatiel Lemoncrest",
+            "description": "An original cheerful cockatiel who raises its lemon crest to chirp, bows in greeting and preens its soft gray feathers.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

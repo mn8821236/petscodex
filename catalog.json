@@ -4257,6 +4257,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pufferfish-bubble",
+            "path": "cozy-pufferfish-bubble",
+            "displayName": "河豚泡泡 Pufferfish Bubble",
+            "description": "An original yellow pufferfish companion with a cream belly, soft rounded spines, cheerful fin waves and playful inflation animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

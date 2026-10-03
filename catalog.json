@@ -3729,6 +3729,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "naruto-uzumaki",
+            "path": "naruto-uzumaki",
+            "displayName": "Naruto Uzumaki",
+            "description": "Unofficial Naruto Uzumaki fan-art animated companion from Naruto, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -3124,6 +3124,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "maine-maple",
+            "path": "maine-maple",
+            "displayName": "Maine Maple",
+            "description": "A fluffy brown-tabby Maine Coon with tufted ears and a magnificent tail. Maple is a gentle, observant companion for ambitious projects.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

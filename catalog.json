@@ -5632,6 +5632,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pac-man",
+            "path": "cozy-pac-man",
+            "displayName": "Pac-Man — Cozy Fan Art",
+            "description": "Unofficial Pac-Man fan-art animated companion from Pac-Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

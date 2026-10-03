@@ -4136,6 +4136,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-killua-zoldyck",
+            "path": "cozy-killua-zoldyck",
+            "displayName": "Killua Zoldyck — Cozy Fan Art",
+            "description": "Unofficial fan-art animated pet of Killua Zoldyck from Hunter x Hunter, with silver hair, his white-and-navy outfit, and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

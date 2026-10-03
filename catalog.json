@@ -5379,6 +5379,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-undertaker",
+            "path": "cozy-undertaker",
+            "displayName": "葬仪屋 Undertaker",
+            "description": "Unofficial Undertaker fan-art companion from Black Butler, featuring a sleeve-hidden cookie trick, a quiet chuckle, and careful brass-key inspection across nine original animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

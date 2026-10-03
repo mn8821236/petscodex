@@ -4620,6 +4620,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shoto-todoroki",
+            "path": "cozy-shoto-todoroki",
+            "displayName": "Shoto Todoroki — Cozy Fan Art",
+            "description": "Unofficial Shoto Todoroki fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

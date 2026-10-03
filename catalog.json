@@ -3443,6 +3443,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-prompt-robot-puck",
+            "path": "cozy-prompt-robot-puck",
+            "displayName": "提示词机器人帕克 Prompt Robot Puck",
+            "description": "An original curious ivory robot companion with a dark face screen, warm golden eyes and a bright cyan antenna.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

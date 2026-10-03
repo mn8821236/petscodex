@@ -3454,6 +3454,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rabbit-mooncake",
+            "path": "cozy-rabbit-mooncake",
+            "displayName": "兔子月饼 Rabbit Mooncake",
+            "description": "An original soft cream rabbit with floppy pink ears, a fluffy round tail and a little golden crescent on its forehead.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

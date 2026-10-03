@@ -5236,6 +5236,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rogue-cheney",
+            "path": "cozy-rogue-cheney",
+            "displayName": "罗格·切尼 Rogue Cheney",
+            "description": "UNOFFICIAL FAN-ART Rogue Cheney companion with cloak reveals, gentle shadow ripples, a light-stone trick and nine original animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

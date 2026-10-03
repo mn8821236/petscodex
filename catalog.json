@@ -3146,6 +3146,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "calico-dot",
+            "path": "calico-dot",
+            "displayName": "Calico Dot",
+            "description": "A cheerful watercolor calico with warm patches and bright green eyes. Dot keeps you company through curious questions and happy discoveries.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

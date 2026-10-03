@@ -4972,6 +4972,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sailor-moon",
+            "path": "cozy-sailor-moon",
+            "displayName": "Sailor Moon — Cozy Fan Art",
+            "description": "Unofficial Sailor Moon fan-art animated companion from Sailor Moon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

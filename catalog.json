@@ -5192,6 +5192,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-yusuke-urameshi",
+            "path": "cozy-yusuke-urameshi",
+            "displayName": "Yusuke Urameshi — Cozy Fan Art",
+            "description": "Unofficial Yusuke Urameshi fan-art animated companion from Yu Yu Hakusho, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

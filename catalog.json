@@ -4422,6 +4422,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nobara-kugisaki",
+            "path": "cozy-nobara-kugisaki",
+            "displayName": "Nobara Kugisaki — Cozy Fan Art",
+            "description": "Unofficial Nobara Kugisaki fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

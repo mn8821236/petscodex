@@ -2453,6 +2453,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ia",
+            "path": "cozy-ia",
+            "displayName": "IA",
+            "description": "Unofficial IA fan-art animated companion from VOCALOID, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

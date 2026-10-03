@@ -5566,6 +5566,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-seto-kaiba",
+            "path": "cozy-seto-kaiba",
+            "displayName": "海马濑人 Seto Kaiba",
+            "description": "Unofficial Seto Kaiba fan-art animated companion from Yu-Gi-Oh!, featuring Duel Disk deployment, briefcase and high-collar gestures, careful card inspection and long-coat running across nine animated states. Independentl",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

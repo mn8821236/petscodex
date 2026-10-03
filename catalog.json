@@ -5214,6 +5214,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sonic",
+            "path": "cozy-sonic",
+            "displayName": "Sonic the Hedgehog — Cozy Fan Art",
+            "description": "Unofficial Sonic the Hedgehog fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

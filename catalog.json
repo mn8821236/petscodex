@@ -4268,6 +4268,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hermit-crab-teacup",
+            "path": "cozy-hermit-crab-teacup",
+            "displayName": "茶杯寄居蟹 Hermit Crab Teacup",
+            "description": "An original coral-red hermit crab carrying a blue-and-white teacup shelter, peeking out on curious eyestalks and greeting friends with one little claw.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

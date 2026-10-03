@@ -4576,6 +4576,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-database-tortoise-stack",
+            "path": "cozy-database-tortoise-stack",
+            "displayName": "数据库叠龟 Database Tortoise Stack",
+            "description": "A steady little tortoise carrying three teal data plates as its shell. Stack walks with deliberate steps, cycles its amber shell lights, stretches its neck in greeting, and checks the plates with a curious backward glanc",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

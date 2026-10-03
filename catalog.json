@@ -5324,6 +5324,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cuphead",
+            "path": "cozy-cuphead",
+            "displayName": "Cuphead — Cozy Fan Art",
+            "description": "Unofficial Cuphead fan-art animated companion from Cuphead, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

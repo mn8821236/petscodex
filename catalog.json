@@ -4158,6 +4158,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-duck-puddlefoot",
+            "path": "cozy-duck-puddlefoot",
+            "displayName": "鸭子水脚 Duck Puddlefoot",
+            "description": "An original green-headed duck who quacks and wags its tail, preens its chest feathers and tips its bill down to investigate.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

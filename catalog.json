@@ -3773,6 +3773,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-moose-spruce",
+            "path": "cozy-moose-spruce",
+            "displayName": "驼鹿云杉 Moose Spruce",
+            "description": "An original friendly brown moose with little palmate antlers, a broad muzzle and lively cloven-hoof steps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

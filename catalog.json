@@ -3872,6 +3872,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-roronoa-zoro",
+            "path": "cozy-roronoa-zoro",
+            "displayName": "Roronoa Zoro — Cozy Fan Art",
+            "description": "Unofficial Roronoa Zoro fan-art animated companion from One Piece, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

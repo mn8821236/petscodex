@@ -2662,6 +2662,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cicada-summer",
+            "path": "cozy-cicada-summer",
+            "displayName": "夏日蝉 Cicada Summer",
+            "description": "Original Cicada Summer desktop companion with a distinctive cozy design and nine expressive animations. Created by Cozy Critters Studio.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

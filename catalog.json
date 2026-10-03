@@ -3091,6 +3091,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "axolotl-bubblegum",
+            "path": "axolotl-bubblegum",
+            "displayName": "Axolotl Bubblegum",
+            "description": "A glossy pink axolotl with rosy gills and a lavender tail. Bubblegum brings buoyant optimism, little hops, and a friendly smile to your desktop.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

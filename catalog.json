@@ -5027,6 +5027,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-peridot",
+            "path": "cozy-peridot",
+            "displayName": "橄榄石 Peridot",
+            "description": "Unofficial Peridot fan-art companion with orbiting metal cubes, an impatient rotating tablet and a carefully straightened miniature tower.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

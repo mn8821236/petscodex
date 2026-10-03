@@ -5654,6 +5654,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-spyro",
+            "path": "cozy-spyro",
+            "displayName": "Spyro — Cozy Fan Art",
+            "description": "Unofficial Spyro fan-art animated companion from Spyro, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

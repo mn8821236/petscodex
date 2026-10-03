@@ -3850,6 +3850,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-armadillo-button",
+            "path": "cozy-armadillo-button",
+            "displayName": "犰狳纽扣 Armadillo Button",
+            "description": "An original golden armadillo who peeks from its armor, digs with tiny claws and curls into a little protective ball when surprised.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

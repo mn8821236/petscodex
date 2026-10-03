@@ -4345,6 +4345,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shrimp-crystal",
+            "path": "cozy-shrimp-crystal",
+            "displayName": "水晶虾 Shrimp Crystal",
+            "description": "An original rose-pink crystal shrimp with delicate sweeping antennae, tiny paddling legs and an elastic curling tail.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

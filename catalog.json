@@ -4774,6 +4774,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-genos",
+            "path": "cozy-genos",
+            "displayName": "Genos — Cozy Fan Art",
+            "description": "Unofficial Genos fan-art animated companion from One-Punch Man, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

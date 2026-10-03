@@ -5291,6 +5291,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-knuckles",
+            "path": "cozy-knuckles",
+            "displayName": "Knuckles the Echidna — Cozy Fan Art",
+            "description": "Unofficial Knuckles the Echidna fan-art animated companion from Sonic the Hedgehog, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

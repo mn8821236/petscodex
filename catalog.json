@@ -3883,6 +3883,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sloth-drift",
+            "path": "cozy-sloth-drift",
+            "displayName": "树懒慢慢 Sloth Drift",
+            "description": "An original sleepy sloth who yawns, stretches long clawed arms, scratches shaggy fur and takes gentle deliberate steps.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

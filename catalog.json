@@ -3179,6 +3179,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "penguin-pebble",
+            "path": "penguin-pebble",
+            "displayName": "Penguin Pebble",
+            "description": "A round penguin chick in a mustard beanie. Pebble waddles with determination, gives cheerful flipper waves, and keeps cool when work gets tricky.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

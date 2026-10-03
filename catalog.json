@@ -3234,6 +3234,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "whale-shark-stardot",
+            "path": "whale-shark-stardot",
+            "displayName": "Whale Shark Stardot",
+            "description": "A gentle little whale shark dotted like a night sky. Stardot glides through your desktop with calm curiosity and an eye for the big picture.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

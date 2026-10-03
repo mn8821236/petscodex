@@ -5434,6 +5434,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-papyrus",
+            "path": "cozy-papyrus",
+            "displayName": "Papyrus — Cozy Fan Art",
+            "description": "Unofficial Papyrus fan-art animated companion from Undertale, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

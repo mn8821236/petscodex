@@ -3344,6 +3344,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sayori",
+            "path": "cozy-sayori",
+            "displayName": "纱世里 Sayori",
+            "description": "Unofficial Sayori fan-art animated companion from Doki Doki Literature Club, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

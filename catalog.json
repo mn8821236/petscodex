@@ -5104,6 +5104,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-edward-elric",
+            "path": "cozy-edward-elric",
+            "displayName": "Edward Elric — Cozy Fan Art",
+            "description": "Unofficial Edward Elric fan-art animated companion from Fullmetal Alchemist, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

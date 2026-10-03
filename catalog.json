@@ -4367,6 +4367,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ladybug-polka",
+            "path": "cozy-ladybug-polka",
+            "displayName": "瓢虫波点 Ladybug Polka",
+            "description": "An original spotted red ladybug that opens its shiny wing covers, reveals delicate flight wings, tidies its antennae, and scuttles on six tiny legs.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

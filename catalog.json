@@ -3509,6 +3509,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "nutmeg-wombat",
+            "path": "nutmeg-wombat",
+            "displayName": "Nutmeg Wombat",
+            "description": "An original warm brown wombat with a broad little nose, tan belly and orange knitted scarf. Nutmeg Wombat brings cozy waves, sturdy little jumps, thoughtful pauses and focused desktop company.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

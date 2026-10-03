@@ -2321,6 +2321,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-venti",
+            "path": "cozy-venti",
+            "displayName": "温迪 Venti",
+            "description": "Unofficial Venti fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

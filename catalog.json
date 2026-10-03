@@ -4818,6 +4818,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-octane",
+            "path": "cozy-octane",
+            "displayName": "动力小子 Octane",
+            "description": "Unofficial Octane fan-art companion with restless mechanical-foot taps, goggle adjustments and playful mini jump-pad flips.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

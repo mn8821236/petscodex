@@ -2398,6 +2398,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kaito",
+            "path": "cozy-kaito",
+            "displayName": "KAITO",
+            "description": "Unofficial KAITO fan-art animated companion from VOCALOID. Original character colors and nine expressive animation states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

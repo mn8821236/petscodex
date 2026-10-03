@@ -5038,6 +5038,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ruby",
+            "path": "cozy-ruby",
+            "displayName": "红宝石 Ruby",
+            "description": "Unofficial Ruby fan-art companion with tiny palm sparks, an enthusiastic guard pose and an oversized-cap adjustment followed by a proud stance.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

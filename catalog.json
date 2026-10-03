@@ -2420,6 +2420,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kazuha",
+            "path": "cozy-kazuha",
+            "displayName": "枫原万叶 Kaedehara Kazuha",
+            "description": "Unofficial Kaedehara Kazuha fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

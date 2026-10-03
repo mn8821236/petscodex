@@ -4807,6 +4807,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bloodhound",
+            "path": "cozy-bloodhound",
+            "displayName": "寻血猎犬 Bloodhound",
+            "description": "Unofficial Bloodhound fan-art companion with a watchful raven, a compact wrist-scan greeting and careful crouching trail inspections.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -4796,6 +4796,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lifeline",
+            "path": "cozy-lifeline",
+            "displayName": "命脉 Lifeline",
+            "description": "Unofficial Lifeline fan-art companion with cheerful finger rhythms, a little medical-drone greeting and careful checks of its top panel.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

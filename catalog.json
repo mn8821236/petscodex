@@ -2915,6 +2915,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bonzi-buddy",
+            "path": "cozy-bonzi-buddy",
+            "displayName": "邦兹紫猩猩 BonziBuddy",
+            "description": "Unofficial BonziBuddy fan-art animated companion from BonziBuddy, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

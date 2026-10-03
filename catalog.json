@@ -3025,6 +3025,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bichon-cotton",
+            "path": "cozy-bichon-cotton",
+            "displayName": "比熊棉花 Bichon Cotton",
+            "description": "Original fluffy bichon companion with a round cloud of curls, a lavender collar, and a playful four-pawed bounce.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

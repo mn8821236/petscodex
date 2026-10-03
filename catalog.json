@@ -2673,6 +2673,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-fionna",
+            "path": "cozy-fionna",
+            "displayName": "菲奥娜 Fionna",
+            "description": "Unofficial Fionna fan-art animated companion from Adventure Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

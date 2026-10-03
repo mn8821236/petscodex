@@ -2981,6 +2981,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "fennec-sanddrop",
+            "path": "fennec-sanddrop",
+            "displayName": "Fennec Sanddrop",
+            "description": "A bright-eyed fennec fox with oversized ears and a turquoise scarf. Sanddrop is an adventurous desert daydreamer who listens closely and leaps into new ideas.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

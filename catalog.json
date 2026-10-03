@@ -4433,6 +4433,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ryomen-sukuna",
+            "path": "cozy-ryomen-sukuna",
+            "displayName": "Ryomen Sukuna — Cozy Fan Art",
+            "description": "Unofficial Ryomen Sukuna fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

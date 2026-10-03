@@ -3894,6 +3894,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lemur-ringtail",
+            "path": "cozy-lemur-ringtail",
+            "displayName": "环尾狐猴圈圈 Lemur Ringtail",
+            "description": "An original ring-tailed lemur who balances with a striped tail, grooms its fur, sniffs curiously and bounds on four paws.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

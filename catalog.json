@@ -5368,6 +5368,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mey-rin",
+            "path": "cozy-mey-rin",
+            "displayName": "梅琳 Mey-Rin",
+            "description": "Unofficial Mey-Rin fan-art companion from Black Butler, featuring careful plate balancing, a shy glasses-adjusting bow, and tidy cloth-and-tray routines in nine original animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

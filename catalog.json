@@ -3399,6 +3399,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "poodle-poppy",
+            "path": "poodle-poppy",
+            "displayName": "Poodle Poppy",
+            "description": "An apricot poodle with fluffy curls and a cheerful pompon tail. Poppy brings bright ideas, careful attention, and playful encouragement.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

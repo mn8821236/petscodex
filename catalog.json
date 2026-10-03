@@ -4312,6 +4312,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-giyu-tomioka",
+            "path": "cozy-giyu-tomioka",
+            "displayName": "Giyu Tomioka — Cozy Fan Art",
+            "description": "Unofficial Giyu Tomioka fan-art animated companion from Demon Slayer, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

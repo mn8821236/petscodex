@@ -2277,6 +2277,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-herta-puppet",
+            "path": "cozy-herta-puppet",
+            "displayName": "黑塔人偶 Herta Puppet",
+            "description": "Unofficial Herta Puppet fan-art animated companion from Honkai Star Rail, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

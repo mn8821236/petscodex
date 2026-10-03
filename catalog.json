@@ -5764,6 +5764,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sephiroth",
+            "path": "cozy-sephiroth",
+            "displayName": "Sephiroth — Cozy Fan Art",
+            "description": "Unofficial Sephiroth fan-art animated companion from Final Fantasy VII, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

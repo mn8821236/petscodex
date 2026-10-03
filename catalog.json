@@ -3619,6 +3619,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "clover-okapi",
+            "path": "clover-okapi",
+            "displayName": "Clover Okapi",
+            "description": "An original chestnut okapi with bright cream leg stripes, big rounded ears and a jade-green bow. Clover Okapi trots, waves, leaps and thinks things through as a friendly desktop companion.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

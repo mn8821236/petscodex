@@ -3586,6 +3586,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "mint-manatee",
+            "path": "mint-manatee",
+            "displayName": "Mint Manatee",
+            "description": "An original seafoam-green manatee with a whiskered muzzle, broad paddle tail and coral neckerchief. Mint Manatee glides through the desktop, waves a friendly flipper, leaps with joy and settles into focused work.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

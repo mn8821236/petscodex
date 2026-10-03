@@ -4444,6 +4444,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-eren-yeager",
+            "path": "cozy-eren-yeager",
+            "displayName": "Eren Yeager — Cozy Fan Art",
+            "description": "Unofficial Eren Yeager fan-art animated companion from Attack on Titan, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

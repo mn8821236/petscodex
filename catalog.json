@@ -6754,6 +6754,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pomni",
+            "path": "cozy-pomni",
+            "displayName": "帕姆尼 Pomni",
+            "description": "Unofficial Pomni fan-art companion from The Amazing Digital Circus. Original gentle choreography includes untangling a soft ribbon, inspecting an empty frame, stacking soft rings, a hat-bouncing jump and articulated dire",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

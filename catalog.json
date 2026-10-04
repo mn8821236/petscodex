@@ -6545,6 +6545,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-karamatsu-matsuno",
+            "path": "cozy-karamatsu-matsuno",
+            "displayName": "松野空松 Karamatsu Matsuno",
+            "description": "Unofficial adult Karamatsu Matsuno fan-art companion from Osomatsu-san. Original animation features adjusting sunglasses, a short miniature-guitar performance, posing with his blue hoodie, an awkward pose recovery, patie",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

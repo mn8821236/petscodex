@@ -6622,6 +6622,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ulquiorra-cifer",
+            "path": "cozy-ulquiorra-cifer",
+            "displayName": "乌尔奇奥拉·西法 Ulquiorra Cifer",
+            "description": "Unofficial Ulquiorra Cifer fan-art companion inspired by Bleach, with original leaf handling, collar-tidying, book care and running animations. The ordinary Arrancar appearance retains the physical left head fragment and",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

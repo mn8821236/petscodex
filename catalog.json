@@ -6699,6 +6699,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pipo-monkey",
+            "path": "cozy-pipo-monkey",
+            "displayName": "哔波猴 Pipo Monkey",
+            "description": "Unofficial Pipo Monkey fan-art companion inspired by Ape Escape. Independently drawn helmet-alert poses, banana hide-and-reveal, banana-catch recovery, cautious tiptoe inspection and low-center long-arm running. No offic",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6908,6 +6908,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sayu",
+            "path": "cozy-sayu",
+            "displayName": "早柚 Sayu",
+            "description": "Unofficial Sayu fan-art animated companion from Genshin Impact. Original gentle leaf-fan, height-check, sleepy-rest and leaf-tidying animations with articulated little running steps. Full opaque leggings are a modest des",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

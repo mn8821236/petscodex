@@ -6270,6 +6270,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rigby",
+            "path": "cozy-rigby",
+            "displayName": "瑞格比 Rigby",
+            "description": "Unofficial Rigby fan art from Regular Show. This brown raccoon companion taps a game controller, steadies a miniature bin with his striped tail, and peeks around empty snack bags. Includes independently drawn two-legged ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6226,6 +6226,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-duo-duolingo",
+            "path": "cozy-duo-duolingo",
+            "displayName": "多儿 Duo",
+            "description": "Unofficial Duo fan art inspired by the Duolingo owl. This green companion sorts abstract learning cards, celebrates with expressive wing-and-foot choreography, hugs a small star and patiently looks around. Original nine-",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6182,6 +6182,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-evangelion-unit-01",
+            "path": "cozy-evangelion-unit-01",
+            "displayName": "EVA初号机 Evangelion Unit-01",
+            "description": "Unofficial Evangelion Unit-01 fan-art companion, styled after the normal fully restrained TV-series purple and green armored form. Original close-coiled power-plug checks, shoulder-panel adjustment and gentle paper-plane",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

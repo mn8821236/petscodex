@@ -6644,6 +6644,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-japan-kiku-honda",
+            "path": "cozy-japan-kiku-honda",
+            "displayName": "日本（本田菊） Japan (Kiku Honda)",
+            "description": "Unofficial fan art of Japan (Kiku Honda) from Hetalia. A fully clothed companion folding and carefully repairing a paper crane, brushing a miniature bonsai, aligning a teacup tray, waiting politely, making a small cushio",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

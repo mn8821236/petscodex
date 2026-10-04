@@ -6930,6 +6930,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bloodseeker",
+            "path": "cozy-bloodseeker",
+            "displayName": "血魔 Bloodseeker",
+            "description": "Unofficial Bloodseeker fan-art companion from Dota 2. Fully closed opaque clothing and rounded padded equipment are original gentle desktop adaptations. Nine states feature paper-flower curiosity, strap checks, harmless ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

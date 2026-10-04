@@ -6831,6 +6831,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tardigrade-mossdrop",
+            "path": "cozy-tardigrade-mossdrop",
+            "displayName": "苔露水熊 Tardigrade Mossdrop",
+            "description": "Original Tardigrade Mossdrop animated companion by Cozy Critters Studio, designed with a pale moss-green segmented body, four pairs of short lobopod legs and cream claw tips. Original nine-state choreography includes pha",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6798,6 +6798,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-the-chosen-one",
+            "path": "cozy-the-chosen-one",
+            "displayName": "天选之子 The Chosen One",
+            "description": "Unofficial The Chosen One fan-art companion from Animator vs. Animation. Original gentle desktop choreography includes lifting a blank window-shaped panel, drawing and stepping through a harmless light ring, tidying smal",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

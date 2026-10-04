@@ -6149,6 +6149,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wheatley",
+            "path": "cozy-wheatley",
+            "displayName": "惠特利 Wheatley",
+            "description": "Unofficial Wheatley fan-art companion from Portal 2. Original curved-handle antenna adjustments, blue iris greeting and handle-assisted rolling recovery. Rolling and handle-spring hopping are original desktop adaptations",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7106,6 +7106,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jyushimatsu-matsuno",
+            "path": "cozy-jyushimatsu-matsuno",
+            "displayName": "松野十四松 Jyushimatsu Matsuno",
+            "description": "Unofficial Jyushimatsu Matsuno fan-art companion inspired by Osomatsu-san, using the familiar yellow hoodie and blue shorts version with opaque leggings as a modest desktop adaptation. Original energetic soft-ball, paper",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7051,6 +7051,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-the-noise",
+            "path": "cozy-the-noise",
+            "displayName": "诺伊斯 The Noise",
+            "description": "Unofficial The Noise fan-art animated companion inspired by Pizza Tower. Original harmless choreography includes small-skateboard practice, a toy loudhailer with a paper note, a covered spring toy, expressive waiting and",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

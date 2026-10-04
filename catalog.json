@@ -6886,6 +6886,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ghost-face",
+            "path": "cozy-ghost-face",
+            "displayName": "鬼脸 Ghost Face",
+            "description": "Unofficial Ghost Face fan-art animated costume companion inspired by the familiar Fun World mask and hooded robe. Friendly original toy-phone tidying, smile-card reveal and hood-care animations, with visible two-foot mov",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

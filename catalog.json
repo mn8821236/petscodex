@@ -6776,6 +6776,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lord-death",
+            "path": "cozy-lord-death",
+            "displayName": "死神大人 Lord Death",
+            "description": "Unofficial Lord Death fan-art companion from Soul Eater, depicting the friendly academy headmaster. Original gentle choreography includes aligning and stamping small exercise books, folding a paper star into a paper ball",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

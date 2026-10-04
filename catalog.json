@@ -6061,6 +6061,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pingu",
+            "path": "cozy-pingu",
+            "displayName": "小企鹅 Pingu",
+            "description": "Unofficial fan-art animated companion inspired by Pingu. Smooth clay-style penguin poses feature a trumpet-like beak call, a compact belly-slide-to-flipper greeting, careful snowball shaping and balancing, a gentle snowb",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

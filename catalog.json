@@ -5896,6 +5896,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bayonetta",
+            "path": "cozy-bayonetta",
+            "displayName": "Bayonetta — Cozy Fan Art",
+            "description": "Unofficial Bayonetta fan-art animated companion from Bayonetta, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

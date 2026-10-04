@@ -7161,6 +7161,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-germany-hetalia",
+            "path": "cozy-germany-hetalia",
+            "displayName": "德国（黑塔利亚） Germany (Hetalia)",
+            "description": "Unofficial Germany fan-art companion from Hetalia, using the modern navy business-suit character design with adapted plain dress shoes. Original book-arranging, paper-cookie tray and soft toy dog choreography, calm waiti",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

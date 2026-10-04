@@ -6259,6 +6259,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mordecai",
+            "path": "cozy-mordecai",
+            "displayName": "摩迪凯 Mordecai",
+            "description": "Unofficial Mordecai fan art inspired by Regular Show. The blue-jay-like companion rakes a tiny leaf pile, taps a miniature keyboard, recovers from a mistimed note and takes a careful cup break. Original nine-state choreo",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6787,6 +6787,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-peppino-spaghetti",
+            "path": "cozy-peppino-spaghetti",
+            "displayName": "佩皮诺·斯帕盖蒂 Peppino Spaghetti",
+            "description": "Unofficial Peppino Spaghetti fan-art companion from Pizza Tower in a rounded comic desktop adaptation. Original gentle kitchen choreography includes stretching and tossing soft dough onto a plate, balancing empty pizza b",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

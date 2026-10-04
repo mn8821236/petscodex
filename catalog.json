@@ -6611,6 +6611,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-grimmjow-jaegerjaquez",
+            "path": "cozy-grimmjow-jaegerjaquez",
+            "displayName": "葛力姆乔·贾卡杰克 Grimmjow Jaegerjaquez",
+            "description": "Unofficial Grimmjow Jaegerjaquez fan-art companion inspired by Bleach, with original toy-ball handling, jacket-tidying, toy-wheel care and athletic running animations. The right-cheek jaw fragment stays physically consis",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

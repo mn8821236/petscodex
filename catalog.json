@@ -5951,6 +5951,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tom-eddsworld",
+            "path": "cozy-tom-eddsworld",
+            "displayName": "汤姆（艾德的世界） Tom (Eddsworld)",
+            "description": "Unofficial Tom (Eddsworld) fan-art companion with bass plucking, pick gestures and checker-shoe footwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

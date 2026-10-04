@@ -6325,6 +6325,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rimuru-tempest",
+            "path": "cozy-rimuru-tempest",
+            "displayName": "利姆露·特恩佩斯特 Rimuru Tempest",
+            "description": "Unofficial Rimuru Tempest fan art from That Time I Got Reincarnated as a Slime, exclusively in pale-blue slime form. The limbless companion catches a water drop, gently pockets and releases a smooth pebble, and balances ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

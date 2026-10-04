@@ -7183,6 +7183,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-france-hetalia",
+            "path": "cozy-france-hetalia",
+            "displayName": "法国（黑塔利亚） France (Hetalia)",
+            "description": "Unofficial France fan-art companion from Hetalia, using the modern navy suit, tan waistcoat and red tie with adapted plain dark shoes. Original miniature dress-form and ribbon care, flower painting, paper-rose gestures, ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

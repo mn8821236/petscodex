@@ -6127,6 +6127,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cirno",
+            "path": "cozy-cirno",
+            "displayName": "琪露诺 Cirno",
+            "description": "Unofficial fan art of Cirno from Touhou Project, drawn as a childlike ice fairy with blue hair and bow, a blue-and-white dress, opaque white tights and six angular crystalline wing branches. Nine animations feature a pal",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

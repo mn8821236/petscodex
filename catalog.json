@@ -6688,6 +6688,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-go-gopher",
+            "path": "cozy-go-gopher",
+            "displayName": "Go地鼠 Go Gopher",
+            "description": "Unofficial Go Gopher fan-art animated companion, based on the familiar blue mascot created by Renee French. Original bracket-block alignment, colorful soft-cord sorting, short-foot running and nose-check choreography; po",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

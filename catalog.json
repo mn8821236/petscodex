@@ -6457,6 +6457,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-napstablook",
+            "path": "cozy-napstablook",
+            "displayName": "纳普斯特布鲁克 Napstablook",
+            "description": "Unofficial Napstablook fan-art animated companion inspired by Undertale. Original legless ectoplasmic wave propulsion, hat-conjuring, headphone sways and record-care choreography. Temporary small side lobes for handling ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

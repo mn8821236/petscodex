@@ -6248,6 +6248,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aku",
+            "path": "cozy-aku",
+            "displayName": "阿库 Aku",
+            "description": "Unofficial Aku fan art inspired by Samurai Jack. A compact horned shapeshifter animates his flame-like brows, reshapes one hand into a harmless little shadow bird, smooths his red beard and calmly folds his arms. Origina",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

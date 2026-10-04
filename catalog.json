@@ -6050,6 +6050,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-doraemon",
+            "path": "cozy-doraemon",
+            "displayName": "哆啦A梦 Doraemon",
+            "description": "Unofficial fan-art animated companion inspired by Doraemon. The earless round blue robot cat enjoys dorayaki, displays a bamboo-copter, inspects a palm-sized pink Anywhere Door, searches his pocket for harmless gadgets, ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

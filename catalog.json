@@ -6303,6 +6303,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nailoong",
+            "path": "cozy-nailoong",
+            "displayName": "奶龙 Nailoong",
+            "description": "Unofficial Nailoong fan art with a rounded yellow alien-dragon design and softly shaded toy-like rendering. This companion slurps noodles, pats its belly, and uses a little stool to settle with a snack. Nine states inclu",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

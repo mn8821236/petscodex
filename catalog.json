@@ -6567,6 +6567,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-orihime-inoue",
+            "path": "cozy-orihime-inoue",
+            "displayName": "井上织姬 Orihime Inoue",
+            "description": "Unofficial Orihime Inoue fan-art companion inspired by Bleach, with original flower-clip checks, bread-sharing, soft light-bubble and jogging animations. The pale long-sleeved blouse, full charcoal trousers and closed fl",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

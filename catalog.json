@@ -5973,6 +5973,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-big-daddy",
+            "path": "cozy-big-daddy",
+            "displayName": "大老爹 Big Daddy",
+            "description": "Unofficial BioShock Big Daddy fan-art companion with helmet-light turns, gentle toy presentation and heavy-boot footwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

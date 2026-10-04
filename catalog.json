@@ -6578,6 +6578,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-renji-abarai",
+            "path": "cozy-renji-abarai",
+            "displayName": "阿散井恋次 Renji Abarai",
+            "description": "Unofficial Renji Abarai fan-art companion inspired by Bleach, with original ponytail-tying, headband-tidying, rounded bamboo balance and running animations. Early black robes, one white headband and simplified markings a",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

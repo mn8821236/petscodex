@@ -6105,6 +6105,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rx-78-2-gundam",
+            "path": "cozy-rx-78-2-gundam",
+            "displayName": "RX-78-2高达 RX-78-2 Gundam",
+            "description": "Unofficial fan art of RX-78-2 Gundam from Mobile Suit Gundam, with simplified white armor, blue chest, red feet, yellow vents and a left-arm shield. Nine animations include alternating mechanical runs, head-sensor checks",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

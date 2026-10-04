@@ -6402,6 +6402,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-getafix",
+            "path": "cozy-getafix",
+            "displayName": "帕诺拉米克斯 Getafix",
+            "description": "Unofficial Getafix fan-art animated companion inspired by Asterix. Original harmless cauldron-stirring, mistletoe-sorting and beard-care choreography with fully articulated druid run cycles; simplified robe and cape deta",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

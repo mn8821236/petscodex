@@ -6600,6 +6600,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sosuke-aizen",
+            "path": "cozy-sosuke-aizen",
+            "displayName": "蓝染惣右介 Sosuke Aizen",
+            "description": "Unofficial Sosuke Aizen fan-art companion inspired by Bleach, with original book care, abstract brushwork, tea and running animations. This stylized early bespectacled captain version uses simplified haori tailoring and ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

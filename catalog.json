@@ -6358,6 +6358,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lain-iwakura",
+            "path": "cozy-lain-iwakura",
+            "displayName": "岩仓玲音 Lain Iwakura",
+            "description": "Unofficial Lain Iwakura fan-art companion from Serial Experiments Lain, in a fully clothed bear-pajamas desktop adaptation. Original choreography includes lifting the bear hood, powering a small computer, coiling a data ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

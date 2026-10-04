@@ -6380,6 +6380,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kyojuro-rengoku",
+            "path": "cozy-kyojuro-rengoku",
+            "displayName": "炼狱杏寿郎 Kyojuro Rengoku",
+            "description": "Unofficial Kyojuro Rengoku fan-art companion from Demon Slayer: Kimetsu no Yaiba. Original friendly choreography features a bento meal, straightening the flame-edged haori, a small colorful paper pinwheel and carefully r",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

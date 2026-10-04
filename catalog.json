@@ -6963,6 +6963,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jax",
+            "path": "cozy-jax",
+            "displayName": "贾克斯 Jax",
+            "description": "Unofficial Jax fan-art companion from The Amazing Digital Circus. Nine original gentle comedy states include a paper-cup and separate-cloth trick, an ear-led greeting, behind-the-back token reveal, cup-edge recovery, lon",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

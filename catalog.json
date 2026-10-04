@@ -7172,6 +7172,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-england-hetalia",
+            "path": "cozy-england-hetalia",
+            "displayName": "英国（黑塔利亚） England (Hetalia)",
+            "description": "Unofficial England fan-art companion from Hetalia, using the modern taupe-gray business suit with adapted dark shoes. Original empty-teapot paper-flower trick, safe toy embroidery, a small soft glow, calm waiting, a hoop",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

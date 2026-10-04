@@ -6347,6 +6347,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kurisu-makise",
+            "path": "cozy-kurisu-makise",
+            "displayName": "牧濑红莉栖 Kurisu Makise",
+            "description": "Unofficial Kurisu Makise fan-art companion from Steins;Gate. Original animation shows a sealed harmless sample tube, notebook diagrams and a phone call with a tie adjustment, plus a page mishap, three articulated running",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

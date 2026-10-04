@@ -6853,6 +6853,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tux",
+            "path": "cozy-tux",
+            "displayName": "塔克斯企鹅 Tux",
+            "description": "Unofficial Tux fan-art animated companion inspired by the Linux mascot created by Larry Ewing. Independently drawn penguin animation with foot-tap salute, terminal-card presentation, card recovery, balance steps and thre",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

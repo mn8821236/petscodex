@@ -6446,6 +6446,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sabo",
+            "path": "cozy-sabo",
+            "displayName": "萨博 Sabo",
+            "description": "Unofficial Sabo fan-art animated companion inspired by One Piece, using a simplified adult Dressrosa-era outfit. Original hat-and-goggle adjustment, harmless palm-flame toast, cravat care and articulated hat-protecting r",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

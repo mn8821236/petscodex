@@ -6171,6 +6171,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hal-9000",
+            "path": "cozy-hal-9000",
+            "displayName": "哈尔9000 HAL 9000",
+            "description": "Unofficial HAL 9000 fan-art companion from 2001: A Space Odyssey. The foldaway two-foot pedestal, tiny side chess display and movable equalizer grille are original desktop adaptations, not canonical HAL hardware. Red-len",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

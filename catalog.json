@@ -6534,6 +6534,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dave-strider",
+            "path": "cozy-dave-strider",
+            "displayName": "戴夫·斯特莱德 Dave Strider",
+            "description": "Unofficial Dave Strider fan-art companion from Homestuck, in a simplified opening record-shirt outfit. Original animation includes adjusting sunglasses, tapping and flipping a small record, correcting a beat, inspecting ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

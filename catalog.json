@@ -6589,6 +6589,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-uryu-ishida",
+            "path": "cozy-uryu-ishida",
+            "displayName": "石田雨龙 Uryu Ishida",
+            "description": "Unofficial Uryu Ishida fan-art companion inspired by Bleach, with original toy-needle sewing, cloth display, gentle blue-paper ornament and jogging animations. The early white Quincy tunic, short capelet and blue trim ar",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

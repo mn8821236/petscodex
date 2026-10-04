@@ -5984,6 +5984,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-viktor-nikiforov",
+            "path": "cozy-viktor-nikiforov",
+            "displayName": "维克托·尼基福罗夫 Viktor Nikiforov",
+            "description": "Unofficial Viktor Nikiforov fan-art companion in adapted practice wear, with skate spins, graceful bows and blade-guard footwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

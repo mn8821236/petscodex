@@ -6369,6 +6369,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-elaina",
+            "path": "cozy-elaina",
+            "displayName": "伊蕾娜 Elaina",
+            "description": "Unofficial Elaina fan-art companion from Wandering Witch: The Journey of Elaina. Original quiet-travel choreography includes a low broom hover, diary writing with a pressed leaf, a small paper pinwheel and untangling a h",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

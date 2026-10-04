@@ -7018,6 +7018,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-omori",
+            "path": "cozy-omori",
+            "displayName": "奥摩里 OMORI",
+            "description": "Unofficial OMORI fan-art companion based on the monochrome Headspace identity. Original gentle animations include sketchbook drawing, arranging black-and-white toy keys, folding a paper map and quiet articulated running.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

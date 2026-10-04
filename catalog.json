@@ -6006,6 +6006,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shuu-tsukiyama",
+            "path": "cozy-shuu-tsukiyama",
+            "displayName": "月山习 Shuu Tsukiyama",
+            "description": "Unofficial fan-art animated companion inspired by Shuu Tsukiyama from Tokyo Ghoul. Features rose appreciation, a coffee-cup greeting, dramatic book reading, a dropped-rose recovery, attentive waiting, a small leap and th",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

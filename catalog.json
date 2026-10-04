@@ -6314,6 +6314,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pochita",
+            "path": "cozy-pochita",
+            "displayName": "波奇塔 Pochita",
+            "description": "Unofficial Pochita fan art from Chainsaw Man in the small orange dog-like companion form. Pochita nibbles bread, catches a slipping roll, curls a pull-cord tail, and settles beside a snack. Includes four-paw running in t",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -5962,6 +5962,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tord",
+            "path": "cozy-tord",
+            "displayName": "托德 Tord",
+            "description": "Unofficial Tord fan-art companion with harmless toy tinkering, hood greetings and energetic footwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

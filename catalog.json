@@ -7040,6 +7040,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mari",
+            "path": "cozy-mari",
+            "displayName": "玛里 Mari",
+            "description": "Unofficial Mari fan-art companion based on the Headspace acrylic-illustration appearance from OMORI: deep-purple hair, dark vest, pink bow and muted purple skirt. Original gentle actions include arranging a miniature pic",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

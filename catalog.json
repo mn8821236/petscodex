@@ -6897,6 +6897,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-keqing",
+            "path": "cozy-keqing",
+            "displayName": "刻晴 Keqing",
+            "description": "Unofficial Keqing fan-art animated companion from Genshin Impact. Original desk animations include gentle note-edge glow, checklist review, wrist stretch and plant-height inspection beside a closed padded sheath. Opaque ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

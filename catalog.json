@@ -6732,6 +6732,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bluey",
+            "path": "cozy-bluey",
+            "displayName": "布鲁伊 Bluey",
+            "description": "Unofficial Bluey fan-art animated companion. Original leaf-ticket booth, paper-captain boat play, gentle boat-and-block recovery, ribbon step-over, playful short-leg runs and hop. Independently drawn; no official affilia",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

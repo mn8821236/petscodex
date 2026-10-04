@@ -5907,6 +5907,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-scorpion",
+            "path": "cozy-scorpion",
+            "displayName": "Scorpion — Cozy Fan Art",
+            "description": "Unofficial Scorpion fan-art animated companion from Mortal Kombat, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: cozycritters-studio",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

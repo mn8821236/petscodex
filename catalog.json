@@ -7062,6 +7062,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-the-dark-lord",
+            "path": "cozy-the-dark-lord",
+            "displayName": "黑暗领主 The Dark Lord",
+            "description": "Unofficial The Dark Lord fan-art animated companion inspired by Animator vs. Animation, using the unarmed red hollow-head base version. Original calm activities include sorting paper with a toy gear, stacking rounded blo",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

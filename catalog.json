@@ -6017,6 +6017,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-clank",
+            "path": "cozy-clank",
+            "displayName": "叮当（克兰克） Clank",
+            "description": "Unofficial fan-art animated companion inspired by Clank from Ratchet & Clank. Features chest-button self-checks, antenna and head scans, a compact propeller greeting, wrist-tool maintenance, hinged mechanical jumps and t",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

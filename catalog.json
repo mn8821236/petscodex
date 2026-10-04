@@ -6490,6 +6490,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-alphys",
+            "path": "cozy-alphys",
+            "displayName": "艾菲斯 Alphys",
+            "description": "Unofficial Alphys fan-art companion from Undertale. Original animation shows her adjusting round glasses, examining a sealed vial, shyly closing a comic, checking a toy device, and hopping on short reptilian legs. Button",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

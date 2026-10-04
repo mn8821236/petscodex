@@ -6039,6 +6039,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-diamondhead",
+            "path": "cozy-diamondhead",
+            "displayName": "钻石战神 Diamondhead",
+            "description": "Unofficial fan-art animated companion inspired by original-series Diamondhead from Ben 10. Aquamarine crystal surfaces feature gentle forearm-cluster displays, chest-facet taps, palm-crystal inspection and harmless wrist",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

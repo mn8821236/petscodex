@@ -6193,6 +6193,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-vivi-ornitier",
+            "path": "cozy-vivi-ornitier",
+            "displayName": "比比·奥尔尼蒂亚 Vivi Ornitier",
+            "description": "Unofficial Vivi Ornitier fan-art companion from Final Fantasy IX. Original oversized-hat adjustments, gentle staff sparks and magic-book peeking, with careful hat-holding locomotion and nine animation states. Fully cloth",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

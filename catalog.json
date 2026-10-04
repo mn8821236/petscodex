@@ -6391,6 +6391,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kamen-rider-geats",
+            "path": "cozy-kamen-rider-geats",
+            "displayName": "假面骑士极狐 Kamen Rider Geats",
+            "description": "Unofficial Kamen Rider Geats fan-art companion in a stylized Magnum Boost form. Original harmless choreography includes checking belt controls, settling the white scarf, tossing a tiny coin and correcting a coin-storage ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

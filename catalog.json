@@ -6710,6 +6710,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mr-game-and-watch",
+            "path": "cozy-mr-game-and-watch",
+            "displayName": "Mr. Game & Watch先生 Mr. Game & Watch",
+            "description": "Unofficial Mr. Game & Watch fan-art animated companion inspired by Game & Watch. Original flat-silhouette pan juggling, umbrella greeting, blank-to-smile placard turn, three-direction running and cartoon hop. No official",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

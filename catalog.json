@@ -6160,6 +6160,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tars",
+            "path": "cozy-tars",
+            "displayName": "塔斯 TARS",
+            "description": "Unofficial TARS fan-art companion from Interstellar. Four articulated metal slabs perform a restrained panel salute, compact star-fold and obstacle-cube stepping. Indicator and cube choreography are original desktop adap",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

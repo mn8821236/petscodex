@@ -6875,6 +6875,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-thorfinn",
+            "path": "cozy-thorfinn",
+            "displayName": "托尔芬 Thorfinn",
+            "description": "Unofficial Thorfinn fan-art companion from Vinland Saga, using a youthful season-one traveler interpretation. Original peaceful animation includes closed-sheath buckle checks, map reading and folding, smooth-stone inspec",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

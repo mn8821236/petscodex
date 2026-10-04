@@ -7007,6 +7007,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pennywise",
+            "path": "cozy-pennywise",
+            "displayName": "潘尼怀斯 Pennywise",
+            "description": "Unofficial Pennywise fan-art companion inspired by the 2017 IT clown appearance. A friendly toy-like adaptation with gray-white ruffles, orange hair and a tethered red balloon. Original actions include tying a loose bow,",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

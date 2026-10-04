@@ -7073,6 +7073,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bepo",
+            "path": "cozy-bepo",
+            "displayName": "贝波 Bepo",
+            "description": "Unofficial Bepo fan-art animated companion inspired by One Piece. The normal white-furred navigator bear in an orange jumpsuit studies a miniature map and compass, turns with a soft pillow and performs gentle stretch-and",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -5995,6 +5995,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-matt-death-note",
+            "path": "cozy-matt-death-note",
+            "displayName": "马特（死亡笔记） Matt (Death Note)",
+            "description": "Unofficial Matt (Death Note) fan-art companion with handheld gaming, map checks and cartridge inspection.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

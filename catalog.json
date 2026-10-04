@@ -6292,6 +6292,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-usagi-chiikawa",
+            "path": "cozy-usagi-chiikawa",
+            "displayName": "乌萨奇 Usagi (Chiikawa)",
+            "description": "Unofficial Usagi fan art from Chiikawa. The pale-yellow rabbit-like companion wiggles long ears, drums a tiny pot with a spoon, and rolls into a seated bread-snacking pose. Includes independently drawn short-foot runs in",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

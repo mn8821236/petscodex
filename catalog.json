@@ -6512,6 +6512,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sherlock-holmes-bbc",
+            "path": "cozy-sherlock-holmes-bbc",
+            "displayName": "夏洛克·福尔摩斯（BBC版） Sherlock Holmes (BBC Sherlock)",
+            "description": "Unofficial Sherlock Holmes fan-art companion inspired by the fictional detective in BBC Sherlock. Original animation features scarf adjustment, examining a note with a magnifier, brief violin playing, thoughtful fingerti",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

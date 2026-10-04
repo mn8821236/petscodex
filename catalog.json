@@ -6996,6 +6996,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-medic",
+            "path": "cozy-medic",
+            "displayName": "医生 Medic",
+            "description": "Unofficial Medic fan-art companion inspired by Team Fortress 2. Original animation features toy stethoscope checks on a wooden doll, a decorative plant lamp, sealed empty display-tube sorting, gentle recovery and articul",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

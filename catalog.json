@@ -6864,6 +6864,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gnu",
+            "path": "cozy-gnu",
+            "displayName": "GNU角马 GNU",
+            "description": "Unofficial GNU Project mascot fan-art companion inspired by Etienne Suvasa’s A GNU Head. The warm-gray four-hoof body and scroll, leaf-balancing and gear-inspection animations are original desktop adaptations of a head-o",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

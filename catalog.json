@@ -6523,6 +6523,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-john-watson-bbc",
+            "path": "cozy-john-watson-bbc",
+            "displayName": "约翰·华生（BBC版） John Watson (BBC Sherlock)",
+            "description": "Unofficial John Watson fan-art companion inspired by the fictional doctor in BBC Sherlock. Original animation features notebook writing, carefully presenting two cups of tea, securing a loose pen, checking a pouch of fol",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6204,6 +6204,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-junimo",
+            "path": "cozy-junimo",
+            "displayName": "祝尼魔 Junimo",
+            "description": "Unofficial Junimo fan art inspired by Stardew Valley. This green forest companion gathers a berry into a basket, knots and lifts a small offering bundle, turns to inspect its leafy antenna, recovers a slipping berry and ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

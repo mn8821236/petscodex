@@ -6765,6 +6765,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-catnap",
+            "path": "cozy-catnap",
+            "displayName": "瞌睡猫 CatNap",
+            "description": "Unofficial CatNap fan-art companion based on the friendly compact Smiling Critters cartoon toy from Poppy Playtime. Original gentle animations include fluffing a pillow and curling up, tidying crescent cards with a curve",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6721,6 +6721,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-baby-milo",
+            "path": "cozy-baby-milo",
+            "displayName": "米洛小猴 Baby Milo",
+            "description": "Unofficial Baby Milo fan-art companion inspired by the BAPE mascot. Original banana-peel folding, seedling presentation, quiet toe-tap dance, short-step running and little hop. Independent animation; no official affiliat",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

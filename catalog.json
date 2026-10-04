@@ -6468,6 +6468,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-asriel-dreemurr",
+            "path": "cozy-asriel-dreemurr",
+            "displayName": "艾斯利尔·逐梦 Asriel Dreemurr",
+            "description": "Unofficial Asriel Dreemurr fan-art animated companion inspired by Undertale child form, with white fur, drooping ears, opaque striped sweater and full trousers. Small closed soft shoes are an original modest desktop adap",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6083,6 +6083,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-optimus-prime",
+            "path": "cozy-optimus-prime",
+            "displayName": "擎天柱 Optimus Prime",
+            "description": "Unofficial fan art of Optimus Prime from Transformers, drawn in a compact G1-inspired style. Nine animations include alternating mechanical gaits, shoulder-door folds, a softly glowing chest-window greeting, jointed jump",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

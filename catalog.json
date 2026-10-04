@@ -6028,6 +6028,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-daxter",
+            "path": "cozy-daxter",
+            "displayName": "达斯特 Daxter",
+            "description": "Unofficial fan-art animated companion inspired by Daxter from Jak and Daxter. Features expressive long-ear chatter, goggles adjustment, tail-assisted tiny-wrench inspection, a harmless balance mishap, a long-tailed leap ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

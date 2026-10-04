@@ -5885,6 +5885,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ladybug",
+            "path": "cozy-ladybug",
+            "displayName": "瓢虫雷迪 Ladybug",
+            "description": "Unofficial Ladybug fan-art companion inspired by Miraculous, with original short yo-yo loops, knot-untangling and tiny storage-box retrieval animations. Fully clothed, nonviolent cartoon presentation. Not affiliated with",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

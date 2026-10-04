@@ -7117,6 +7117,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-butters-stotch",
+            "path": "cozy-butters-stotch",
+            "displayName": "巴特斯·斯托奇 Butters Stotch",
+            "description": "Unofficial Butters Stotch fan-art companion from South Park. A fully clothed flat cut-paper interpretation with paper flowers, empty toy snack cups, shoe-tying, a small cheerful jump and three articulated short-leg run c",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

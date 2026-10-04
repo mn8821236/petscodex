@@ -6138,6 +6138,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kirby",
+            "path": "cozy-kirby",
+            "displayName": "卡比 Kirby",
+            "description": "Unofficial Kirby fan-art companion. Original paper-star inhaling, cake-plate presentation and inflated floating actions; nine independently drawn animation states. Not affiliated with or endorsed by Nintendo.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

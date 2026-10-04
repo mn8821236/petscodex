@@ -6336,6 +6336,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-umaru-doma",
+            "path": "cozy-umaru-doma",
+            "displayName": "土间埋 Umaru Doma",
+            "description": "Unofficial Umaru Doma fan-art companion from Himouto! Umaru-chan. Original cozy gaming choreography includes controller troubleshooting, a final potato chip, a drink break, three articulated running directions and a smal",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

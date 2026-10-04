@@ -6281,6 +6281,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hachiware",
+            "path": "cozy-hachiware",
+            "displayName": "哈奇瓦雷（小八） Hachiware",
+            "description": "Unofficial Hachiware fan art from Chiikawa. A blue-and-white cat-like companion aims a tiny camera, checks a blank photo, lifts noodles into a bowl, and gently straightens a flower. Nine states include short-foot running",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6072,6 +6072,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-popeye",
+            "path": "cozy-popeye",
+            "displayName": "大力水手波派 Popeye",
+            "description": "Unofficial fan-art animated companion inspired by Popeye the Sailor. Features an unbranded spinach-can snack, sailor-cap turn and salute, harmless short-rope knot inspection, a crooked-hat recovery, waiting, a small leap",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

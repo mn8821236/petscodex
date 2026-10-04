@@ -6094,6 +6094,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-robocop",
+            "path": "cozy-robocop",
+            "displayName": "机械战警 RoboCop",
+            "description": "Unofficial fan art of RoboCop from RoboCop, with simplified classic silver-blue armor and a black visor. Nine animations feature mechanical head scans, finger articulation, door-handle inspection, a benign data-tablet ch",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

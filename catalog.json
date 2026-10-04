@@ -6556,6 +6556,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-byakuya-kuchiki",
+            "path": "cozy-byakuya-kuchiki",
+            "displayName": "朽木白哉 Byakuya Kuchiki",
+            "description": "Unofficial Byakuya Kuchiki fan-art companion inspired by Bleach, with original scarf-tidying, paper-petal display, book care and articulated running animations. Early captain attire is stylized with simplified hair ornam",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

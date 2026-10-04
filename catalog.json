@@ -6974,6 +6974,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-caine",
+            "path": "cozy-caine",
+            "displayName": "凯恩 Caine",
+            "description": "Unofficial Caine fan-art companion from The Amazing Digital Circus. The blue anatomical-right eye and green anatomical-left eye remain within a stable tooth-shaped head. Nine original states include single-hat paper-card",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

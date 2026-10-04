@@ -6677,6 +6677,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ferris",
+            "path": "cozy-ferris",
+            "displayName": "费里斯小蟹 Ferris",
+            "description": "Unofficial Ferris fan-art companion inspired by the Rust community mascot. Independently drawn orange crab animation with alternating sideways scuttles, gear alignment, claw-heart greeting and lock-sign inspection; no of",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

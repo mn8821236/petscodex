@@ -7029,6 +7029,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kel",
+            "path": "cozy-kel",
+            "displayName": "凯尔 Kel",
+            "description": "Unofficial Kel fan-art companion based specifically on the Faraway Town OMORI design. Brown nape-length hair and orange-brown sportswear remain consistent. Original actions include a basketball waist pass, a folding pape",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -6842,6 +6842,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cuttlefish-inkwell",
+            "path": "cozy-cuttlefish-inkwell",
+            "displayName": "墨影乌贼 Cuttlefish Inkwell",
+            "description": "Original Cuttlefish Inkwell animated companion by Cozy Critters Studio, with a broad ivory oval mantle, continuous lavender-edged lateral fin, eight short arms and two retractable long tentacles. Nine original animation ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

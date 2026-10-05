@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pannacotta-fugo",
+            "path": "cozy-pannacotta-fugo",
+            "displayName": "潘纳科达·福葛 Pannacotta Fugo",
+            "description": "Unofficial Pannacotta Fugo fan-art companion inspired by the Golden Wind anime green-suit design. Every circular costume motif is backed by opaque dark-green lining and a closed shirt. Original abstract-note study, paper-triangle folding, book ordering and three-direction jogging; familiar costume cues are not claimed as newly inspected official artwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

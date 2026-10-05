@@ -8448,6 +8448,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-leafy-bfdi",
+            "path": "cozy-leafy-bfdi",
+            "displayName": "Leafy（叶子） Leafy",
+            "description": "Unofficial Leafy fan-art animated companion inspired by Battle for Dream Island. A smooth green leaf with one pale vein and two black arms and legs performs original sprout-sheltering, paper-boat nudging and three paper-drop handling motions, with a gentle catch, attentive pause, short hop and three-direction articulated steps. Sprout, boat and drops are safe paper props; plush texture is replaced by clean drawn surfaces. Not official or endorsed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

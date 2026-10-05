@@ -9977,6 +9977,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-agouti-rustle",
+            "path": "cozy-agouti-rustle",
+            "displayName": "刺豚鼠窸窸 Agouti Rustle",
+            "description": "Agouti Rustle is an independently designed original companion with nine expressive animated states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

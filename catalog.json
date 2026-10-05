@@ -7282,6 +7282,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gordon-freeman",
+            "path": "cozy-gordon-freeman",
+            "displayName": "戈登·弗里曼 Gordon Freeman",
+            "description": "Unofficial Gordon Freeman fan art from Half-Life. The fully armored scientist adjusts his glasses, checks a blank experiment card, turns and lowers a foam stone, tests a harmless low foam step and signals safety, makes a short hop and runs in three articulated directions. Lower armor panels and compact cel-painted proportions are simplified familiar cues; no crowbar, gun, combat or helmet.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

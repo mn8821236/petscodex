@@ -7612,6 +7612,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jevil",
+            "path": "cozy-jevil",
+            "displayName": "杰维尔 Jevil",
+            "description": "Unofficial Jevil fan-art companion from Deltarune. Independently drawn short-foot prances, paper-card juggling, a stage flourish and a decorative hoop routine. Original harmless paper props and cartoon movement adaptations; no endorsement or license claim.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

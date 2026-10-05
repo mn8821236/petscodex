@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sayaka-miki",
+            "path": "cozy-sayaka-miki",
+            "displayName": "美树沙耶香 Sayaka Miki",
+            "description": "Unofficial fan art of Sayaka Miki from Puella Magi Madoka Magica. A youthful companion with paper-note rhythm, a long white cape cross-step, careful balancing of a fully closed blunt display sheath, and three athletic running directions. Opaque high-neck long sleeves and white tights are modest adaptations. No blade is drawn and no attack occurs. Independent original animation; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

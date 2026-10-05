@@ -8107,6 +8107,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lightning-ffxiii",
+            "path": "cozy-lightning-ffxiii",
+            "displayName": "雷霆 Lightning",
+            "description": "Unofficial fan-art Lightning companion from Final Fantasy XIII with original map-folding, cape-adjusting, flask-offering and travel animations. Her early outfit is adapted with opaque full-length tights and neckline coverage; gunblade and scabbard are omitted. Cape and shoulder armor stay on her physical left side. Not affiliated with the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -8426,6 +8426,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-two-bfdi",
+            "path": "cozy-two-bfdi",
+            "displayName": "Two（二） Two",
+            "description": "Unofficial Two fan-art animated companion inspired by Battle for Dream Island / TPOT. This independently drawn smooth-surface adaptation keeps a readable green numeral and two arms and legs. Original actions include paper-dot handling, arranging and straightening four foam blocks, a cushion crouch-rise, a short hop and separately drawn rightward, leftward and toward-camera steps. Soft paper and foam props replace real objects; merchandise fabric and seams are omitted. Not an official or endorsed",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

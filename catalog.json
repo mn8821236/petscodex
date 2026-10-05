@@ -9900,6 +9900,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gerenuk-reach",
+            "path": "cozy-gerenuk-reach",
+            "displayName": "长颈羚探探 Gerenuk Reach",
+            "description": "An original hornless adult gerenuk companion with a long slender neck, fine jointed legs and small hooves. Nine expressive states include a browsing-inspired upright reach and independently drawn front and side strides.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

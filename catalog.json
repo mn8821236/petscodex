@@ -8437,6 +8437,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rainmaker-corporate-clash",
+            "path": "cozy-rainmaker-corporate-clash",
+            "displayName": "造雨者 Rainmaker",
+            "description": "Unofficial Rainmaker fan-art animated companion from Toontown: Corporate Clash, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -8877,6 +8877,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cybunny-neopets",
+            "path": "cozy-cybunny-neopets",
+            "displayName": "赛邦尼 Cybunny",
+            "description": "Unofficial independently drawn Cybunny animated fan-art companion from Neopets. Nine original animation states; harmless paper props and compact sprite simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

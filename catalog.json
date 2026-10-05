@@ -7568,6 +7568,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jean-pierre-polnareff",
+            "path": "cozy-jean-pierre-polnareff",
+            "displayName": "让·皮埃尔·波鲁那雷夫 Jean Pierre Polnareff",
+            "description": "Unofficial Jean Pierre Polnareff fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9702,6 +9702,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-saiga-breeze",
+            "path": "cozy-saiga-breeze",
+            "displayName": "高鼻羚羊轻风 Saiga Breeze",
+            "description": "Original character Saiga Breeze, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

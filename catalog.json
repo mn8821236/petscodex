@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gnar-mini",
+            "path": "cozy-gnar-mini",
+            "displayName": "纳尔 Gnar",
+            "description": "Unofficial Mini Gnar fan-art animated companion from League of Legends. The small orange yordle pats a foam bone into a paper-confetti tray, presents a lightweight foam fruit, and follows a paper wisp with his huge ears. Mini form only, with familiar hidden-limb cues simplified and original playful non-combat choreography; no official endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

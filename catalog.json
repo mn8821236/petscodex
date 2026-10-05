@@ -7326,6 +7326,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ixi-neopets",
+            "path": "cozy-ixi-neopets",
+            "displayName": "伊克西 Ixi",
+            "description": "Unofficial Ixi fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

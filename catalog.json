@@ -8030,6 +8030,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tetsuya-number-two",
+            "path": "cozy-tetsuya-number-two",
+            "displayName": "哲也2号 Tetsuya No. 2",
+            "description": "Unofficial Tetsuya No. 2 fan-art companion from Kuroko's Basketball. Original four-paw puppy animation includes a foam-ball nose drill, attentive paw salute, towel delivery and ear-and-tail waiting. Red collar and simplified coat markings are a modest adaptation; foam props and empty cup keep play gentle.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

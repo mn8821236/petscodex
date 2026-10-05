@@ -7315,6 +7315,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-acara-neopets",
+            "path": "cozy-acara-neopets",
+            "displayName": "Acara（阿卡拉） Acara",
+            "description": "Unofficial Acara fan-art animated companion inspired by the red Neopets catalogue form. Nine original states feature a horn-glint head tilt, a folded-paper bookmark display, careful paper-arch recovery and passage, quadruped movement in three directions, and a small hop. Simplified sprite rendering and paper-prop choreography are original adaptations, not official Neopets animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

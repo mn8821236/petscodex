@@ -7282,6 +7282,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cartwheel-spider-gyro",
+            "path": "cozy-cartwheel-spider-gyro",
+            "displayName": "陀螺轮蛛 Cartwheel Spider Gyro",
+            "description": "Original Cartwheel Spider Gyro, a coral-and-teal biomimetic toy companion with six walking legs and two separate pusher legs. It curls its walking legs into open side arcs for a controlled quarter-roll, checks its supports, steadies a soft paper arch and makes a tiny tucked jump. An original character, not a replica or performance claim about industrial hardware.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

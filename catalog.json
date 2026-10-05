@@ -7326,6 +7326,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-serial-designation-n",
+            "path": "cozy-serial-designation-n",
+            "displayName": "序列编号N Serial Designation N",
+            "description": "Unofficial fan art of Serial Designation N from Murder Drones. A friendly companion with cap-straightening salutes, paper-airplane folding and recovery, a soft dog-plush interaction, and long-stride mechanical running in three directions. The single tail uses a sealed rounded yellow capsule as an explicit safe replacement for the hazardous needle; hands are ordinary and wings remain concealed. No weapons or combat; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

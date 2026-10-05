@@ -8833,6 +8833,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-grarrl-neopets",
+            "path": "cozy-grarrl-neopets",
+            "displayName": "Grarrl（格拉尔） Grarrl",
+            "description": "Unofficial Grarrl fan-art companion from Neopets. Original red cel-animation artwork with green eyes and a softly lighter red belly adaptation, short arms folding a paper box, tail-balanced card reading, a gentle paper-ball nudge, weighty three-direction steps and a small hop. Teeth remain inside the friendly smile. These are independently choreographed animations, not official game frames.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kyubey",
+            "path": "cozy-kyubey",
+            "displayName": "丘比 Kyubey",
+            "description": "Unofficial Kyubey fan art from Puella Magi Madoka Magica. A white four-pawed messenger curls one large tail, gently nudges a pink light dot, steps through a small loose light ring and performs quadrupedal directional trots and a soft hop. Nine original peaceful animated states preserve the separate ringed head appendages. No contract scenes or official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

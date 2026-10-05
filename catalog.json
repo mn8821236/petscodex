@@ -9009,6 +9009,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-obanai-iguro",
+            "path": "cozy-obanai-iguro",
+            "displayName": "伊黑小芭内 Obanai Iguro",
+            "description": "Unofficial Obanai Iguro fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

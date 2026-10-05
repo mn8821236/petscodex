@@ -8063,6 +8063,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ishmael-lcb",
+            "path": "cozy-ishmael-lcb",
+            "displayName": "以实玛利 Ishmael",
+            "description": "Unofficial Ishmael fan-art companion in her LCB default appearance from Limbus Company. Original routines include a loose soft-cord knot, flattening a blank sea chart with foam weights, and feeling a breeze before tucking a hair lock. Long orange hair and layered shirt, tie and coat are retained; closed shoes are conservatively simplified. No weapon, hazardous rope use or readable navigation data appears.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

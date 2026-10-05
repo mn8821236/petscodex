@@ -9460,6 +9460,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mabel-hoppers",
+            "path": "cozy-mabel-hoppers",
+            "displayName": "梅宝（河狸） Mabel Beaver",
+            "description": "Unofficial Mabel Beaver fan-art animated companion from Hoppers, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

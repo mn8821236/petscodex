@@ -9086,6 +9086,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cloth",
+            "path": "cozy-cloth",
+            "displayName": "阿布 Cloth",
+            "description": "Unofficial Cloth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

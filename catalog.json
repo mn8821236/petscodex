@@ -7480,6 +7480,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-enderman",
+            "path": "cozy-enderman",
+            "displayName": "末影人 Enderman",
+            "description": "Unofficial Enderman fan-art companion from Minecraft. Original calm animations use straight cuboid limbs for long-stride movement, a small hop, ground-level foam-block inspection and reset, and a paper-leaf pot check. Not affiliated with or endorsed by the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

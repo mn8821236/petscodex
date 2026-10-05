@@ -7865,6 +7865,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nagito-komaeda",
+            "path": "cozy-nagito-komaeda",
+            "displayName": "狛枝凪斗 Nagito Komaeda",
+            "description": "Unofficial Nagito Komaeda fan-art companion inspired by his basic Danganronpa 2 green-coat appearance. Original calm animation features a star-card paper puzzle, a palm-height paper toss and a foam jigsaw, with no gambling or harmful themes. Nine distinct states include independently drawn right, left and front runs and a modest hop. No endorsement implied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

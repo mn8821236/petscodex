@@ -9647,6 +9647,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hoopoe-fancrest",
+            "path": "cozy-hoopoe-fancrest",
+            "displayName": "戴胜扇冠 Hoopoe Fancrest",
+            "description": "Hoopoe Fancrest is an original hoopoe-inspired companion with a dark-tipped fan crest and barred wings. Its nine expressive routines include grounded bird steps, crest greetings, gentle preening and a balancing hop.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

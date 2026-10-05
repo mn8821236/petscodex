@@ -8272,6 +8272,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pometaro",
+            "path": "cozy-pometaro",
+            "displayName": "波美太郎 Pometaro",
+            "description": "Unofficial Pometaro fan-art animated companion from Detective Conan: The Culprit Hanzawa. Original dog-specific choreography includes chest-ruff sniffing, cardboard-tray inspection and gentle plush-ball paw play, with four-legged trotting. No official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

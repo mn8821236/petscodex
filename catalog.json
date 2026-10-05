@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-homura-akemi",
+            "path": "cozy-homura-akemi",
+            "displayName": "晓美焰 Homura Akemi",
+            "description": "Unofficial fan art of Homura Akemi from Puella Magi Madoka Magica. A fully clothed youthful companion with paper-light gestures, careful clock-card folding, standing hourglass-light review, and three articulated running directions. The left-forearm shield is simplified as a harmless prop; no firearms or combat. Independently drawn original choreography; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7260,6 +7260,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-firey-bfdi",
+            "path": "cozy-firey-bfdi",
+            "displayName": "Firey（火焰） Firey",
+            "description": "Unofficial Firey fan art from Battle for Dream Island. Independently drawn friendly orange-and-yellow object character with original line-limb walking, empty cool plastic-cup balancing, gentle contour tidying, intact paper-fleck nudging and a small knee-powered hop. Firey is presented as a stylized light-like cartoon; no real heating, burning, smoke or damage is depicted.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

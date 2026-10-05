@@ -8393,6 +8393,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bb-anthology-killer",
+            "path": "cozy-bb-anthology-killer",
+            "displayName": "BB（比比） BB",
+            "description": "Unofficial BB fan art from Anthology of the Killer. Original gentle animations feature blank-zine sorting and folding, a small poster-card inspection, paper recovery, quiet glances, a two-boot hop and articulated steps in three directions. Pink hair keeps the same covered-eye side and two yellow clips; the orange polka-dot dress is paired with opaque yellow leggings and mint boots. No violent imagery.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

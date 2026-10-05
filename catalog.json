@@ -10131,6 +10131,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-liverwort-greenfork",
+            "path": "cozy-liverwort-greenfork",
+            "displayName": "地钱叉绿 Liverwort Greenfork",
+            "description": "Original character Liverwort Greenfork, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

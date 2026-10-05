@@ -7326,6 +7326,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pteri-neopets",
+            "path": "cozy-pteri-neopets",
+            "displayName": "Pteri（普特里） Pteri",
+            "description": "Unofficial Pteri fan-art companion from Neopets. Original yellow bird artwork with a pale belly, simplified three-lobed crest and feathered tail. Pteri dips and resets its crest, presents and steadies a soft paper fan, steps around a flat rounded foam disk, moves in three directions and makes a wing-assisted hop. The safe foam disk replaces a research thumbtack idea; these are original animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

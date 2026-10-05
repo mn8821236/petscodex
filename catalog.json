@@ -10252,6 +10252,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-traffic-cone-tippy",
+            "path": "cozy-traffic-cone-tippy",
+            "displayName": "路锥点点 Traffic Cone Tippy",
+            "description": "Original character Traffic Cone Tippy, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

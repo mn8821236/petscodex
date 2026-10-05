@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-serial-designation-v",
+            "path": "cozy-serial-designation-v",
+            "displayName": "序列编号V Serial Designation V",
+            "description": "Unofficial fan art of Serial Designation V from Murder Drones. Original rounded-nut inspection and recovery, shoulder-and-palm calibration, hollow paper-ring interaction, precise jumps and compact three-direction mechanical running. Opaque lower-body mechanical panels and a single sealed blunt yellow tail capsule are explicit modest and safe adaptations. Ordinary hands and concealed wings, with no needle, weapon or attack; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

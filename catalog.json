@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-steve",
+            "path": "cozy-steve",
+            "displayName": "史蒂夫 Steve",
+            "description": "Unofficial Minecraft Steve fan art. A rigid voxel companion builds a soft block stair, presents a miniature workbench, straightens a misplaced cube and arranges soft gray blocks with a blunt foam pickaxe. Nine animated states use shoulder-and-hip block pivots and directional strides. Original choreography; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

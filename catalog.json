@@ -8151,6 +8151,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aventurine",
+            "path": "cozy-aventurine",
+            "displayName": "砂金 Aventurine",
+            "description": "Unofficial Aventurine fan-art animated companion from Honkai: Star Rail, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

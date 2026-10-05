@@ -9669,6 +9669,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dandelion-drift",
+            "path": "cozy-dandelion-drift",
+            "displayName": "蒲公英轻绒 Dandelion Drift",
+            "description": "Original character Dandelion Drift, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

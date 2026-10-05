@@ -9702,6 +9702,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-whisk-swish",
+            "path": "cozy-whisk-swish",
+            "displayName": "打蛋器沙沙 Whisk Swish",
+            "description": "Original character Whisk Swish, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

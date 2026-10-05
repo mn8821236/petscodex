@@ -8481,6 +8481,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gummigoo",
+            "path": "cozy-gummigoo",
+            "displayName": "Gummigoo（软糖鳄） Gummigoo",
+            "description": "Unofficial Gummigoo fan-art animated companion inspired by The Amazing Digital Circus. A slim smooth-drawn yellow-and-green crocodile with pale jaw and chest, brown hat and one tapering tail performs original foam-ring balance/catch, two-marker spacing, paper-scrap heel-peel, hat-settling and short-hop motions plus three-direction articulated strides. The dorsal ridge is simplified as one continuous rounded strip, and props are safe foam or paper models. Not official or endorsed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

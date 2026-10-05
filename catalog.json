@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-meiko",
+            "path": "cozy-meiko",
+            "displayName": "MEIKO",
+            "description": "Unofficial MEIKO fan-art animated companion from Piapro Characters. Original blank-stand tapping, loose toy-cord coiling, paper-score smoothing and grounded boot movement. Continuous red torso coverage and opaque skirt coverage are modest drawing adaptations. The toy cord is detached and never wraps the body.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

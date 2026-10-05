@@ -8899,6 +8899,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lightbulb-ii",
+            "path": "cozy-lightbulb-ii",
+            "displayName": "灯泡 Lightbulb",
+            "description": "Unofficial independently drawn Lightbulb animated fan-art companion from Inanimate Insanity. Nine original animation states; harmless paper props and compact sprite simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

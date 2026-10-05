@@ -7898,6 +7898,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zim",
+            "path": "cozy-zim",
+            "displayName": "津姆 Zim",
+            "description": "Unofficial Zim fan-art animated companion from Invader Zim, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

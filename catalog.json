@@ -9944,6 +9944,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lotus-pod-dimple",
+            "path": "cozy-lotus-pod-dimple",
+            "displayName": "莲蓬窝窝 Lotus Pod Dimple",
+            "description": "An original fantasy lotus companion: a recessed seed receptacle, one flexible central stalk and one continuous circular leaf pad. Leaf-rim propulsion, greetings and springy jumps are invented animation, inspired by the shapes of lotus pods and peltate leaves.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

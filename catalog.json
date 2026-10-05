@@ -8558,6 +8558,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jubjub",
+            "path": "cozy-jubjub",
+            "displayName": "JubJub（朱布） JubJub",
+            "description": "Unofficial fan art of the basic blue JubJub from Neopets. A shaggy armless ball with two broad orange feet, original paper-disc play, a loose paper fleck, toe taps and articulated shuffles. This is a cel-animation adaptation with original choreography, not a Baby paint-brush form or an official animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

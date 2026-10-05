@@ -7326,6 +7326,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gelert-neopets",
+            "path": "cozy-gelert-neopets",
+            "displayName": "盖勒特 Gelert",
+            "description": "Unofficial Gelert fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

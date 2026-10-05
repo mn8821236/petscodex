@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mirage-apex",
+            "path": "cozy-mirage-apex",
+            "displayName": "幻象 Mirage",
+            "description": "Unofficial Mirage fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

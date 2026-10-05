@@ -9889,6 +9889,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-secretarybird-stride",
+            "path": "cozy-secretarybird-stride",
+            "displayName": "蛇鹫长步 Secretarybird Stride",
+            "description": "An original secretarybird companion with long jointed legs, connected folded wings, a backward crest and orange eye patches. Grounded striding, toe inspection and a small balancing jump animate its nine expressive states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

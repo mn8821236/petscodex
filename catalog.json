@@ -10010,6 +10010,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mop-tasslet",
+            "path": "cozy-mop-tasslet",
+            "displayName": "拖把穗步 Mop Tasslet",
+            "description": "Original character Mop Tasslet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

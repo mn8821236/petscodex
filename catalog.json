@@ -7953,6 +7953,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gabumon",
+            "path": "cozy-gabumon",
+            "displayName": "加布兽 Gabumon",
+            "description": "Unofficial Gabumon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

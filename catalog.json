@@ -8096,6 +8096,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shuhei-hisagi",
+            "path": "cozy-shuhei-hisagi",
+            "displayName": "桧佐木修兵 Shuhei Hisagi",
+            "description": "Unofficial Shuhei Hisagi fan-art animated companion from Bleach, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

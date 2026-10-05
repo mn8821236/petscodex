@@ -8008,6 +8008,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-legoshi",
+            "path": "cozy-legoshi",
+            "displayName": "雷格西 Legoshi",
+            "description": "Unofficial Legoshi fan-art animated companion from BEASTARS. The fully clothed Cherryton wolf carefully watches a paper beetle, smooths a short cloth curtain, and tends a paper flower with a tiny plastic watering can. Early student outfit, original gentle choreography and simplified model props; not an official animation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

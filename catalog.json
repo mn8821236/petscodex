@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kacheek",
+            "path": "cozy-kacheek",
+            "displayName": "Kacheek（卡奇克） Kacheek",
+            "description": "Unofficial Kacheek fan-art companion from Neopets in the basic yellow species form. Original animations cup a foam chestnut over a soft pad, sway the long ears beside two paper leaves, rest briefly on a cushion, take short steps in three directions and make a tiny hop. The tail is only a balance cue; props and choreography are original adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

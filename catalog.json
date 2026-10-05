@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-madoka-kaname",
+            "path": "cozy-madoka-kaname",
+            "displayName": "鹿目圆 Madoka Kaname",
+            "description": "Unofficial Madoka Kaname fan art from Puella Magi Madoka Magica, in her normal pink magical-girl outfit with a modest opaque high-neck underlayer and white tights. She ties a gift ribbon, displays a blunt miniature flower bow without arrows, turns with a paper flower and takes light directional steps and a small jump. Nine original peaceful animation states; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

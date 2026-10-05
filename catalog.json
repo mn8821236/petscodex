@@ -10131,6 +10131,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pencil-sharpener-twirlbox",
+            "path": "cozy-pencil-sharpener-twirlbox",
+            "displayName": "卷笔刀旋盒 Pencil Sharpener Twirlbox",
+            "description": "Original character Pencil Sharpener Twirlbox, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

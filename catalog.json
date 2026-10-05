@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-holo-traveler",
+            "path": "cozy-holo-traveler",
+            "displayName": "赫萝 Holo",
+            "description": "Unofficial Holo fan-art animated companion from Spice and Wolf. Fully clothed in the licensed-style traveler outfit, she sniffs a foam apple, arranges blank wooden trade tokens, and gently combs her tail tip. Original modest choreography with toy props and simplified hidden clothing details; no real trade, official animation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

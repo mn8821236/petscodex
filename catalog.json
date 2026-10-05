@@ -9515,6 +9515,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mei-red-panda",
+            "path": "cozy-mei-red-panda",
+            "displayName": "美美（小熊猫） Red Panda Mei",
+            "description": "Unofficial Red Panda Mei fan-art animated companion from Turning Red, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

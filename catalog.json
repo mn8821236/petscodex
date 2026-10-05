@@ -8294,6 +8294,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ripplefin-ribbon-scout",
+            "path": "cozy-ripplefin-ribbon-scout",
+            "displayName": "波纹鳍巡游器 Ripplefin Ribbon Scout",
+            "description": "Original Ripplefin Ribbon Scout is a simplified biomimetic swimming companion with an apricot sensor head, six cream body segments ending in a rounded tail, and two continuous turquoise ribbon fins. Fin-wave propulsion and differential steering are inspired by general engineering principles illustrated by Festo BionicFinWave; this independently drawn palette, rounded topology, blank-card interaction and animation choreography are original design choices, not an official robot, accurate hardware ",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

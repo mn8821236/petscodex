@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-blurr",
+            "path": "cozy-blurr",
+            "displayName": "啰嗦 Blurr",
+            "description": "Unofficial Blurr fan-art animated companion from Transformers, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

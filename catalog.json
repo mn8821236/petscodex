@@ -8404,6 +8404,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-circuit-ant-parcel",
+            "path": "cozy-circuit-ant-parcel",
+            "displayName": "电路蚁小搬运 Circuit Ant Parcel",
+            "description": "Original Circuit Ant Parcel, a mint-and-cream six-legged toy robot companion with articulated tripod-inspired steps, gentle foam-parcel handling, paper-tag alignment, antenna pauses and a tiny celebratory hop. An original biomimetic character, not a replica or performance claim about industrial hardware.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

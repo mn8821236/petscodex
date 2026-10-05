@@ -10263,6 +10263,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ladle-diploop",
+            "path": "cozy-ladle-diploop",
+            "displayName": "汤勺舀弯 Ladle Diploop",
+            "description": "Original character Ladle Diploop, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

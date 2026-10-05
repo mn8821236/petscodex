@@ -7469,6 +7469,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-creeper",
+            "path": "cozy-creeper",
+            "displayName": "苦力怕 Creeper",
+            "description": "Unofficial Creeper fan-art companion from Minecraft. Original friendly animations include four-foot blocky movement, a paper-flower nudge, a small paper-heart display and gentle hops. No explosions or hostile actions. Not affiliated with or endorsed by the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -8976,6 +8976,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kau-neopets",
+            "path": "cozy-kau-neopets",
+            "displayName": "考 Kau",
+            "description": "Unofficial Kau fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

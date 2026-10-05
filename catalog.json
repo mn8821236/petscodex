@@ -9482,6 +9482,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-flower-bambi",
+            "path": "cozy-flower-bambi",
+            "displayName": "花花 Flower",
+            "description": "Unofficial Flower fan-art animated companion from Bambi, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

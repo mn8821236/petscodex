@@ -7348,6 +7348,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gyutaro",
+            "path": "cozy-gyutaro",
+            "displayName": "妓夫太郎 Gyutaro",
+            "description": "Unofficial Gyutaro fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

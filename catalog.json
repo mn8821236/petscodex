@@ -9748,6 +9748,17 @@
             ]
         },
         {
+            "id": "cozy-snowdrop-bell",
+            "path": "cozy-snowdrop-bell",
+            "displayName": "雪滴花垂铃 Snowdrop Bell",
+            "description": "Original character Snowdrop Bell, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-thimble-thrum",
             "path": "cozy-thimble-thrum",
             "displayName": "顶针咚咚 Thimble Thrum",

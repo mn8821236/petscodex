@@ -7348,6 +7348,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-enmu",
+            "path": "cozy-enmu",
+            "displayName": "魇梦 Enmu",
+            "description": "Unofficial Enmu fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

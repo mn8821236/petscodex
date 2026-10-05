@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wes",
+            "path": "cozy-wes",
+            "displayName": "韦斯 Wes",
+            "description": "Unofficial Wes fan-art companion from Don't Starve. Original silent-mime routines with an invisible wall, stuck door, imaginary umbrella and breeze, plus a soft pre-formed balloon-dog display and tiptoe movement. Independently drawn, fully clothed and harmless animation adaptation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10065,6 +10065,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pastry-brush-dab",
+            "path": "cozy-pastry-brush-dab",
+            "displayName": "烘焙刷蘸蘸 Pastry Brush Dab",
+            "description": "Original character Pastry Brush Dab, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

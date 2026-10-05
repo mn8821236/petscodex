@@ -9064,6 +9064,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-panda-jujutsu-kaisen",
+            "path": "cozy-panda-jujutsu-kaisen",
+            "displayName": "熊猫（咒术回战） Panda",
+            "description": "Unofficial Panda fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

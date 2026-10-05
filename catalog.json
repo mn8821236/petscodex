@@ -7821,6 +7821,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-poro",
+            "path": "cozy-poro",
+            "displayName": "魄罗 Poro",
+            "description": "Unofficial Poro fan-art companion inspired by League of Legends. Original cel animation uses a four-pawed white furball, tongue-and-foam-biscuit play, a paper-leaf umbrella and a loose miniature blanket; nine distinct states include right, left and toward-camera bounds. No endorsement implied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

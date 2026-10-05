@@ -10045,6 +10045,17 @@
             ]
         },
         {
+            "id": "cozy-rubber-mallet-thump",
+            "path": "cozy-rubber-mallet-thump",
+            "displayName": "胶槌笃笃 Rubber Mallet Thump",
+            "description": "Original character Rubber Mallet Thump, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-cyclamen-twistpetal",
             "path": "cozy-cyclamen-twistpetal",
             "displayName": "仙客来旋瓣 Cyclamen Twistpetal",

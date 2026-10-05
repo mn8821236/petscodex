@@ -7348,6 +7348,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rui",
+            "path": "cozy-rui",
+            "displayName": "累 Rui",
+            "description": "Unofficial Rui fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

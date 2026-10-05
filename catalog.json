@@ -7315,6 +7315,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bruce-neopets",
+            "path": "cozy-bruce-neopets",
+            "displayName": "Bruce（布鲁斯） Bruce",
+            "description": "Unofficial Bruce fan-art animated companion inspired by the green Neopets catalogue form. Nine original states feature bow straightening, a soft card display and recovery, a brief foot-powered balancing scoot, waddling in three directions and a small hop. Rounded webbed-foot and flipper shapes are simplified for sprite readability; this is original fan choreography rather than an official Neopets animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

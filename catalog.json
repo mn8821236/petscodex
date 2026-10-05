@@ -7810,6 +7810,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-chester",
+            "path": "cozy-chester",
+            "displayName": "切斯特 Chester",
+            "description": "Unofficial Chester fan-art companion from Don’t Starve. Original storage-cord, soft eye-symbol marker, paper-scroll and shag-shake animations, four-legged directional trots and a low hop. The storage mouth is treated as an empty cartoon pouch; the rounded marker and light craft props are harmless creative adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

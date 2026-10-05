@@ -8184,6 +8184,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-terra",
+            "path": "cozy-terra",
+            "displayName": "泰拉 Terra",
+            "description": "Unofficial Terra fan-art animated companion from Kingdom Hearts, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

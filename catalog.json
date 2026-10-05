@@ -10133,6 +10133,28 @@
             ]
         },
         {
+            "id": "cozy-sengi-snuffle",
+            "path": "cozy-sengi-snuffle",
+            "displayName": "象鼩嗅嗅 Sengi Snuffle",
+            "description": "Sengi Snuffle is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-giant-anteater-brushtrail",
+            "path": "cozy-giant-anteater-brushtrail",
+            "displayName": "大食蚁兽帚尾 Giant Anteater Brushtrail",
+            "description": "Original character Giant Anteater Brushtrail, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-spoonbill-siftstep",
             "path": "cozy-spoonbill-siftstep",
             "displayName": "玫瑰琵鹭筛步 Spoonbill Siftstep",

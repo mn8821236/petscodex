@@ -9449,6 +9449,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-solosis",
+            "path": "cozy-solosis",
+            "displayName": "单卵细胞球 Solosis",
+            "description": "Unofficial Solosis fan-art animated companion from Pokémon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

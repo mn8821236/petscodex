@@ -9295,6 +9295,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rohan-kishibe",
+            "path": "cozy-rohan-kishibe",
+            "displayName": "岸边露伴 Rohan Kishibe",
+            "description": "Unofficial Rohan Kishibe fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

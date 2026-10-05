@@ -10131,6 +10131,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dik-dik-dewstep",
+            "path": "cozy-dik-dik-dewstep",
+            "displayName": "犬羚露步 Dik-dik Dewstep",
+            "description": "Original character Dik-dik Dewstep, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

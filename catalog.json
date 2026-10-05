@@ -7229,6 +7229,61 @@
             ]
         },
         {
+            "id": "cozy-kinito",
+            "path": "cozy-kinito",
+            "displayName": "奇尼托 Kinito",
+            "description": "Unofficial Kinito fan art from KinitoPET. This friendly armless pink companion nudges a smile disk with its feet, stretches six gill branches, recovers crossed legs and aligns colorful puzzle pieces. Nine animated states preserve its long black legs and broad feet. Original non-horror choreography; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-kyubey",
+            "path": "cozy-kyubey",
+            "displayName": "丘比 Kyubey",
+            "description": "Unofficial Kyubey fan art from Puella Magi Madoka Magica. A white four-pawed messenger curls one large tail, gently nudges a pink light dot, steps through a small loose light ring and performs quadrupedal directional trots and a soft hop. Nine original peaceful animated states preserve the separate ringed head appendages. No contract scenes or official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-shigeo-kageyama",
+            "path": "cozy-shigeo-kageyama",
+            "displayName": "影山茂夫 Shigeo Kageyama",
+            "description": "Unofficial Shigeo Kageyama fan art from Mob Psycho 100. Everyday-school Mob gently levitates paper balls, warms up with a plain schoolbag, inspects a potted plant and performs reserved directional jogs and a small jump. Full black school uniform, peaceful original choreography and no transformation or combat. No official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-steve",
+            "path": "cozy-steve",
+            "displayName": "史蒂夫 Steve",
+            "description": "Unofficial Minecraft Steve fan art. A rigid voxel companion builds a soft block stair, presents a miniature workbench, straightens a misplaced cube and arranges soft gray blocks with a blunt foam pickaxe. Nine animated states use shoulder-and-hip block pivots and directional strides. Original choreography; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-madoka-kaname",
+            "path": "cozy-madoka-kaname",
+            "displayName": "鹿目圆 Madoka Kaname",
+            "description": "Unofficial Madoka Kaname fan art from Puella Magi Madoka Magica, in her normal pink magical-girl outfit with a modest opaque high-neck underlayer and white tights. She ties a gift ribbon, displays a blunt miniature flower bow without arrows, turns with a paper flower and takes light directional steps and a small jump. Nine original peaceful animation states; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-homura-akemi",
             "path": "cozy-homura-akemi",
             "displayName": "晓美焰 Homura Akemi",

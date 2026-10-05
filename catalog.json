@@ -7766,6 +7766,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-leaf-sheep-dewleaf",
+            "path": "cozy-leaf-sheep-dewleaf",
+            "displayName": "叶羊露芽 Leaf Sheep Dewleaf",
+            "description": "Original Leaf Sheep Dewleaf sea-slug companion by Cozy Critters Studio, inspired by Costasiella morphology with a creamy continuous foot, two dark-tipped rhinophores and attached green leaf-shaped cerata. Nine independently drawn animation states include muscular gliding, algae-ribbon exploration, bubble watching and a stylized buoyant-pad rise. An original exploratory design, not an exact species reconstruction or a claim of market popularity.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

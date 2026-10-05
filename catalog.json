@@ -9451,6 +9451,116 @@
             ]
         },
         {
+            "id": "cozy-dorimon",
+            "path": "cozy-dorimon",
+            "displayName": "多利兽 Dorimon",
+            "description": "Unofficial Dorimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mabel-hoppers",
+            "path": "cozy-mabel-hoppers",
+            "displayName": "梅宝（河狸） Mabel Beaver",
+            "description": "Unofficial Mabel Beaver fan-art animated companion from Hoppers, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-punimon",
+            "path": "cozy-punimon",
+            "displayName": "普尼兽 Punimon",
+            "description": "Unofficial Punimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-flower-bambi",
+            "path": "cozy-flower-bambi",
+            "displayName": "花花 Flower",
+            "description": "Unofficial Flower fan-art animated companion from Bambi, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-cloth",
+            "path": "cozy-cloth",
+            "displayName": "阿布 Cloth",
+            "description": "Unofficial Cloth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-markoth",
+            "path": "cozy-markoth",
+            "displayName": "马科斯 Markoth",
+            "description": "Unofficial Markoth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mei-red-panda",
+            "path": "cozy-mei-red-panda",
+            "displayName": "美美（小熊猫） Red Panda Mei",
+            "description": "Unofficial Red Panda Mei fan-art animated companion from Turning Red, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-goomy",
+            "path": "cozy-goomy",
+            "displayName": "黏黏宝 Goomy",
+            "description": "Unofficial Goomy fan-art animated companion from Pokémon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-fire-spirit-cookie",
+            "path": "cozy-fire-spirit-cookie",
+            "displayName": "火精灵饼干 Fire Spirit Cookie",
+            "description": "Unofficial Fire Spirit Cookie fan-art animated companion from Cookie Run, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-solosis",
+            "path": "cozy-solosis",
+            "displayName": "单卵细胞球 Solosis",
+            "description": "Unofficial Solosis fan-art animated companion from Pokémon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-puro",
             "path": "cozy-puro",
             "displayName": "普罗 Puro",

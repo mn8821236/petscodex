@@ -7656,6 +7656,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dorumon",
+            "path": "cozy-dorumon",
+            "displayName": "多路兽 Dorumon",
+            "description": "Unofficial Dorumon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

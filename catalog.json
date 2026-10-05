@@ -9570,6 +9570,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sajin-komamura",
+            "path": "cozy-sajin-komamura",
+            "displayName": "狛村左阵 Sajin Komamura",
+            "description": "Unofficial Sajin Komamura fan-art animated companion from BLEACH, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

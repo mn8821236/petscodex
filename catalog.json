@@ -10010,6 +10010,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-avocet-sweepbill",
+            "path": "cozy-avocet-sweepbill",
+            "displayName": "反嘴鹬弯弯 Avocet Sweepbill",
+            "description": "Avocet Sweepbill is an independently designed original companion with nine expressive animated states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

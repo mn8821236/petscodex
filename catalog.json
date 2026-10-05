@@ -9647,6 +9647,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pika-scree",
+            "path": "cozy-pika-scree",
+            "displayName": "鼠兔碎岩 Pika Scree",
+            "description": "Original character Pika Scree, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

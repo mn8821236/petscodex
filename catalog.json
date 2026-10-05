@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-otomachi-una",
+            "path": "cozy-otomachi-una",
+            "displayName": "音街鳗 Otomachi Una",
+            "description": "Unofficial Otomachi Una fan-art companion in a simplified dark-blue and yellow costume, fixed eel hat and paired three-section purple braids. Original choreography includes arranging translucent paper circles, a gentle braid-swinging side step, paper recovery, foam-baton waiting, paper-strip rolling, articulated directional runs and a small hop. Nine independently drawn states with modest clothing and simplified details.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

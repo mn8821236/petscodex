@@ -9592,6 +9592,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jon-talbain",
+            "path": "cozy-jon-talbain",
+            "displayName": "加隆 Jon Talbain",
+            "description": "Unofficial Jon Talbain fan-art animated companion from Darkstalkers, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

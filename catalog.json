@@ -10131,6 +10131,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-beanbag-plump",
+            "path": "cozy-beanbag-plump",
+            "displayName": "豆袋墩墩 Beanbag Plump",
+            "description": "Original character Beanbag Plump, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

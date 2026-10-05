@@ -9823,6 +9823,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-numbat-stripelet",
+            "path": "cozy-numbat-stripelet",
+            "displayName": "袋食蚁兽纹纹 Numbat Stripelet",
+            "description": "Original character Numbat Stripelet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

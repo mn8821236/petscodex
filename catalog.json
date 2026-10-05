@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mitsuri-kanroji",
+            "path": "cozy-mitsuri-kanroji",
+            "displayName": "甘露寺蜜璃 Mitsuri Kanroji",
+            "description": "Unofficial Mitsuri Kanroji fan-art companion inspired by Demon Slayer, with a closed opaque neckline, longer skirt and full dark leggings. Original foam-dumpling inspection, soft ribbon-heart craft, gentle braid stretches and three-direction jogging. Portrait-based face cues and familiar full-body adaptations are distinguished; no sword or revealing poses.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

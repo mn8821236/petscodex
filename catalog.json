@@ -9691,6 +9691,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-quail-pebbles",
+            "path": "cozy-quail-pebbles",
+            "displayName": "鹌鹑点点 Quail Pebbles",
+            "description": "Original character Quail Pebbles, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

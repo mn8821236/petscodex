@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-noctis",
+            "path": "cozy-noctis",
+            "displayName": "诺克提斯·路西斯·凯拉姆 Noctis Lucis Caelum",
+            "description": "Unofficial Noctis Lucis Caelum fan-art companion from Final Fantasy XV. Original animation includes seated toy fishing, photo-card inspection, drowsy jacket adjustment and playful toy-food choices. The rod has a short soft string and no hook; food is a model. Lower travel-clothing detail is simplified from familiar cues.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

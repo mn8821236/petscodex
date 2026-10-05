@@ -9977,6 +9977,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-coati-noseleaf",
+            "path": "cozy-coati-noseleaf",
+            "displayName": "长鼻浣熊嗅叶 Coati Noseleaf",
+            "description": "Original character Coati Noseleaf, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

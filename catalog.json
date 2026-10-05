@@ -7315,6 +7315,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-usul-neopets",
+            "path": "cozy-usul-neopets",
+            "displayName": "Usul（尤苏尔） Usul",
+            "description": "Unofficial Usul fan-art animated companion inspired by the yellow Neopets catalogue form. Nine original states include tail-supported paper smoothing and recovery, arranging two oversized toy nuts, attentive ear and heel bobs, squirrel-like movement in three directions, and a small hop. Simplified cel sprites and gentle toy-prop choreography are original adaptations, not official Neopets animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -8459,6 +8459,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sir-pentious",
+            "path": "cozy-sir-pentious",
+            "displayName": "潘修斯爵士 Sir Pentious",
+            "description": "Unofficial Sir Pentious fan-art animated companion from Hazbin Hotel, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

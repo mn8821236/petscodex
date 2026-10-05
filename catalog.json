@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ena-s1",
+            "path": "cozy-ena-s1",
+            "displayName": "ENA（伊娜） ENA",
+            "description": "Unofficial ENA first-season fan art. Independently drawn blue-and-yellow geometric character with original puzzle-tile play, imitation-sweet presentation and cautious foam-step testing. Physical-right blue and physical-left yellow colors remain fixed; opaque split-color tights are a disclosed modest clothing adaptation. Jump and walking choreography is original, not an official sequence.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

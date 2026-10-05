@@ -8910,6 +8910,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lupe-neopets",
+            "path": "cozy-lupe-neopets",
+            "displayName": "卢佩 Lupe",
+            "description": "Unofficial Lupe fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

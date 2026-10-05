@@ -9735,6 +9735,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sundew-curl",
+            "path": "cozy-sundew-curl",
+            "displayName": "茅膏菜卷卷 Sundew Curl",
+            "description": "Original character Sundew Curl, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

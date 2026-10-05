@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-doppo-kunikida",
+            "path": "cozy-doppo-kunikida",
+            "displayName": "国木田独步 Doppo Kunikida",
+            "description": "Unofficial fan-art Doppo Kunikida companion from Bungo Stray Dogs, the fictional detective. Original notebook checking, stationery alignment, page-corner smoothing and measured walking animations. His beige waistcoat, opaque black shirt and trousers are conservatively simplified; notebook marks are unreadable and all weapons are omitted. Not affiliated with the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

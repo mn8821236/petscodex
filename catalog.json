@@ -9746,6 +9746,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-thimble-thrum",
+            "path": "cozy-thimble-thrum",
+            "displayName": "顶针咚咚 Thimble Thrum",
+            "description": "Original character Thimble Thrum, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

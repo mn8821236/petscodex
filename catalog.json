@@ -8261,6 +8261,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mighty-armadillo",
+            "path": "cozy-mighty-armadillo",
+            "displayName": "迈迪犰狳 Mighty the Armadillo",
+            "description": "Unofficial Mighty the Armadillo fan-art animated companion from Sonic the Hedgehog. Original gentle choreography includes shell-and-foam-ball balancing, half-curl rocking and toe-testing three foam stones. No official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

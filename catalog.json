@@ -9669,6 +9669,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lithops-twinbud",
+            "path": "cozy-lithops-twinbud",
+            "displayName": "生石花双芽 Lithops Twinbud",
+            "description": "Lithops Twinbud is an original fantasy succulent companion with two joined living-stone leaf lobes and one soft shared base. Its elastic creeping, lobe greetings and bouncing are imagined character animation, not real plant movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

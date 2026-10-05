@@ -7909,6 +7909,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dib-membrane",
+            "path": "cozy-dib-membrane",
+            "displayName": "迪布 Dib Membrane",
+            "description": "Unofficial Dib Membrane fan-art animated companion from Invader Zim, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

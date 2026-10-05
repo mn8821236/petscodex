@@ -9229,6 +9229,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-himiko-toga",
+            "path": "cozy-himiko-toga",
+            "displayName": "渡我被身子 Himiko Toga",
+            "description": "Unofficial Himiko Toga fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

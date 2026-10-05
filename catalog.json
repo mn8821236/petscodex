@@ -10131,6 +10131,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cattail-reedruff",
+            "path": "cozy-cattail-reedruff",
+            "displayName": "香蒲绒穗 Cattail Reedruff",
+            "description": "Cattail Reedruff is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

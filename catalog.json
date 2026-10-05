@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mochi-weyrdlets",
+            "path": "cozy-mochi-weyrdlets",
+            "displayName": "麻薯 Mochi",
+            "description": "Unofficial Mochi fan-art animated companion from Weyrdlets. Original head-turning, foam-ball play, small paper-ring hops and expressive two-foot movement. Coral branches follow head motion and are not hearing ears. Each branch has two rounded tips as a drawing simplification; no unseen tail is added.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

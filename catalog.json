@@ -7293,6 +7293,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kasane-teto",
+            "path": "cozy-kasane-teto",
+            "displayName": "重音Teto Kasane Teto",
+            "description": "Unofficial fan art of Kasane Teto in a gray red-trim uniform. A compact cel-animation adaptation with simplified three-coil red drill hair, opaque coverage, paper beat-card rhythm, cone rerolling and a toe-star sequence. Character-specific choreography and paper props are original; this is not an official animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

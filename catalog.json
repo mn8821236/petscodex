@@ -9812,6 +9812,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-red-river-hog-tuft",
+            "path": "cozy-red-river-hog-tuft",
+            "displayName": "红河猪穗穗 Red River Hog Tuft",
+            "description": "Original character Red River Hog Tuft, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

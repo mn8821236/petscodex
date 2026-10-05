@@ -9306,6 +9306,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tsunomon",
+            "path": "cozy-tsunomon",
+            "displayName": "犄角兽 Tsunomon",
+            "description": "Unofficial Tsunomon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

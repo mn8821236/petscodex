@@ -7535,6 +7535,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hitoshi-shinso",
+            "path": "cozy-hitoshi-shinso",
+            "displayName": "心操人使 Hitoshi Shinso",
+            "description": "Unofficial fan-art Hitoshi Shinso companion inspired by My Hero Academia. Independently drawn school-training animation with gray practice-cloth folding, vocal and neck warm-ups, a small timer and finger-count exercise, and original jogging and low-jump cycles. Opaque navy training clothing and safe short cloth props remain consistent; no binding actions or official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

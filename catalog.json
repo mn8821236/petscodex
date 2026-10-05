@@ -9119,6 +9119,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-damian-desmond",
+            "path": "cozy-damian-desmond",
+            "displayName": "达米安·德斯蒙 Damian Desmond",
+            "description": "Unofficial Damian Desmond fan-art animated companion from SPY×FAMILY, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

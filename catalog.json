@@ -8085,6 +8085,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-don-quixote-lcb",
+            "path": "cozy-don-quixote-lcb",
+            "displayName": "堂吉诃德 Don Quixote",
+            "description": "Unofficial Don Quixote fan-art companion in her LCB default appearance from Limbus Company. Original routines include comparing rounded toy badges, a courteous toe-rise and bow, catching a rolling badge, eager tie adjustment and polishing a closed shoe on a low foam block. Uniform layers are preserved, while shoe details and badges are simplified without readable branding. No lance, weapon action or transformation appears.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

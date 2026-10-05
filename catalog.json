@@ -7348,6 +7348,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tuskaninny-neopets",
+            "path": "cozy-tuskaninny-neopets",
+            "displayName": "塔斯卡尼尼 Tuskaninny",
+            "description": "Unofficial Tuskaninny fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10034,6 +10034,17 @@
             ]
         },
         {
+            "id": "cozy-ginkgo-fanlet",
+            "path": "cozy-ginkgo-fanlet",
+            "displayName": "银杏扇扇 Ginkgo Fanlet",
+            "description": "Ginkgo Fanlet is an independently designed original companion with nine expressive animated states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-rubber-mallet-thump",
             "path": "cozy-rubber-mallet-thump",
             "displayName": "胶槌笃笃 Rubber Mallet Thump",

@@ -10197,6 +10197,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sea-hare-velvetwave",
+            "path": "cozy-sea-hare-velvetwave",
+            "displayName": "海兔绒浪 Sea Hare Velvetwave",
+            "description": "Original character Sea Hare Velvetwave, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

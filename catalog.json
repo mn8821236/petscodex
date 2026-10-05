@@ -9130,6 +9130,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-yuta-okkotsu",
+            "path": "cozy-yuta-okkotsu",
+            "displayName": "乙骨忧太 Yuta Okkotsu",
+            "description": "Unofficial Yuta Okkotsu fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

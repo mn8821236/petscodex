@@ -10153,6 +10153,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-spoonbill-siftstep",
+            "path": "cozy-spoonbill-siftstep",
+            "displayName": "玫瑰琵鹭筛步 Spoonbill Siftstep",
+            "description": "Spoonbill Siftstep is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

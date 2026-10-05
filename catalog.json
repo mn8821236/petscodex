@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-basil-headspace",
+            "path": "cozy-basil-headspace",
+            "displayName": "巴兹尔 Basil",
+            "description": "Unofficial Basil fan-art animated companion from OMORI, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9781,6 +9781,17 @@
             ]
         },
         {
+            "id": "cozy-kiwi-tiptoe",
+            "path": "cozy-kiwi-tiptoe",
+            "displayName": "几维鸟轻踏 Kiwi Tiptoe",
+            "description": "Original character Kiwi Tiptoe, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-spinning-top-drowse",
             "path": "cozy-spinning-top-drowse",
             "displayName": "陀螺晃晃 Spinning Top Drowse",

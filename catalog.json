@@ -9933,6 +9933,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-doorstop-wedgelet",
+            "path": "cozy-doorstop-wedgelet",
+            "displayName": "门挡楔楔 Doorstop Wedgelet",
+            "description": "Original character Doorstop Wedgelet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

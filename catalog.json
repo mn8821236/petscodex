@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-elephante",
+            "path": "cozy-elephante",
+            "displayName": "Elephante（艾勒芬特） Elephante",
+            "description": "Unofficial Elephante fan-art companion inspired by the blue basic Neopets species. Compact upright elephant design with one trunk, broad ears, small pale wings and a yellow headcloth with a red gem; wing feather lobes are simplified for the drawing. Nine original motions include soft-ball placement and recovery, ear-fan flower display, note inspection, bipedal steps and a small hop. No official animation or affiliation is implied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9086,6 +9086,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-boyfriend-fnf",
+            "path": "cozy-boyfriend-fnf",
+            "displayName": "男友 Boyfriend",
+            "description": "Unofficial Boyfriend fan-art animated companion from Friday Night Funkin', with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

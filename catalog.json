@@ -8437,6 +8437,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-three-bfdi",
+            "path": "cozy-three-bfdi",
+            "displayName": "Three（三） Three",
+            "description": "Unofficial Three fan-art animated companion inspired by Battle for Dream Island. The red numeral keeps its anatomical-right white eye cover and normal readable shape. Original animation includes handling three paper balls, aligning three blank tiles, folding a soft paper flag and recovering a drooping flag, plus short steps and a hop. Smooth drawn surfaces replace plush fabric; paper, foam and rounded props are gentle display adaptations. Not official or endorsed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

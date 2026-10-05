@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rouxls-kaard",
+            "path": "cozy-rouxls-kaard",
+            "displayName": "鲁尔斯·卡德 Rouxls Kaard",
+            "description": "Unofficial Rouxls Kaard fan-art companion from Deltarune. White-haired blue-purple duke with original foam-puzzle arranging, unreadable scroll presentation, courtly recovery and hair-sweep routines. Independent safe prop and animation adaptations; no endorsement or license claim.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

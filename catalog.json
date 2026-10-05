@@ -8758,6 +8758,699 @@
             ]
         },
         {
+            "id": "cozy-gnorbu",
+            "path": "cozy-gnorbu",
+            "displayName": "格诺布 Gnorbu",
+            "description": "Unofficial Gnorbu fan-art animated companion inspired by Neopets. This pink llama-like quadruped shakes a red mane, noses a soft fence upright, recovers a paper leaf, steps through a low toy ring and grooms its mane. Original animation uses articulated right, left and forward runs and a low hop. The six main mane masses and plain opposite flank are disclosed drawing simplifications; three red spots stay on one fixed reference-facing side.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-eyrie",
+            "path": "cozy-eyrie",
+            "displayName": "艾利 Eyrie",
+            "description": "Unofficial Eyrie fan-art animated companion inspired by Neopets. This golden griffin carries a warm light along a cream wing, arranges and recovers a paper feather in a soft purple holder, fans both wings and waits with a small ear twitch. Original choreography includes articulated right, left and forward trots and a wing-balanced low hop. Broad forepaws, splayed three-toed hindfeet and five main feather panels per wing are declared drawing simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-acara-neopets",
+            "path": "cozy-acara-neopets",
+            "displayName": "Acara（阿卡拉） Acara",
+            "description": "Unofficial Acara fan-art animated companion inspired by the red Neopets catalogue form. Nine original states feature a horn-glint head tilt, a folded-paper bookmark display, careful paper-arch recovery and passage, quadruped movement in three directions, and a small hop. Simplified sprite rendering and paper-prop choreography are original adaptations, not official Neopets animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-usul-neopets",
+            "path": "cozy-usul-neopets",
+            "displayName": "Usul（尤苏尔） Usul",
+            "description": "Unofficial Usul fan-art animated companion inspired by the yellow Neopets catalogue form. Nine original states include tail-supported paper smoothing and recovery, arranging two oversized toy nuts, attentive ear and heel bobs, squirrel-like movement in three directions, and a small hop. Simplified cel sprites and gentle toy-prop choreography are original adaptations, not official Neopets animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bruce-neopets",
+            "path": "cozy-bruce-neopets",
+            "displayName": "Bruce（布鲁斯） Bruce",
+            "description": "Unofficial Bruce fan-art animated companion inspired by the green Neopets catalogue form. Nine original states feature bow straightening, a soft card display and recovery, a brief foot-powered balancing scoot, waddling in three directions and a small hop. Rounded webbed-foot and flipper shapes are simplified for sprite readability; this is original fan choreography rather than an official Neopets animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mynci-neopets",
+            "path": "cozy-mynci-neopets",
+            "displayName": "Mynci（明奇） Mynci",
+            "description": "Unofficial Mynci fan-art animated companion inspired by the red Neopets catalogue form. Nine original states include a gentle tail-to-hand paper-ring transfer, arranging and straightening three rounded foam blocks, checking the single tail curl, biped movement in three directions and a small jump. Prehensile tail use and rounded hand/toe rendering are disclosed fan-art adaptations, not observed official animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-scorchio-neopets",
+            "path": "cozy-scorchio-neopets",
+            "displayName": "Scorchio（斯科奇奥） Scorchio",
+            "description": "Unofficial Scorchio fan-art animated companion inspired by the yellow Neopets catalogue form. Nine original states include a gentle exhale toward a paper sail, unfolding two membrane wings, steadying the sail, smoothing a note against the single thick tail, biped movement in three directions and a small wing-balanced hop. Crown spikes and belly panels use a fixed simplified sprite map; choreography is original fan art rather than an official Neopets animation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-grarrl-neopets",
+            "path": "cozy-grarrl-neopets",
+            "displayName": "Grarrl（格拉尔） Grarrl",
+            "description": "Unofficial Grarrl fan-art companion from Neopets. Original red cel-animation artwork with green eyes and a softly lighter red belly adaptation, short arms folding a paper box, tail-balanced card reading, a gentle paper-ball nudge, weighty three-direction steps and a small hop. Teeth remain inside the friendly smile. These are independently choreographed animations, not official game frames.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-korbat-neopets",
+            "path": "cozy-korbat-neopets",
+            "displayName": "Korbat（科巴特） Korbat",
+            "description": "Unofficial Korbat fan-art companion from Neopets. Original pale bat artwork with two red membrane wings, large pink-inner ears and one arrow-tip tail. Korbat presents a paper tag, turns its ears beside a soft paper bell, flutters over a paper circle, and flies in three directions with visible wingbeats. Rounded wing-thumb gripping and friendly paper props are original cartoon adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bori-neopets",
+            "path": "cozy-bori-neopets",
+            "displayName": "Bori（博里） Bori",
+            "description": "Unofficial Bori fan-art companion from Neopets. Original green cel-animation artwork with four simplified overlapping back-armor bands, four broad paws and one curled tuft tail. Bori tidies soft paper, arches a page over its saddle, steps around a blunt foam bar, clears a paper scrap, and moves with three-direction quadruped steps and a low hop. Animation and prop interactions are original adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-pteri-neopets",
+            "path": "cozy-pteri-neopets",
+            "displayName": "Pteri（普特里） Pteri",
+            "description": "Unofficial Pteri fan-art companion from Neopets. Original yellow bird artwork with a pale belly, simplified three-lobed crest and feathered tail. Pteri dips and resets its crest, presents and steadies a soft paper fan, steps around a flat rounded foam disk, moves in three directions and makes a wing-assisted hop. The safe foam disk replaces a research thumbtack idea; these are original animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-cybunny-neopets",
+            "path": "cozy-cybunny-neopets",
+            "displayName": "赛邦尼 Cybunny",
+            "description": "Unofficial independently drawn Cybunny animated fan-art companion from Neopets. Nine original animation states; harmless paper props and compact sprite simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-kanao-tsuyuri",
+            "path": "cozy-kanao-tsuyuri",
+            "displayName": "栗花落香奈乎 Kanao Tsuyuri",
+            "description": "Unofficial independently drawn Kanao Tsuyuri animated fan-art companion from Demon Slayer: Kimetsu no Yaiba. Nine original animation states; harmless paper props and compact sprite simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-lightbulb-ii",
+            "path": "cozy-lightbulb-ii",
+            "displayName": "灯泡 Lightbulb",
+            "description": "Unofficial independently drawn Lightbulb animated fan-art companion from Inanimate Insanity. Nine original animation states; harmless paper props and compact sprite simplifications.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-lupe-neopets",
+            "path": "cozy-lupe-neopets",
+            "displayName": "卢佩 Lupe",
+            "description": "Unofficial Lupe fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-uni-neopets",
+            "path": "cozy-uni-neopets",
+            "displayName": "优尼 Uni",
+            "description": "Unofficial Uni fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-wocky-neopets",
+            "path": "cozy-wocky-neopets",
+            "displayName": "沃奇 Wocky",
+            "description": "Unofficial Wocky fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-gelert-neopets",
+            "path": "cozy-gelert-neopets",
+            "displayName": "盖勒特 Gelert",
+            "description": "Unofficial Gelert fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ixi-neopets",
+            "path": "cozy-ixi-neopets",
+            "displayName": "伊克西 Ixi",
+            "description": "Unofficial Ixi fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-zafara-neopets",
+            "path": "cozy-zafara-neopets",
+            "displayName": "扎法拉 Zafara",
+            "description": "Unofficial Zafara fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-kau-neopets",
+            "path": "cozy-kau-neopets",
+            "displayName": "考 Kau",
+            "description": "Unofficial Kau fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-tuskaninny-neopets",
+            "path": "cozy-tuskaninny-neopets",
+            "displayName": "塔斯卡尼尼 Tuskaninny",
+            "description": "Unofficial Tuskaninny fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-muichiro-tokito",
+            "path": "cozy-muichiro-tokito",
+            "displayName": "时透无一郎 Muichiro Tokito",
+            "description": "Unofficial Muichiro Tokito fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-obanai-iguro",
+            "path": "cozy-obanai-iguro",
+            "displayName": "伊黑小芭内 Obanai Iguro",
+            "description": "Unofficial Obanai Iguro fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sanemi-shinazugawa",
+            "path": "cozy-sanemi-shinazugawa",
+            "displayName": "不死川实弥 Sanemi Shinazugawa",
+            "description": "Unofficial Sanemi Shinazugawa fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-enmu",
+            "path": "cozy-enmu",
+            "displayName": "魇梦 Enmu",
+            "description": "Unofficial Enmu fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rui",
+            "path": "cozy-rui",
+            "displayName": "累 Rui",
+            "description": "Unofficial Rui fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-gyutaro",
+            "path": "cozy-gyutaro",
+            "displayName": "妓夫太郎 Gyutaro",
+            "description": "Unofficial Gyutaro fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-panda-jujutsu-kaisen",
+            "path": "cozy-panda-jujutsu-kaisen",
+            "displayName": "熊猫（咒术回战） Panda",
+            "description": "Unofficial Panda fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-iggy-jojo",
+            "path": "cozy-iggy-jojo",
+            "displayName": "伊奇 Iggy",
+            "description": "Unofficial Iggy fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-boyfriend-fnf",
+            "path": "cozy-boyfriend-fnf",
+            "displayName": "男友 Boyfriend",
+            "description": "Unofficial Boyfriend fan-art animated companion from Friday Night Funkin', with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-aubrey-omori",
+            "path": "cozy-aubrey-omori",
+            "displayName": "奥布里 Aubrey",
+            "description": "Unofficial Aubrey fan-art animated companion from OMORI, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-toge-inumaki",
+            "path": "cozy-toge-inumaki",
+            "displayName": "狗卷棘 Toge Inumaki",
+            "description": "Unofficial Toge Inumaki fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-damian-desmond",
+            "path": "cozy-damian-desmond",
+            "displayName": "达米安·德斯蒙 Damian Desmond",
+            "description": "Unofficial Damian Desmond fan-art animated companion from SPY×FAMILY, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-yuta-okkotsu",
+            "path": "cozy-yuta-okkotsu",
+            "displayName": "乙骨忧太 Yuta Okkotsu",
+            "description": "Unofficial Yuta Okkotsu fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-becky-blackbell",
+            "path": "cozy-becky-blackbell",
+            "displayName": "贝姬·布莱克贝尔 Becky Blackbell",
+            "description": "Unofficial Becky Blackbell fan-art animated companion from SPY×FAMILY, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-minoru-mineta",
+            "path": "cozy-minoru-mineta",
+            "displayName": "峰田实 Minoru Mineta",
+            "description": "Unofficial Minoru Mineta fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ochaco-uraraka",
+            "path": "cozy-ochaco-uraraka",
+            "displayName": "丽日御茶子 Ochaco Uraraka",
+            "description": "Unofficial Ochaco Uraraka fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mirage-apex",
+            "path": "cozy-mirage-apex",
+            "displayName": "幻象 Mirage",
+            "description": "Unofficial Mirage fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-gibraltar-apex",
+            "path": "cozy-gibraltar-apex",
+            "displayName": "直布罗陀 Gibraltar",
+            "description": "Unofficial Gibraltar fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-fuse-apex",
+            "path": "cozy-fuse-apex",
+            "displayName": "暴雷 Fuse",
+            "description": "Unofficial Fuse fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-suguru-geto",
+            "path": "cozy-suguru-geto",
+            "displayName": "夏油杰 Suguru Geto",
+            "description": "Unofficial Suguru Geto fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-choso",
+            "path": "cozy-choso",
+            "displayName": "胀相 Choso",
+            "description": "Unofficial Choso fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-himiko-toga",
+            "path": "cozy-himiko-toga",
+            "displayName": "渡我被身子 Himiko Toga",
+            "description": "Unofficial Himiko Toga fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-shota-aizawa",
+            "path": "cozy-shota-aizawa",
+            "displayName": "相泽消太 Shota Aizawa",
+            "description": "Unofficial Shota Aizawa fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-yuri-briar",
+            "path": "cozy-yuri-briar",
+            "displayName": "尤里·布莱尔 Yuri Briar",
+            "description": "Unofficial Yuri Briar fan-art animated companion from SPY×FAMILY, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-jotaro-kujo",
+            "path": "cozy-jotaro-kujo",
+            "displayName": "空条承太郎 Jotaro Kujo",
+            "description": "Unofficial Jotaro Kujo fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-jean-pierre-polnareff",
+            "path": "cozy-jean-pierre-polnareff",
+            "displayName": "让·皮埃尔·波鲁那雷夫 Jean Pierre Polnareff",
+            "description": "Unofficial Jean Pierre Polnareff fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-dorumon",
+            "path": "cozy-dorumon",
+            "displayName": "多路兽 Dorumon",
+            "description": "Unofficial Dorumon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rohan-kishibe",
+            "path": "cozy-rohan-kishibe",
+            "displayName": "岸边露伴 Rohan Kishibe",
+            "description": "Unofficial Rohan Kishibe fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-tsunomon",
+            "path": "cozy-tsunomon",
+            "displayName": "犄角兽 Tsunomon",
+            "description": "Unofficial Tsunomon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-valkyrie-apex",
+            "path": "cozy-valkyrie-apex",
+            "displayName": "瓦尔基里 Valkyrie",
+            "description": "Unofficial Valkyrie fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-jushiro-ukitake",
+            "path": "cozy-jushiro-ukitake",
+            "displayName": "浮竹十四郎 Jushiro Ukitake",
+            "description": "Unofficial Jushiro Ukitake fan-art animated companion from Bleach, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-siffrin-isat",
+            "path": "cozy-siffrin-isat",
+            "displayName": "希弗林 Siffrin",
+            "description": "Unofficial Siffrin fan-art animated companion from In Stars and Time, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-gabumon",
+            "path": "cozy-gabumon",
+            "displayName": "加布兽 Gabumon",
+            "description": "Unofficial Gabumon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-aquilamon",
+            "path": "cozy-aquilamon",
+            "displayName": "天鹰兽 Aquilamon",
+            "description": "Unofficial Aquilamon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-shuhei-hisagi",
+            "path": "cozy-shuhei-hisagi",
+            "displayName": "桧佐木修兵 Shuhei Hisagi",
+            "description": "Unofficial Shuhei Hisagi fan-art animated companion from Bleach, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-nahida",
+            "path": "cozy-nahida",
+            "displayName": "纳西妲 Nahida",
+            "description": "Unofficial Nahida fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-danny-phantom",
+            "path": "cozy-danny-phantom",
+            "displayName": "幻影丹尼 Danny Phantom",
+            "description": "Unofficial Danny Phantom fan-art animated companion from Danny Phantom, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-terra",
+            "path": "cozy-terra",
+            "displayName": "泰拉 Terra",
+            "description": "Unofficial Terra fan-art animated companion from Kingdom Hearts, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-something-omori",
+            "path": "cozy-something-omori",
+            "displayName": "某个东西 SOMETHING",
+            "description": "Unofficial SOMETHING fan-art animated companion from OMORI, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rainmaker-corporate-clash",
+            "path": "cozy-rainmaker-corporate-clash",
+            "displayName": "造雨者 Rainmaker",
+            "description": "Unofficial Rainmaker fan-art animated companion from Toontown: Corporate Clash, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sir-pentious",
+            "path": "cozy-sir-pentious",
+            "displayName": "潘修斯爵士 Sir Pentious",
+            "description": "Unofficial Sir Pentious fan-art animated companion from Hazbin Hotel, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-dorimon",
             "path": "cozy-dorimon",
             "displayName": "多利兽 Dorimon",

@@ -9834,6 +9834,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pitcher-plant-sip",
+            "path": "cozy-pitcher-plant-sip",
+            "displayName": "瓶子草饮饮 Pitcher Plant Sip",
+            "description": "Original character Pitcher Plant Sip, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

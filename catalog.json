@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kirisame-marisa",
+            "path": "cozy-kirisame-marisa",
+            "displayName": "雾雨魔理沙 Kirisame Marisa",
+            "description": "Unofficial fan art of Kirisame Marisa from Touhou Project. A modest black-and-white cel-animation adaptation with one anatomical-left braid, toy-jar lid recovery, three-paper-star sweeping and moon-disc inspection. Toy broom appears in selected states; leftward and frontward steps are prop-free for clear articulated gait. Props and choreography are original, not official animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

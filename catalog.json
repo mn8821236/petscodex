@@ -9625,6 +9625,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aardvark-dune",
+            "path": "cozy-aardvark-dune",
+            "displayName": "土豚沙丘 Aardvark Dune",
+            "description": "Original character Aardvark Dune, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

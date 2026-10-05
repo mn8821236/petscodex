@@ -9383,6 +9383,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-goomy",
+            "path": "cozy-goomy",
+            "displayName": "黏黏宝 Goomy",
+            "description": "Unofficial Goomy fan-art animated companion from Pokémon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

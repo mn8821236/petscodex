@@ -7293,6 +7293,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mami-tomoe",
+            "path": "cozy-mami-tomoe",
+            "displayName": "巴麻美 Mami Tomoe",
+            "description": "Unofficial fan art of Mami Tomoe from Puella Magi Madoka Magica. Original tea-service, ribbon-coiling and paper-cake animations, with careful cup-handle correction and three articulated running directions. Opaque continuous sleeves and plum tights are modest adaptations. Props are an empty cup, soft ribbon, pre-cut paper cake and rounded paper fork. No guns or combat; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

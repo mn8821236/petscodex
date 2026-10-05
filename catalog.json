@@ -7403,6 +7403,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-serial-designation-j",
+            "path": "cozy-serial-designation-j",
+            "displayName": "序列编号J Serial Designation J",
+            "description": "Unofficial Serial Designation J fan-art companion from Murder Drones. Original clipboard checks, document-stamping recovery, cable-care greeting, trophy polishing and three-direction mechanical running. Her tail uses a sealed blunt cap instead of a hazardous needle, and opaque lower-body mechanical panels are a modest adaptation. No affiliation or licensing is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

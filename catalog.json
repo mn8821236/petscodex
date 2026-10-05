@@ -9625,6 +9625,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mudskipper-bank",
+            "path": "cozy-mudskipper-bank",
+            "displayName": "弹涂鱼滩滩 Mudskipper Bank",
+            "description": "Mudskipper Bank is an original mudskipper-inspired companion with expressive raised eyes and fan-shaped pectoral supports. Its nine animated routines include fin-assisted crutching, a low leap and curious fin inspection.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

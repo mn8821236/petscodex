@@ -9845,6 +9845,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-horsetail-reedlet",
+            "path": "cozy-horsetail-reedlet",
+            "displayName": "木贼节节 Horsetail Reedlet",
+            "description": "Original character Horsetail Reedlet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

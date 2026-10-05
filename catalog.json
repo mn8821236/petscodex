@@ -7216,6 +7216,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mato-kuroi",
+            "path": "cozy-mato-kuroi",
+            "displayName": "黑衣麻陶 Mato Kuroi",
+            "description": "Unofficial Mato Kuroi fan-art animated companion from Black Rock Shooter, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

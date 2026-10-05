@@ -9383,6 +9383,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nahida",
+            "path": "cozy-nahida",
+            "displayName": "纳西妲 Nahida",
+            "description": "Unofficial Nahida fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

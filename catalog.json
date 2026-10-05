@@ -10230,6 +10230,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-skink-tonguetip",
+            "path": "cozy-skink-tonguetip",
+            "displayName": "石龙子蓝舌 Skink Tonguetip",
+            "description": "Original character Skink Tonguetip, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

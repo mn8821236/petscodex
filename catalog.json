@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-taro-sakamoto",
+            "path": "cozy-taro-sakamoto",
+            "displayName": "坂本太郎 Taro Sakamoto",
+            "description": "Unofficial fan-art Taro Sakamoto companion from Sakamoto Days in his present-day rounded shopkeeper form. Original grocery-bag packing, soft-can steadying, receipt rolling and grounded shuffle animations keep his mustard shirt and green apron silhouette. Props are lightweight shopkeeping models with unreadable labels; no weapons or combat-form transformation. Not affiliated with the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

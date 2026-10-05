@@ -9328,6 +9328,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jushiro-ukitake",
+            "path": "cozy-jushiro-ukitake",
+            "displayName": "浮竹十四郎 Jushiro Ukitake",
+            "description": "Unofficial Jushiro Ukitake fan-art animated companion from Bleach, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

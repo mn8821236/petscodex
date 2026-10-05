@@ -7282,6 +7282,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gir-dog-suit",
+            "path": "cozy-gir-dog-suit",
+            "displayName": "GIR（吉尔） GIR",
+            "description": "Unofficial GIR fan art from Invader Zim, in the fully closed green dog disguise. Original animations feature zipper pats, floppy-ear greetings, foam-snack steering and recovery, seated glances, a low hop, and bouncy steps in three directions. The safe foam disc remains carried through waiting, jumping and front-running poses.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

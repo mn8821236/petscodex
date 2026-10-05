@@ -8602,6 +8602,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-chia",
+            "path": "cozy-chia",
+            "displayName": "Chia（奇亚） Chia",
+            "description": "Unofficial Chia fan-art companion from Neopets in the basic blue species form. Original animations nudge a soft paper cup upright, sway a single simplified five-point hair tuft, balance on two low soft pads, recover a foot placement, walk in three directions and make a buoyant hop. The tuft moves passively; drawing and choreography are original adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

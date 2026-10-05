@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sea-pig-trundle",
+            "path": "cozy-sea-pig-trundle",
+            "displayName": "海猪·小步 Sea Pig Trundle",
+            "description": "Original Scotoplanes-inspired Sea Pig Trundle companion, with soft tube-foot walking waves, oral-tentacle greeting, careful pebble stepping and a gentle buoyant leaf-tray rise. The six pairs of feet and two pairs of dorsal papillae are a simplified original design with view-dependent occlusion, not a species reconstruction or popularity claim.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

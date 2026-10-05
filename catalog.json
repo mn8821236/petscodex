@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bond-forger",
+            "path": "cozy-bond-forger",
+            "displayName": "邦德·福杰 Bond Forger",
+            "description": "Unofficial fan-art Bond Forger companion inspired by SPY x FAMILY. Independently drawn gentle quadruped animation with a soft-ball nose nudge, settled paw-crossing rest, a short scarf offer, alert sitting, and original four-paw running and low-jump cycles. Soft props and choreography are original adaptations; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

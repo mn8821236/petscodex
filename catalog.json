@@ -9911,6 +9911,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hot-water-bottle-cuddle",
+            "path": "cozy-hot-water-bottle-cuddle",
+            "displayName": "热水袋暖暖 Hot Water Bottle Cuddle",
+            "description": "Original character Hot Water Bottle Cuddle, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

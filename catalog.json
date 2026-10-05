@@ -8492,6 +8492,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wasabi-weyrdlets",
+            "path": "cozy-wasabi-weyrdlets",
+            "displayName": "Wasabi（山葵） Wasabi",
+            "description": "Unofficial fan art of Wasabi from Weyrdlets. Original cel-animation adaptation of the unaccessorized green bird, with a pale green belly, three rounded crest tips, foam-seed play, paper-oval toe taps and expressive nine-state motion. Props and choreography are original adaptations, not official game animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

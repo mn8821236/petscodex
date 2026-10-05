@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-akaza",
+            "path": "cozy-akaza",
+            "displayName": "猗窝座 Akaza",
+            "description": "Unofficial Akaza fan-art companion inspired by Demon Slayer, with an added opaque dark high-neck undershirt. Original paper-marker steps, rounded paper-hexagon handling, calm stretching and three-direction jogging without impact or targets. Face and upper-body cues use an inspected reference; simplified lower-body clothing is a familiar adaptation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9726,6 +9726,17 @@
             ]
         },
         {
+            "id": "cozy-button-tumble",
+            "path": "cozy-button-tumble",
+            "displayName": "纽扣滚滚 Button Tumble",
+            "description": "Original character Button Tumble, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-sundew-curl",
             "path": "cozy-sundew-curl",
             "displayName": "茅膏菜卷卷 Sundew Curl",

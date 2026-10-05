@@ -1,0 +1,7 @@
+{
+  "id": "cozy-scorchio-neopets",
+  "displayName": "Scorchio（斯科奇奥） Scorchio",
+  "description": "Unofficial Scorchio fan-art animated companion inspired by the yellow Neopets catalogue form. Nine original states include a gentle exhale toward a paper sail, unfolding two membrane wings, steadying the sail, smoothing a note against the single thick tail, biped movement in three directions and a small wing-balanced hop. Crown spikes and belly panels use a fixed simplified sprite map; choreography is original fan art rather than an official Neopets animation.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio"
+}

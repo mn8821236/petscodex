@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ice-bear",
+            "path": "cozy-ice-bear",
+            "displayName": "白熊 Ice Bear",
+            "description": "Unofficial Ice Bear fan-art companion from We Bare Bears. Original upright waddles, quiet balance practice, blank recipe reading and cloth-and-tile tidying. A tiny cool pan, blunt spatula and paper pancake are harmless creative props; no heat, real cooking or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

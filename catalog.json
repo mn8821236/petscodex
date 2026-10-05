@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-joker-persona-5",
+            "path": "cozy-joker-persona-5",
+            "displayName": "Joker（女神异闻录5） Joker (Persona 5)",
+            "description": "Unofficial fan art of Persona 5 Joker. A fully clothed youthful companion with abstract star-card handling, mask-check coat turns, a paper-key puzzle, safe card-catch recovery and three articulated running directions. The original reference dagger is omitted entirely; props are only blank abstract cards and thick paper tiles. Independently drawn original choreography with a small theatrical leap; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

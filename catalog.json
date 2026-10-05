@@ -7722,6 +7722,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-valkyrie-apex",
+            "path": "cozy-valkyrie-apex",
+            "displayName": "瓦尔基里 Valkyrie",
+            "description": "Unofficial Valkyrie fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

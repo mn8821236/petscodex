@@ -7348,6 +7348,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-muichiro-tokito",
+            "path": "cozy-muichiro-tokito",
+            "displayName": "时透无一郎 Muichiro Tokito",
+            "description": "Unofficial Muichiro Tokito fan-art animated companion from Demon Slayer: Kimetsu no Yaiba, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

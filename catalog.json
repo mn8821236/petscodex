@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gibraltar-apex",
+            "path": "cozy-gibraltar-apex",
+            "displayName": "直布罗陀 Gibraltar",
+            "description": "Unofficial Gibraltar fan-art animated companion from Apex Legends, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

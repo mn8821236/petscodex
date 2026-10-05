@@ -7229,6 +7229,17 @@
             ]
         },
         {
+            "id": "cozy-kinito",
+            "path": "cozy-kinito",
+            "displayName": "奇尼托 Kinito",
+            "description": "Unofficial Kinito fan art from KinitoPET. This friendly armless pink companion nudges a smile disk with its feet, stretches six gill branches, recovers crossed legs and aligns colorful puzzle pieces. Nine animated states preserve its long black legs and broad feet. Original non-horror choreography; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-kyubey",
             "path": "cozy-kyubey",
             "displayName": "丘比 Kyubey",

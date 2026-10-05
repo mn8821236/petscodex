@@ -7304,6 +7304,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kizuna-ai",
+            "path": "cozy-kizuna-ai",
+            "displayName": "绊爱 Kizuna AI",
+            "description": "Unofficial Kizuna AI fan-art animated companion from Kizuna AI. Original folding-window card play, attached headband nods, three-arrow cursor routing and gentle knee bounces, with independently drawn directional runs. Opaque joined waist and secure white shorts are modest costume adaptations; no official choreography or software interface is copied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

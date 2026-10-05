@@ -8921,6 +8921,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-uni-neopets",
+            "path": "cozy-uni-neopets",
+            "displayName": "优尼 Uni",
+            "description": "Unofficial Uni fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

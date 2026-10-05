@@ -7227,6 +7227,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-vash-the-stampede",
+            "path": "cozy-vash-the-stampede",
+            "displayName": "法修·史丹比特 Vash the Stampede",
+            "description": "Unofficial fan-art Vash the Stampede companion inspired by TRIGUN STAMPEDE (2023). Independently drawn compact animation with a paper doughnut and bag, a sealed water flask offer, open-palmed sidesteps and coat straightening, and original travel-running and low-jump cycles. The turquoise left mechanical arm is retained; safe props and choreography are original adaptations. No official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

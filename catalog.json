@@ -7689,6 +7689,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-usopp",
+            "path": "cozy-usopp",
+            "displayName": "乌索普 Usopp",
+            "description": "Unofficial Usopp fan-art companion inspired by the early One Piece outfit, with an added opaque cream undershirt. Original toy-wheel inspection, hand-placed paper-star slingshot display, storytelling, axle-cap recovery and three-direction jogging animations. No shooting or combat; familiar costume cues are not claimed as newly verified official artwork.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

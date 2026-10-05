@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-choso",
+            "path": "cozy-choso",
+            "displayName": "胀相 Choso",
+            "description": "Unofficial Choso fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

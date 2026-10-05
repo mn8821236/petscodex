@@ -9603,6 +9603,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mimosa-tuck",
+            "path": "cozy-mimosa-tuck",
+            "displayName": "含羞叶团 Mimosa Tuck",
+            "description": "Mimosa Tuck is an original fantasy plant companion inspired by paired mimosa leaflets. Its two fronds fold and reopen, while invented root feet bring nine expressive animated states to life.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

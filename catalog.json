@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sol-badguy",
+            "path": "cozy-sol-badguy",
+            "displayName": "索尔·巴德盖 Sol Badguy",
+            "description": "Unofficial Sol Badguy fan-art companion inspired by Guilty Gear Strive. The original animation adapts his outfit with a closed opaque inner neckline and omits weapons and transformations. Signature actions feature rhythm toe taps, a lightweight record and paper sleeve, and relaxed shoulder stretches; nine states include three running directions and a low hop. No endorsement implied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

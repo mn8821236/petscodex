@@ -9385,6 +9385,149 @@
             ]
         },
         {
+            "id": "cozy-nahida",
+            "path": "cozy-nahida",
+            "displayName": "纳西妲 Nahida",
+            "description": "Unofficial Nahida fan-art animated companion from Genshin Impact, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-danny-phantom",
+            "path": "cozy-danny-phantom",
+            "displayName": "幻影丹尼 Danny Phantom",
+            "description": "Unofficial Danny Phantom fan-art animated companion from Danny Phantom, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-terra",
+            "path": "cozy-terra",
+            "displayName": "泰拉 Terra",
+            "description": "Unofficial Terra fan-art animated companion from Kingdom Hearts, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-something-omori",
+            "path": "cozy-something-omori",
+            "displayName": "某个东西 SOMETHING",
+            "description": "Unofficial SOMETHING fan-art animated companion from OMORI, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rainmaker-corporate-clash",
+            "path": "cozy-rainmaker-corporate-clash",
+            "displayName": "造雨者 Rainmaker",
+            "description": "Unofficial Rainmaker fan-art animated companion from Toontown: Corporate Clash, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sir-pentious",
+            "path": "cozy-sir-pentious",
+            "displayName": "潘修斯爵士 Sir Pentious",
+            "description": "Unofficial Sir Pentious fan-art animated companion from Hazbin Hotel, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-dorimon",
+            "path": "cozy-dorimon",
+            "displayName": "多利兽 Dorimon",
+            "description": "Unofficial Dorimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mabel-hoppers",
+            "path": "cozy-mabel-hoppers",
+            "displayName": "梅宝（河狸） Mabel Beaver",
+            "description": "Unofficial Mabel Beaver fan-art animated companion from Hoppers, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-punimon",
+            "path": "cozy-punimon",
+            "displayName": "普尼兽 Punimon",
+            "description": "Unofficial Punimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-flower-bambi",
+            "path": "cozy-flower-bambi",
+            "displayName": "花花 Flower",
+            "description": "Unofficial Flower fan-art animated companion from Bambi, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-cloth",
+            "path": "cozy-cloth",
+            "displayName": "阿布 Cloth",
+            "description": "Unofficial Cloth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-markoth",
+            "path": "cozy-markoth",
+            "displayName": "马科斯 Markoth",
+            "description": "Unofficial Markoth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-mei-red-panda",
+            "path": "cozy-mei-red-panda",
+            "displayName": "美美（小熊猫） Red Panda Mei",
+            "description": "Unofficial Red Panda Mei fan-art animated companion from Turning Red, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-goomy",
             "path": "cozy-goomy",
             "displayName": "黏黏宝 Goomy",

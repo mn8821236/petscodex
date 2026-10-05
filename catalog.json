@@ -7260,6 +7260,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-fan-inanimate-insanity",
+            "path": "cozy-fan-inanimate-insanity",
+            "displayName": "Fan（折扇） Fan (Inanimate Insanity)",
+            "description": "Unofficial Fan fan-art animated companion from Inanimate Insanity. Original choreography includes theory-card comparison, gentle pleat-powered paper-boat play, and rhythmic rail-to-pad balance; no official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

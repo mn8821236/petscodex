@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-minoru-mineta",
+            "path": "cozy-minoru-mineta",
+            "displayName": "峰田实 Minoru Mineta",
+            "description": "Unofficial Minoru Mineta fan-art animated companion from My Hero Academia, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

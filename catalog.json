@@ -8855,6 +8855,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bori-neopets",
+            "path": "cozy-bori-neopets",
+            "displayName": "Bori（博里） Bori",
+            "description": "Unofficial Bori fan-art companion from Neopets. Original green cel-animation artwork with four simplified overlapping back-armor bands, four broad paws and one curled tuft tail. Bori tidies soft paper, arches a page over its saddle, steps around a blunt foam bar, clears a paper scrap, and moves with three-direction quadruped steps and a low hop. Animation and prop interactions are original adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9790,6 +9790,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-pelican-gulp",
+            "path": "cozy-pelican-gulp",
+            "displayName": "鹈鹕兜兜 Pelican Gulp",
+            "description": "Original character Pelican Gulp, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

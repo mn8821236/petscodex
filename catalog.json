@@ -8965,6 +8965,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zafara-neopets",
+            "path": "cozy-zafara-neopets",
+            "displayName": "扎法拉 Zafara",
+            "description": "Unofficial Zafara fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

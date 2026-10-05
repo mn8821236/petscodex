@@ -9163,6 +9163,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-markoth",
+            "path": "cozy-markoth",
+            "displayName": "马科斯 Markoth",
+            "description": "Unofficial Markoth fan-art animated companion from Hollow Knight, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

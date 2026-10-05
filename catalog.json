@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-toge-inumaki",
+            "path": "cozy-toge-inumaki",
+            "displayName": "狗卷棘 Toge Inumaki",
+            "description": "Unofficial Toge Inumaki fan-art animated companion from Jujutsu Kaisen, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

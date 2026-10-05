@@ -9075,6 +9075,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-iggy-jojo",
+            "path": "cozy-iggy-jojo",
+            "displayName": "伊奇 Iggy",
+            "description": "Unofficial Iggy fan-art animated companion from JoJo's Bizarre Adventure, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

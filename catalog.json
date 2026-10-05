@@ -8756,6 +8756,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dorimon",
+            "path": "cozy-dorimon",
+            "displayName": "多利兽 Dorimon",
+            "description": "Unofficial Dorimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

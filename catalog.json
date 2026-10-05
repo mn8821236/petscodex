@@ -10087,6 +10087,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tuatara-ridgewalk",
+            "path": "cozy-tuatara-ridgewalk",
+            "displayName": "喙头蜥脊步 Tuatara Ridgewalk",
+            "description": "Original character Tuatara Ridgewalk, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

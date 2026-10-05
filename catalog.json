@@ -8932,6 +8932,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wocky-neopets",
+            "path": "cozy-wocky-neopets",
+            "displayName": "沃奇 Wocky",
+            "description": "Unofficial Wocky fan-art animated companion from Neopets, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

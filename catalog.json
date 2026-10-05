@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-raiden-mgs2",
+            "path": "cozy-raiden-mgs2",
+            "displayName": "雷电 Raiden",
+            "description": "Unofficial Raiden fan-art companion in his human Metal Gear Solid 2 appearance. Original quiet routines include an abstract wrist timer, turning and recovering a blank task card, gloved-finger stretches and soft-marker balance steps. The full cloth suit and protective pads are retained; weapons, bases and cyborg features are omitted.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10109,6 +10109,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rolling-pin-rolly",
+            "path": "cozy-rolling-pin-rolly",
+            "displayName": "擀面杖滚团 Rolling Pin Rolly",
+            "description": "Original character Rolling Pin Rolly, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

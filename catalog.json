@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zero-two",
+            "path": "cozy-zero-two",
+            "displayName": "零二 Zero Two",
+            "description": "Unofficial Zero Two fan-art companion from DARLING in the FRANXX. Her red uniform, opaque black tights and white boots remain fully clothed and nonsexual. Original closed-honey-jar inspection, headband greeting, paper-plane play and three-direction running animations. No affiliation or licensing is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

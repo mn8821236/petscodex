@@ -8096,6 +8096,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aquilamon",
+            "path": "cozy-aquilamon",
+            "displayName": "天鹰兽 Aquilamon",
+            "description": "Unofficial Aquilamon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

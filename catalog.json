@@ -10133,6 +10133,105 @@
             ]
         },
         {
+            "id": "cozy-sengi-snuffle",
+            "path": "cozy-sengi-snuffle",
+            "displayName": "象鼩嗅嗅 Sengi Snuffle",
+            "description": "Sengi Snuffle is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-giant-anteater-brushtrail",
+            "path": "cozy-giant-anteater-brushtrail",
+            "displayName": "大食蚁兽帚尾 Giant Anteater Brushtrail",
+            "description": "Original character Giant Anteater Brushtrail, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-spoonbill-siftstep",
+            "path": "cozy-spoonbill-siftstep",
+            "displayName": "玫瑰琵鹭筛步 Spoonbill Siftstep",
+            "description": "Spoonbill Siftstep is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-pencil-sharpener-twirlbox",
+            "path": "cozy-pencil-sharpener-twirlbox",
+            "displayName": "卷笔刀旋盒 Pencil Sharpener Twirlbox",
+            "description": "Original character Pencil Sharpener Twirlbox, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-dik-dik-dewstep",
+            "path": "cozy-dik-dik-dewstep",
+            "displayName": "犬羚露步 Dik-dik Dewstep",
+            "description": "Original character Dik-dik Dewstep, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-hornbill-billbob",
+            "path": "cozy-hornbill-billbob",
+            "displayName": "弯嘴犀鸟点喙 Hornbill Billbob",
+            "description": "Hornbill Billbob is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sea-hare-velvetwave",
+            "path": "cozy-sea-hare-velvetwave",
+            "displayName": "海兔绒浪 Sea Hare Velvetwave",
+            "description": "Original character Sea Hare Velvetwave, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-cattail-reedruff",
+            "path": "cozy-cattail-reedruff",
+            "displayName": "香蒲绒穗 Cattail Reedruff",
+            "description": "Cattail Reedruff is an independently authored original animated companion with nine expressive states and species-specific or explicitly fantasy movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-beanbag-plump",
+            "path": "cozy-beanbag-plump",
+            "displayName": "豆袋墩墩 Beanbag Plump",
+            "description": "Original character Beanbag Plump, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-skink-tonguetip",
             "path": "cozy-skink-tonguetip",
             "displayName": "石龙子蓝舌 Skink Tonguetip",

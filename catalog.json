@@ -9845,6 +9845,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zipper-zoodle",
+            "path": "cozy-zipper-zoodle",
+            "displayName": "拉链兹兹 Zipper Zoodle",
+            "description": "Original character Zipper Zoodle, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

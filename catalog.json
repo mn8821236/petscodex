@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rock-pikmin",
+            "path": "cozy-rock-pikmin",
+            "displayName": "岩石皮克敏 Rock Pikmin",
+            "description": "Unofficial Rock Pikmin fan-art companion from Pikmin, locked to a closed purple-blue bud. Original paper-star, leaf-and-dew and foam-pebble animations accompany weighted three-direction steps and a small hop. The rock stays rigid while its limbs and stalk articulate; light craft props are creative adaptations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

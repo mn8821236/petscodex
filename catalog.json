@@ -8965,6 +8965,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-punimon",
+            "path": "cozy-punimon",
+            "displayName": "普尼兽 Punimon",
+            "description": "Unofficial Punimon fan-art animated companion from Digimon, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -9768,6 +9768,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-suction-cup-plop",
+            "path": "cozy-suction-cup-plop",
+            "displayName": "吸盘啵啵 Suction Cup Plop",
+            "description": "Original character Suction Cup Plop, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

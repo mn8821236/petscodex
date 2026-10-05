@@ -9394,6 +9394,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-danny-phantom",
+            "path": "cozy-danny-phantom",
+            "displayName": "幻影丹尼 Danny Phantom",
+            "description": "Unofficial Danny Phantom fan-art animated companion from Danny Phantom, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

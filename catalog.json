@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-heathcliff-lcb",
+            "path": "cozy-heathcliff-lcb",
+            "displayName": "希斯克利夫 Heathcliff",
+            "description": "Unofficial fan-art Heathcliff companion from Limbus Company in his shirt-and-suspenders LCB identity. Original quiet letter-folding, foam-pebble catching, cuff tidying and articulated travel animations. Adapted with an opaque inner placket and simple closed shoes; no bat, wounds or alternate coat. Not affiliated with the original creators.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -8173,6 +8173,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-claptrap",
+            "path": "cozy-claptrap",
+            "displayName": "小吵闹 Claptrap",
+            "description": "Unofficial Claptrap fan art from Borderlands. Independently drawn yellow-and-cream one-wheel robot with blue lens, tread rolling, hinged-arm balance, foam-washer inspection and a blunt flag display. The small tire-mount spring-hop is an original cartoon adaptation; these gestures are not official animation sequences.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

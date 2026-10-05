@@ -7293,6 +7293,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lancer-deltarune",
+            "path": "cozy-lancer-deltarune",
+            "displayName": "兰瑟 Lancer",
+            "description": "Unofficial Lancer fan-art animated companion inspired by Deltarune. The blue spade hood, white lower face and black round torso are rendered in a smooth, fully covered chibi style. Original motions include balancing and catching a paper crown, gently lifting an empty paper box, opening a gap between two foam blocks for a paper dot, waddling in three directions and a small squat-hop. All props are soft nonfunctional models. Not official or endorsed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

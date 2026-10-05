@@ -7238,6 +7238,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-toru-oikawa",
+            "path": "cozy-toru-oikawa",
+            "displayName": "及川彻 Toru Oikawa",
+            "description": "Unofficial fan-art Toru Oikawa companion inspired by Haikyu!!. Independently drawn school-volleyball animation with a soft ball, a small abstract tactics board, shoulder warm-ups and jersey straightening, and original running and low setter-practice jump cycles. Youthful number 1 white-and-teal sportswear is retained; props and choreography are original adaptations. No official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

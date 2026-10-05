@@ -8569,6 +8569,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shoyru",
+            "path": "cozy-shoyru",
+            "displayName": "Shoyru（修鲁） Shoyru",
+            "description": "Unofficial Shoyru fan-art companion from Neopets in the basic blue species form. Original animations shelter a paper sprout under two wings, brake beside a paper marker, transfer soft paper petals from wings to hands, trot in three directions and make a low balance hop. Props and drawn simplifications are original adaptations, not official animations.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

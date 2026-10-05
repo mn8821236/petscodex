@@ -7315,6 +7315,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-uzi-doorman",
+            "path": "cozy-uzi-doorman",
+            "displayName": "乌兹·多尔曼 Uzi Doorman",
+            "description": "Unofficial fan art of Uzi Doorman from Murder Drones. Early worker-drone companion with a striped pompom beanie, purple screen eyes, circuit-board checks, a headphone-clip greeting, safe-latch inspection, compact jumps and articulated three-direction mechanical running. Opaque dark lower-body layers and unpowered limited-travel props are safe original adaptations. No tail, wings, weapons or Solver form; no affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

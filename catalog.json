@@ -10120,6 +10120,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shoehorn-swoop",
+            "path": "cozy-shoehorn-swoop",
+            "displayName": "鞋拔弯弯 Shoehorn Swoop",
+            "description": "Original character Shoehorn Swoop, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

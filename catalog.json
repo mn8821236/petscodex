@@ -8184,6 +8184,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-metal-sonic",
+            "path": "cozy-metal-sonic",
+            "displayName": "金属索尼克 Metal Sonic",
+            "description": "Unofficial Metal Sonic fan art from Sonic the Hedgehog. Independently drawn Modern Metal Sonic with blue head armor, red eyes, yellow chest rim and red shoes. Original low-impact choreography includes a jointed mechanical jog, careful soft-cog handling, foam-marker clearance check and short knee-powered hop, without engine or combat effects.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7359,6 +7359,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aubrey-omori",
+            "path": "cozy-aubrey-omori",
+            "displayName": "奥布里 Aubrey",
+            "description": "Unofficial Aubrey fan-art animated companion from OMORI, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -7249,6 +7249,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-adeleine",
+            "path": "cozy-adeleine",
+            "displayName": "阿朵莱妮 Adeleine",
+            "description": "Unofficial Adeleine fan-art animated companion from Kirby, with original character colors and nine expressive animation states.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

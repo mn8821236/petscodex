@@ -8657,6 +8657,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gumi",
+            "path": "cozy-gumi",
+            "displayName": "咕咪 GUMI",
+            "description": "Unofficial GUMI fan-art animated companion from Megpoid. Original paper-note inspection, two-baton conducting, four-tone foam-tray balancing and small hops, with independently drawn side and forward runs. The orange blouse and skirt include modest opaque coverage adaptations; this is not official software artwork or choreography.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11110,6 +11110,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-drippy-ni-no-kuni",
+            "path": "cozy-drippy-ni-no-kuni",
+            "displayName": "小滴 Drippy",
+            "description": "Unofficial Ni no Kuni fan art of Drippy, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

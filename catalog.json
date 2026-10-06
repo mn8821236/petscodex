@@ -10439,6 +10439,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-keroro",
+            "path": "cozy-keroro",
+            "displayName": "Keroro军曹 Keroro",
+            "description": "Unofficial Sgt. Frog fan art of Keroro, an animated companion with nine expressive states and character-specific movement. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11297,6 +11297,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-vicky-the-viking",
+            "path": "cozy-vicky-the-viking",
+            "displayName": "小威 Vicky the Viking",
+            "description": "Unofficial Vicky the Viking fan art of Vicky the Viking, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

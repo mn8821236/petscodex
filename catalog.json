@@ -10351,6 +10351,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-illidan-warcraft",
+            "path": "cozy-illidan-warcraft",
+            "displayName": "伊利丹 Illidan",
+            "description": "Unofficial Warcraft fan art of Illidan, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by Blizzard Entertainment.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

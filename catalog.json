@@ -11308,6 +11308,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-anne-shirley",
+            "path": "cozy-anne-shirley",
+            "displayName": "安妮·雪莉 Anne Shirley",
+            "description": "Unofficial Anne of Green Gables fan art of Anne Shirley, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

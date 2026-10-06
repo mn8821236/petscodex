@@ -11253,6 +11253,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-toro-inoue",
+            "path": "cozy-toro-inoue",
+            "displayName": "井上多乐 Toro Inoue",
+            "description": "Unofficial Doko Demo Issyo fan art of Toro Inoue, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

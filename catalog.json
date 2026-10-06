@@ -11066,6 +11066,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kitaro",
+            "path": "cozy-kitaro",
+            "displayName": "鬼太郎 Kitaro",
+            "description": "Unofficial GeGeGe no Kitaro fan art of Kitaro, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11154,6 +11154,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-arthur-ghosts-n-goblins",
+            "path": "cozy-arthur-ghosts-n-goblins",
+            "displayName": "亚瑟（魔界村） Arthur (Ghosts ’n Goblins)",
+            "description": "Unofficial Ghosts ’n Goblins fan art of Arthur (Ghosts ’n Goblins), an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

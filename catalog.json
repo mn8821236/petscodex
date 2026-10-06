@@ -10362,6 +10362,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sakura-kinomoto",
+            "path": "cozy-sakura-kinomoto",
+            "displayName": "木之本樱 Sakura Kinomoto",
+            "description": "木之本樱 Sakura Kinomoto, an independently drawn unofficial Cardcaptor Sakura fan-art companion in her recognizable pink first-cover costume, with one Sealing Wand, Clow Card reactions and genuine animated running, greeting and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-firefly-hsr",
+            "path": "cozy-firefly-hsr",
+            "displayName": "流萤 Firefly",
+            "description": "Unofficial Honkai: Star Rail fan art of Firefly, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

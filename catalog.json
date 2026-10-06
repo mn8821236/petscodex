@@ -11319,6 +11319,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-maya-the-bee",
+            "path": "cozy-maya-the-bee",
+            "displayName": "蜜蜂玛雅 Maya the Bee",
+            "description": "Unofficial Maya the Bee fan art of Maya the Bee, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

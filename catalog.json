@@ -11352,6 +11352,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wonder-boy",
+            "path": "cozy-wonder-boy",
+            "displayName": "神奇小子 Wonder Boy",
+            "description": "Unofficial Wonder Boy fan art of Wonder Boy, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10747,6 +10747,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zeratul",
+            "path": "cozy-zeratul",
+            "displayName": "泽拉图 Zeratul",
+            "description": "Unofficial StarCraft fan art of Zeratul in his default Dark Prelate appearance with inactive warp blade, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

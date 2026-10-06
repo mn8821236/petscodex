@@ -10901,6 +10901,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gooey-kirby",
+            "path": "cozy-gooey-kirby",
+            "displayName": "古伊 Gooey",
+            "description": "Unofficial Kirby fan art of Gooey, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

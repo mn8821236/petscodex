@@ -10637,6 +10637,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-daisuke-jigen",
+            "path": "cozy-daisuke-jigen",
+            "displayName": "次元大介 Daisuke Jigen",
+            "description": "Unofficial Lupin the Third fan art of Daisuke Jigen, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

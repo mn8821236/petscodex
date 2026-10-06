@@ -11077,6 +11077,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-doremi-harukaze",
+            "path": "cozy-doremi-harukaze",
+            "displayName": "春风DoReMi Doremi Harukaze",
+            "description": "Unofficial Ojamajo Doremi fan art of Doremi Harukaze, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

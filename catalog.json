@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-simon-belmont",
+            "path": "cozy-simon-belmont",
+            "displayName": "西蒙·贝尔蒙特 Simon Belmont",
+            "description": "Unofficial Castlevania fan art of Simon Belmont in his default Super Smash Bros. Ultimate brown costume, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

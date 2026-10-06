@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-suezo",
+            "path": "cozy-suezo",
+            "displayName": "苏艾佐 Suezo",
+            "description": "Unofficial Monster Rancher fan art of Suezo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

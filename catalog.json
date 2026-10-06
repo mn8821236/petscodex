@@ -10527,6 +10527,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-furuhonya",
+            "path": "cozy-furuhonya",
+            "displayName": "古本屋 Furuhonya",
+            "description": "Unofficial Chiikawa fan art of Furuhonya, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

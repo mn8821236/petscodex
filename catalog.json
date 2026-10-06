@@ -11231,6 +11231,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-korosuke",
+            "path": "cozy-korosuke",
+            "displayName": "可罗助 Korosuke",
+            "description": "Unofficial Kiteretsu Daihyakka fan art of Korosuke, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

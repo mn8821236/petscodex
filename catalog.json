@@ -10309,6 +10309,182 @@
             ]
         },
         {
+            "id": "cozy-reze",
+            "path": "cozy-reze",
+            "displayName": "蕾塞 Reze",
+            "description": "蕾塞 Reze, an independently drawn unofficial Chainsaw Man fan-art companion in her recognizable cafe outfit, with expressive greetings, a cafe-order review and genuine running and jumping animation. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-maomao",
+            "path": "cozy-maomao",
+            "displayName": "猫猫 Maomao",
+            "description": "猫猫 Maomao, an independently drawn unofficial The Apothecary Diaries fan-art companion in her recognizable green wrap blouse and burgundy skirt, with freckles, thoughtful herb-pouch inspection and expressive running and jumping animation. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-okarun",
+            "path": "cozy-okarun",
+            "displayName": "厄卡伦 Okarun",
+            "description": "厄卡伦 Okarun (Ken Takakura), an independently drawn unofficial DAN DA DAN fan-art companion in his recognizable human school-uniform appearance, with nervous glasses adjustments, an occult notebook and genuine running and jumping animation. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-momo-ayase",
+            "path": "cozy-momo-ayase",
+            "displayName": "绫濑桃 Momo Ayase",
+            "description": "绫濑桃 Momo Ayase, an independently drawn unofficial DAN DA DAN fan-art companion in her recognizable pink sweater and green earrings, with confident greetings, playful paper levitation and genuine running and jumping animation. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-illidan-warcraft",
+            "path": "cozy-illidan-warcraft",
+            "displayName": "伊利丹 Illidan",
+            "description": "Unofficial Warcraft fan art of Illidan, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by Blizzard Entertainment.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sakura-kinomoto",
+            "path": "cozy-sakura-kinomoto",
+            "displayName": "木之本樱 Sakura Kinomoto",
+            "description": "木之本樱 Sakura Kinomoto, an independently drawn unofficial Cardcaptor Sakura fan-art companion in her recognizable pink first-cover costume, with one Sealing Wand, Clow Card reactions and genuine animated running, greeting and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-spike-spiegel",
+            "path": "cozy-spike-spiegel",
+            "displayName": "斯派克·斯皮格尔 Spike Spiegel",
+            "description": "斯派克·斯皮格尔 Spike Spiegel, an independently drawn unofficial Cowboy Bebop fan-art companion in his recognizable blue suit, with a lazy greeting, bounty-note review, balance recovery and fluid running and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ranma-saotome",
+            "path": "cozy-ranma-saotome",
+            "displayName": "早乙女乱马 Ranma Saotome",
+            "description": "早乙女乱马 Ranma Saotome, an independently drawn unofficial Ranma 1/2 fan-art companion in his recognizable male form and red-pink Chinese shirt, with martial arts greetings, a training-note review, comic balance recovery and genuine running and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-conan-edogawa",
+            "path": "cozy-conan-edogawa",
+            "displayName": "江户川柯南 Conan Edogawa",
+            "description": "江户川柯南 Conan Edogawa, an independently drawn unofficial Detective Conan fan-art companion in his recognizable blue blazer and round glasses, with clue-card investigation, a realization gesture, polite greeting and genuine running and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-hiei",
+            "path": "cozy-hiei",
+            "displayName": "飞影 Hiei",
+            "description": "Unofficial Hiei fan art from Yu Yu Hakusho, with nine independently drawn expressive animation states. Character and franchise rights belong to their respective owners; no official affiliation or permission claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-genma-saotome",
+            "path": "cozy-genma-saotome",
+            "displayName": "早乙女玄马（熊猫） Genma Saotome (Panda)",
+            "description": "Unofficial Genma Saotome panda-form fan art from Ranma 1/2 with nine independently drawn desktop animation states. Character and franchise rights belong to their respective owners; no official affiliation or permission claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-nights",
+            "path": "cozy-nights",
+            "displayName": "奈兹 NiGHTS",
+            "description": "Unofficial NiGHTS fan art of NiGHTS, an animated companion with nine expressive states and character-specific movement. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-keroro",
+            "path": "cozy-keroro",
+            "displayName": "Keroro军曹 Keroro",
+            "description": "Unofficial Sgt. Frog fan art of Keroro, an animated companion with nine expressive states and character-specific movement. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bub-bubble-bobble",
+            "path": "cozy-bub-bubble-bobble",
+            "displayName": "巴布 Bub",
+            "description": "Unofficial Bubble Bobble fan art of Bub, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-moogle",
+            "path": "cozy-moogle",
+            "displayName": "莫古力 Moogle",
+            "description": "Unofficial Final Fantasy fan art of Moogle, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-haro",
+            "path": "cozy-haro",
+            "displayName": "哈罗 Haro",
+            "description": "Unofficial Gundam fan art of Haro, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-alex-kidd",
             "path": "cozy-alex-kidd",
             "displayName": "阿历克斯小子 Alex Kidd",

@@ -11671,6 +11671,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-jazz-jackrabbit",
+            "path": "cozy-jazz-jackrabbit",
+            "displayName": "爵士兔 Jazz Jackrabbit",
+            "description": "Unofficial Jazz Jackrabbit fan art of Jazz Jackrabbit, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-earthworm-jim",
+            "path": "cozy-earthworm-jim",
+            "displayName": "蚯蚓吉姆 Earthworm Jim",
+            "description": "Unofficial Earthworm Jim fan art of Earthworm Jim, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

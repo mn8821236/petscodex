@@ -11286,6 +11286,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rascal-raccoon",
+            "path": "cozy-rascal-raccoon",
+            "displayName": "拉斯卡尔 Rascal",
+            "description": "Unofficial Rascal the Raccoon fan art of Rascal, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

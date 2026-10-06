@@ -10923,6 +10923,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tuxedosam",
+            "path": "cozy-tuxedosam",
+            "displayName": "山姆企鹅 Tuxedosam",
+            "description": "Unofficial Sanrio fan art of Tuxedosam, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11429,6 +11429,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-charlie-brown",
+            "path": "cozy-charlie-brown",
+            "displayName": "查理·布朗 Charlie Brown",
+            "description": "Unofficial Peanuts fan art of Charlie Brown, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

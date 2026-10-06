@@ -11363,6 +11363,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dig-dug",
+            "path": "cozy-dig-dug",
+            "displayName": "堀泰藏 Dig Dug",
+            "description": "Unofficial Dig Dug fan art of Dig Dug, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11154,6 +11154,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-minky-momo",
+            "path": "cozy-minky-momo",
+            "displayName": "明琪桃子 Minky Momo",
+            "description": "Unofficial Magical Princess Minky Momo fan art of Minky Momo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

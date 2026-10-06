@@ -10725,6 +10725,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-deckard-cain",
+            "path": "cozy-deckard-cain",
+            "displayName": "迪卡德·凯恩 Deckard Cain",
+            "description": "Unofficial Diablo fan art of Deckard Cain in his default The Last Horadrim appearance, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

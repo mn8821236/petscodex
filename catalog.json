@@ -10681,6 +10681,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hangyodon",
+            "path": "cozy-hangyodon",
+            "displayName": "人鱼汉顿 Hangyodon",
+            "description": "Unofficial Sanrio fan art of Hangyodon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

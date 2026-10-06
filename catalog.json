@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-noriko-takaya",
+            "path": "cozy-noriko-takaya",
+            "displayName": "高屋法子 Noriko Takaya",
+            "description": "Unofficial Gunbuster fan art of Noriko Takaya in an age-appropriate fully covered training-clothing adaptation: full white-red T-shirt and opaque long magenta track pants. Nine expressive movement states. Not a literal reproduction of official costume and not endorsed by rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

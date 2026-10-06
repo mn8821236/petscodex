@@ -11605,6 +11605,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-franklin-turtle",
+            "path": "cozy-franklin-turtle",
+            "displayName": "富兰克林 Franklin",
+            "description": "Unofficial Franklin fan animation based on the Franklin and Friends CGI appearance, with nine expressive states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11561,6 +11561,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bobobo-bo-bo-bobo",
+            "path": "cozy-bobobo-bo-bo-bobo",
+            "displayName": "波波波 Bobobo-bo Bo-bobo",
+            "description": "Unofficial Bobobo-bo Bo-bobo fan art of Bobobo-bo Bo-bobo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

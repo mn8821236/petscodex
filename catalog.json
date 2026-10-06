@@ -11418,6 +11418,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-vector",
+            "path": "cozy-vector",
+            "displayName": "贝库特 Vector the Crocodile",
+            "description": "Unofficial Sonic the Hedgehog fan art of Vector the Crocodile, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

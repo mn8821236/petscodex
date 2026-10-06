@@ -11396,6 +11396,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-woodstock",
+            "path": "cozy-woodstock",
+            "displayName": "糊涂塌客 Woodstock",
+            "description": "Unofficial Peanuts fan art of Woodstock, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

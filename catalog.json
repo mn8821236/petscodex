@@ -10890,6 +10890,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gromit",
+            "path": "cozy-gromit",
+            "displayName": "格罗米特 Gromit",
+            "description": "Unofficial Wallace & Gromit fan art of Gromit, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

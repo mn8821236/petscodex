@@ -11649,6 +11649,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-superfrog",
+            "path": "cozy-superfrog",
+            "displayName": "超级青蛙 Superfrog",
+            "description": "Unofficial Superfrog fan art of Superfrog, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

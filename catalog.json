@@ -11583,6 +11583,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-dizzy-yolkfolk",
+            "path": "cozy-dizzy-yolkfolk",
+            "displayName": "迪兹 Dizzy",
+            "description": "Unofficial Dizzy fan animation based on the central colored 2012 Dizzy Returns creator concept from an unreleased proposal, with nine expressive states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

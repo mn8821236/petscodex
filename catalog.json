@@ -11539,6 +11539,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-joe-shimamura",
+            "path": "cozy-joe-shimamura",
+            "displayName": "岛村乔 Joe Shimamura",
+            "description": "Unofficial Cyborg 009 fan art of Joe Shimamura, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

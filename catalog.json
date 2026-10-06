@@ -11024,6 +11024,17 @@
             ]
         },
         {
+            "id": "cozy-gomamon",
+            "path": "cozy-gomamon",
+            "displayName": "哥玛兽 Gomamon",
+            "description": "Unofficial Digimon fan art of Gomamon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-metabee",
             "path": "cozy-metabee",
             "displayName": "美达比 Metabee",

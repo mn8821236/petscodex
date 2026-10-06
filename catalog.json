@@ -11528,6 +11528,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-moguro-fukuzou",
+            "path": "cozy-moguro-fukuzou",
+            "displayName": "丧黑福造 Moguro Fukuzou",
+            "description": "Unofficial The Laughing Salesman fan art of Moguro Fukuzou, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-genma-saotome",
+            "path": "cozy-genma-saotome",
+            "displayName": "早乙女玄马（熊猫） Genma Saotome (Panda)",
+            "description": "Unofficial Genma Saotome panda-form fan art from Ranma 1/2 with nine independently drawn desktop animation states. Character and franchise rights belong to their respective owners; no official affiliation or permission claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

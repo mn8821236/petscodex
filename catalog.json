@@ -11132,6 +11132,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-katamari-prince",
+            "path": "cozy-katamari-prince",
+            "displayName": "塊魂王子 The Prince (Katamari)",
+            "description": "Unofficial Katamari Damacy fan art of The Prince (Katamari), an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

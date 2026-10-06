@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-conan-edogawa",
+            "path": "cozy-conan-edogawa",
+            "displayName": "江户川柯南 Conan Edogawa",
+            "description": "江户川柯南 Conan Edogawa, an independently drawn unofficial Detective Conan fan-art companion in his recognizable blue blazer and round glasses, with clue-card investigation, a realization gesture, polite greeting and genuine running and jumping. Character and franchise rights belong to their respective owners; no official affiliation or authorization is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

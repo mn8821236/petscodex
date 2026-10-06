@@ -10450,6 +10450,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bub-bubble-bobble",
+            "path": "cozy-bub-bubble-bobble",
+            "displayName": "巴布 Bub",
+            "description": "Unofficial Bubble Bobble fan art of Bub, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

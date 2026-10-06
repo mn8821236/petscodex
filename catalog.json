@@ -11099,6 +11099,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-zatch-bell",
+            "path": "cozy-zatch-bell",
+            "displayName": "贾修·贝尔 Zatch Bell",
+            "description": "Unofficial Zatch Bell! fan art of Zatch Bell, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

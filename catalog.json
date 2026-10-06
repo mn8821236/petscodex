@@ -10307,6 +10307,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tsubasa-ozora",
+            "path": "cozy-tsubasa-ozora",
+            "displayName": "大空翼 Tsubasa Ozora",
+            "description": "Unofficial Captain Tsubasa fan art of Tsubasa Ozora, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

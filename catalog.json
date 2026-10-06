@@ -10912,6 +10912,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-miffy",
+            "path": "cozy-miffy",
+            "displayName": "米菲 Miffy",
+            "description": "Unofficial Miffy fan art of Miffy, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

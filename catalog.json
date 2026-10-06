@@ -11506,6 +11506,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bamse",
+            "path": "cozy-bamse",
+            "displayName": "邦瑟熊 Bamse",
+            "description": "Unofficial Bamse fan art of Bamse, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

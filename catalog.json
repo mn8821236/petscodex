@@ -10934,6 +10934,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-professor-layton",
+            "path": "cozy-professor-layton",
+            "displayName": "雷顿教授 Professor Layton",
+            "description": "Unofficial Professor Layton fan art of Professor Layton, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

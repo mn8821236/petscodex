@@ -10254,6 +10254,50 @@
             ]
         },
         {
+            "id": "cozy-acorn-cupnod",
+            "path": "cozy-acorn-cupnod",
+            "displayName": "橡果帽点 Acorn Cupnod",
+            "description": "Original character Acorn Cupnod, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ladle-diploop",
+            "path": "cozy-ladle-diploop",
+            "displayName": "汤勺舀弯 Ladle Diploop",
+            "description": "Original character Ladle Diploop, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-cork-poppet",
+            "path": "cozy-cork-poppet",
+            "displayName": "软木塞噗团 Cork Poppet",
+            "description": "Original character Cork Poppet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-napkin-foldlet",
+            "path": "cozy-napkin-foldlet",
+            "displayName": "餐巾折波 Napkin Foldlet",
+            "description": "Original character Napkin Foldlet, an independently designed animated companion with nine expressive states and character-specific movement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-traffic-cone-tippy",
             "path": "cozy-traffic-cone-tippy",
             "displayName": "路锥点点 Traffic Cone Tippy",

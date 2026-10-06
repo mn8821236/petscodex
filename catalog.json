@@ -10824,6 +10824,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kurimanju",
+            "path": "cozy-kurimanju",
+            "displayName": "栗子馒头 Kurimanju",
+            "description": "Unofficial Chiikawa fan art of Kurimanju, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

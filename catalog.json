@@ -10430,6 +10430,391 @@
             ]
         },
         {
+            "id": "cozy-nights",
+            "path": "cozy-nights",
+            "displayName": "奈兹 NiGHTS",
+            "description": "Unofficial NiGHTS fan art of NiGHTS, an animated companion with nine expressive states and character-specific movement. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-keroro",
+            "path": "cozy-keroro",
+            "displayName": "Keroro军曹 Keroro",
+            "description": "Unofficial Sgt. Frog fan art of Keroro, an animated companion with nine expressive states and character-specific movement. Character and franchise rights belong to their respective owners; no official affiliation is claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bub-bubble-bobble",
+            "path": "cozy-bub-bubble-bobble",
+            "displayName": "巴布 Bub",
+            "description": "Unofficial Bubble Bobble fan art of Bub, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-moogle",
+            "path": "cozy-moogle",
+            "displayName": "莫古力 Moogle",
+            "description": "Unofficial Final Fantasy fan art of Moogle, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-haro",
+            "path": "cozy-haro",
+            "displayName": "哈罗 Haro",
+            "description": "Unofficial Gundam fan art of Haro, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-alex-kidd",
+            "path": "cozy-alex-kidd",
+            "displayName": "阿历克斯小子 Alex Kidd",
+            "description": "Unofficial Alex Kidd fan art of Alex Kidd, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-suezo",
+            "path": "cozy-suezo",
+            "displayName": "苏艾佐 Suezo",
+            "description": "Unofficial Monster Rancher fan art of Suezo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bonk",
+            "path": "cozy-bonk",
+            "displayName": "原人阿邦 Bonk",
+            "description": "Unofficial Bonk fan art of Bonk, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-shisa-chiikawa",
+            "path": "cozy-shisa-chiikawa",
+            "displayName": "狮萨 Shisa",
+            "description": "Unofficial Chiikawa fan art of Shisa, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-furuhonya",
+            "path": "cozy-furuhonya",
+            "displayName": "古本屋 Furuhonya",
+            "description": "Unofficial Chiikawa fan art of Furuhonya, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-goemon",
+            "path": "cozy-goemon",
+            "displayName": "五右卫门 Goemon",
+            "description": "Unofficial Ganbare Goemon fan art of Goemon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ryo-saeba",
+            "path": "cozy-ryo-saeba",
+            "displayName": "冴羽獠 Ryo Saeba",
+            "description": "Unofficial City Hunter fan art of Ryo Saeba, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-shantae",
+            "path": "cozy-shantae",
+            "displayName": "香缇 Shantae",
+            "description": "Unofficial Shantae fan art of Shantae, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-pegasus-seiya",
+            "path": "cozy-pegasus-seiya",
+            "displayName": "天马座星矢 Pegasus Seiya",
+            "description": "Unofficial Saint Seiya fan art of Pegasus Seiya, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-terry-bogard",
+            "path": "cozy-terry-bogard",
+            "displayName": "特瑞·博加德 Terry Bogard",
+            "description": "Unofficial Fatal Fury fan art of Terry Bogard, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-morrigan-aensland",
+            "path": "cozy-morrigan-aensland",
+            "displayName": "莫莉卡·安斯兰德 Morrigan Aensland",
+            "description": "Unofficial Darkstalkers fan art of Morrigan Aensland, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-firefly-hsr",
+            "path": "cozy-firefly-hsr",
+            "displayName": "流萤 Firefly",
+            "description": "Unofficial Honkai: Star Rail fan art of Firefly, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-koromon",
+            "path": "cozy-koromon",
+            "displayName": "滚球兽 Koromon",
+            "description": "Unofficial Digimon fan art of Koromon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-nyanko-sensei",
+            "path": "cozy-nyanko-sensei",
+            "displayName": "猫咪老师 Nyanko-sensei",
+            "description": "Unofficial Natsume’s Book of Friends fan art of Nyanko-sensei, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-daisuke-jigen",
+            "path": "cozy-daisuke-jigen",
+            "displayName": "次元大介 Daisuke Jigen",
+            "description": "Unofficial Lupin the Third fan art of Daisuke Jigen, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ginko",
+            "path": "cozy-ginko",
+            "displayName": "银古 Ginko",
+            "description": "Unofficial Mushishi fan art of Ginko, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-earthworm-jim",
+            "path": "cozy-earthworm-jim",
+            "displayName": "蚯蚓吉姆 Earthworm Jim",
+            "description": "Unofficial Earthworm Jim fan art of Earthworm Jim, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-globox",
+            "path": "cozy-globox",
+            "displayName": "格罗伯 Globox",
+            "description": "Unofficial Rayman fan art of Globox, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-speed-racer",
+            "path": "cozy-speed-racer",
+            "displayName": "三船刚 Speed Racer",
+            "description": "Unofficial Speed Racer / Mach GoGoGo fan art of Speed Racer, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-moomintroll",
+            "path": "cozy-moomintroll",
+            "displayName": "姆明 Moomintroll",
+            "description": "Unofficial Moomin fan art of Moomintroll, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-muradin-bronzebeard",
+            "path": "cozy-muradin-bronzebeard",
+            "displayName": "穆拉丁·铜须 Muradin Bronzebeard",
+            "description": "Unofficial Warcraft fan art of Muradin Bronzebeard in his default Mountain King appearance, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-nadia-la-arwall",
+            "path": "cozy-nadia-la-arwall",
+            "displayName": "娜蒂亚 Nadia la Arwall",
+            "description": "Unofficial Nadia: The Secret of Blue Water fan art of Nadia la Arwall in an age-appropriate fully covered everyday clothing adaptation, with white T-shirt, red vest and full skirt. Animated companion with nine states; not a literal reproduction of the official outfit and not endorsed by rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-deckard-cain",
+            "path": "cozy-deckard-cain",
+            "displayName": "迪卡德·凯恩 Deckard Cain",
+            "description": "Unofficial Diablo fan art of Deckard Cain in his default The Last Horadrim appearance, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-tsubasa-ozora",
+            "path": "cozy-tsubasa-ozora",
+            "displayName": "大空翼 Tsubasa Ozora",
+            "description": "Unofficial Captain Tsubasa fan art of Tsubasa Ozora, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-zeratul",
+            "path": "cozy-zeratul",
+            "displayName": "泽拉图 Zeratul",
+            "description": "Unofficial StarCraft fan art of Zeratul in his default Dark Prelate appearance with inactive warp blade, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-sakura-shinguji",
+            "path": "cozy-sakura-shinguji",
+            "displayName": "真宫寺樱 Sakura Shinguji",
+            "description": "Unofficial Sakura Wars fan art of Sakura Shinguji, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rakko-chiikawa",
+            "path": "cozy-rakko-chiikawa",
+            "displayName": "海獭 Rakko",
+            "description": "Unofficial Chiikawa fan art of Rakko, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-simon-belmont",
+            "path": "cozy-simon-belmont",
+            "displayName": "西蒙·贝尔蒙特 Simon Belmont",
+            "description": "Unofficial Castlevania fan art of Simon Belmont in his default Super Smash Bros. Ultimate brown costume, with nine animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-noriko-takaya",
+            "path": "cozy-noriko-takaya",
+            "displayName": "高屋法子 Noriko Takaya",
+            "description": "Unofficial Gunbuster fan art of Noriko Takaya in an age-appropriate fully covered training-clothing adaptation: full white-red T-shirt and opaque long magenta track pants. Nine expressive movement states. Not a literal reproduction of official costume and not endorsed by rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-wisp-warcraft",
+            "path": "cozy-wisp-warcraft",
+            "displayName": "小精灵 Wisp",
+            "description": "Unofficial Warcraft fan art of Wisp, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-momonga-chiikawa",
             "path": "cozy-momonga-chiikawa",
             "displayName": "飞鼠 Momonga",

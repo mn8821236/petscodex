@@ -10967,6 +10967,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-phoenix-wright",
+            "path": "cozy-phoenix-wright",
+            "displayName": "成步堂龙一 Phoenix Wright",
+            "description": "Unofficial Ace Attorney fan art of Phoenix Wright, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

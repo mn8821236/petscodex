@@ -10406,6 +10406,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hiei",
+            "path": "cozy-hiei",
+            "displayName": "飞影 Hiei",
+            "description": "Unofficial Hiei fan art from Yu Yu Hakusho, with nine independently drawn expressive animation states. Character and franchise rights belong to their respective owners; no official affiliation or permission claimed.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

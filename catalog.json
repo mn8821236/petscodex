@@ -10837,6 +10837,39 @@
             ]
         },
         {
+            "id": "cozy-probius",
+            "path": "cozy-probius",
+            "displayName": "普罗比斯 Probius",
+            "description": "Unofficial StarCraft fan art of Probius, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-hangyodon",
+            "path": "cozy-hangyodon",
+            "displayName": "人鱼汉顿 Hangyodon",
+            "description": "Unofficial Sanrio fan art of Hangyodon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-bonobono",
+            "path": "cozy-bonobono",
+            "displayName": "波乐 Bonobono",
+            "description": "Unofficial Bonobono fan art of Bonobono, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-chao",
             "path": "cozy-chao",
             "displayName": "查欧 Chao",

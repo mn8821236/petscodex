@@ -10681,6 +10681,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-speed-racer",
+            "path": "cozy-speed-racer",
+            "displayName": "三船刚 Speed Racer",
+            "description": "Unofficial Speed Racer / Mach GoGoGo fan art of Speed Racer, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

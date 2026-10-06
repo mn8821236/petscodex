@@ -11077,6 +11077,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-impmon",
+            "path": "cozy-impmon",
+            "displayName": "小妖兽 Impmon",
+            "description": "Unofficial Digimon fan art of Impmon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

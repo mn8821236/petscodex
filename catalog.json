@@ -11033,6 +11033,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-metabee",
+            "path": "cozy-metabee",
+            "displayName": "美达比 Metabee",
+            "description": "Unofficial Medabots fan art of Metabee, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

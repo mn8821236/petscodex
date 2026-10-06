@@ -11044,6 +11044,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-rokusho",
+            "path": "cozy-rokusho",
+            "displayName": "罗库修 Rokusho",
+            "description": "Unofficial Medabots fan art of Rokusho, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

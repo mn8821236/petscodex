@@ -12430,6 +12430,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sun-shangxiang",
+            "path": "cozy-sun-shangxiang",
+            "displayName": "孙尚香 Sun Shangxiang",
+            "description": "Unofficial Honor of Kings fan art of Sun Shangxiang, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

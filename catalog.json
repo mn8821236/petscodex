@@ -11814,6 +11814,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-apollo-justice",
+            "path": "cozy-apollo-justice",
+            "displayName": "王泥喜法介 Apollo Justice",
+            "description": "Unofficial Ace Attorney fan art of Apollo Justice, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

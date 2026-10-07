@@ -12309,6 +12309,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-iyami",
+            "path": "cozy-iyami",
+            "displayName": "井矢见 Iyami",
+            "description": "Unofficial Osomatsu-san fan art of Iyami, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

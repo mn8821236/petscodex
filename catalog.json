@@ -12023,6 +12023,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-badtz-maru",
+            "path": "cozy-badtz-maru",
+            "displayName": "酷企鹅 Badtz-Maru",
+            "description": "Unofficial Sanrio fan art of Badtz-Maru, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

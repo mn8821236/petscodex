@@ -12276,6 +12276,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-coo-kirby",
+            "path": "cozy-coo-kirby",
+            "displayName": "空 Coo",
+            "description": "Unofficial Kirby fan art of Coo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

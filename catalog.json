@@ -12034,6 +12034,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cobra",
+            "path": "cozy-cobra",
+            "displayName": "哥普拉 Cobra",
+            "description": "Unofficial Cobra the Space Pirate fan art of Cobra, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

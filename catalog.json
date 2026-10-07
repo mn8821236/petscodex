@@ -11913,6 +11913,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ryo-sakazaki",
+            "path": "cozy-ryo-sakazaki",
+            "displayName": "坂崎良 Ryo Sakazaki",
+            "description": "Unofficial Art of Fighting fan art of Ryo Sakazaki, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

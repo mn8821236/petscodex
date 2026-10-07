@@ -12045,6 +12045,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tekkaman",
+            "path": "cozy-tekkaman",
+            "displayName": "铁甲人 Tekkaman",
+            "description": "Unofficial Starknight Tekkaman fan art of Tekkaman, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11946,6 +11946,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-mike-haggar",
+            "path": "cozy-mike-haggar",
+            "displayName": "迈克·哈格 Mike Haggar",
+            "description": "Unofficial Final Fight fan art of Mike Haggar, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

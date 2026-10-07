@@ -12058,6 +12058,17 @@
             ]
         },
         {
+            "id": "cozy-cut-man",
+            "path": "cozy-cut-man",
+            "displayName": "剪刀人 Cut Man",
+            "description": "Unofficial Mega Man fan art of Cut Man, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-chimpui",
             "path": "cozy-chimpui",
             "displayName": "大耳鼠 Chimpui",

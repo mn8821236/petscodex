@@ -12146,6 +12146,138 @@
             ]
         },
         {
+            "id": "cozy-minna-no-tabo",
+            "path": "cozy-minna-no-tabo",
+            "displayName": "大口仔 Minna no Tabo",
+            "description": "Unofficial Minna no Tabo fan art of Minna no Tabo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-obotchaman",
+            "path": "cozy-obotchaman",
+            "displayName": "小少爷机器人 Obotchaman",
+            "description": "Unofficial Dr. Slump fan art of Obotchaman, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-waddle-doo",
+            "path": "cozy-waddle-doo",
+            "displayName": "瓦豆鲁笃 Waddle Doo",
+            "description": "Unofficial Kirby fan art of Waddle Doo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-susumu-hori",
+            "path": "cozy-susumu-hori",
+            "displayName": "堀进 Susumu Hori",
+            "description": "Unofficial Mr. Driller fan art of Susumu Hori, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-twinbee",
+            "path": "cozy-twinbee",
+            "displayName": "兵蜂 TwinBee",
+            "description": "Unofficial TwinBee fan art of TwinBee, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-kaori-makimura",
+            "path": "cozy-kaori-makimura",
+            "displayName": "槙村香 Kaori Makimura",
+            "description": "Unofficial City Hunter fan art of Kaori Makimura, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-lolo",
+            "path": "cozy-lolo",
+            "displayName": "罗罗 Lolo",
+            "description": "Unofficial Adventures of Lolo fan art of Lolo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-ralf-jones",
+            "path": "cozy-ralf-jones",
+            "displayName": "拉尔夫·琼斯 Ralf Jones",
+            "description": "Unofficial The King of Fighters fan art of Ralf Jones, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-biyomon",
+            "path": "cozy-biyomon",
+            "displayName": "比丘兽 Biyomon",
+            "description": "Unofficial Digimon fan art of Biyomon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-rick-kirby",
+            "path": "cozy-rick-kirby",
+            "displayName": "陆库 Rick",
+            "description": "Unofficial Kirby fan art of Rick, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-clark-still",
+            "path": "cozy-clark-still",
+            "displayName": "克拉克·斯蒂尔 Clark Still",
+            "description": "Unofficial The King of Fighters fan art of Clark Still, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-tentomon",
+            "path": "cozy-tentomon",
+            "displayName": "甲虫兽 Tentomon",
+            "description": "Unofficial Digimon fan art of Tentomon, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-coo-kirby",
             "path": "cozy-coo-kirby",
             "displayName": "空 Coo",

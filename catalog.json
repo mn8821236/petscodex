@@ -12111,6 +12111,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kaibutsu-kun",
+            "path": "cozy-kaibutsu-kun",
+            "displayName": "怪物太郎 Kaibutsu-kun",
+            "description": "Unofficial Kaibutsu-kun fan art of Kaibutsu-kun, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

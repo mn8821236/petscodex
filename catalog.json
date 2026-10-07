@@ -417,12 +417,6 @@
             "path": "sai-fujiwara"
         },
         {
-            "id": "conan-edogawa",
-            "displayName": "Conan Edogawa",
-            "description": "A chibi Conan Edogawa-style Codex pet.",
-            "path": "conan-edogawa"
-        },
-        {
             "id": "shinichi-kudo",
             "displayName": "Shinichi Kudo",
             "description": "A chibi Shinichi Kudo-style Codex pet.",
@@ -529,12 +523,6 @@
             "displayName": "Kurama",
             "description": "A chibi fox-spirit fighter-inspired Codex pet.",
             "path": "kurama"
-        },
-        {
-            "id": "hiei",
-            "displayName": "Hiei",
-            "description": "A chibi dark swordsman-inspired Codex pet.",
-            "path": "hiei"
         },
         {
             "id": "kazuma-kuwabara",
@@ -649,12 +637,6 @@
             "displayName": "Grandpa Tomozou",
             "description": "A chibi Grandpa Tomozou-style Codex desktop pet.",
             "path": "grandpa-tomozou"
-        },
-        {
-            "id": "sakura-kinomoto",
-            "displayName": "Sakura Kinomoto",
-            "description": "A chibi Sakura Kinomoto-inspired Codex pet.",
-            "path": "sakura-kinomoto"
         },
         {
             "id": "tomoyo-daidoji",
@@ -847,12 +829,6 @@
             "displayName": "Hachiman Hikigaya",
             "description": "A sleepy deadpan chibi Hachiman Hikigaya-inspired Codex pet.",
             "path": "hachiman-hikigaya"
-        },
-        {
-            "id": "spike-spiegel",
-            "displayName": "Spike Spiegel",
-            "description": "A lanky chibi Spike Spiegel-inspired Codex pet.",
-            "path": "spike-spiegel"
         },
         {
             "id": "hisoka-morow",
@@ -1231,12 +1207,6 @@
             "displayName": "Subaru Natsuki",
             "description": "A chibi Subaru Natsuki-style determined Codex pet.",
             "path": "subaru-natsuki"
-        },
-        {
-            "id": "maomao",
-            "displayName": "Maomao",
-            "description": "A chibi Maomao-style apothecary Codex pet.",
-            "path": "maomao"
         },
         {
             "id": "denji",

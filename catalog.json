@@ -12146,6 +12146,39 @@
             ]
         },
         {
+            "id": "cozy-minna-no-tabo",
+            "path": "cozy-minna-no-tabo",
+            "displayName": "大口仔 Minna no Tabo",
+            "description": "Unofficial Minna no Tabo fan art of Minna no Tabo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-obotchaman",
+            "path": "cozy-obotchaman",
+            "displayName": "小少爷机器人 Obotchaman",
+            "description": "Unofficial Dr. Slump fan art of Obotchaman, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-waddle-doo",
+            "path": "cozy-waddle-doo",
+            "displayName": "瓦豆鲁笃 Waddle Doo",
+            "description": "Unofficial Kirby fan art of Waddle Doo, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-susumu-hori",
             "path": "cozy-susumu-hori",
             "displayName": "堀进 Susumu Hori",

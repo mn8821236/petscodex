@@ -12188,6 +12188,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-twinbee",
+            "path": "cozy-twinbee",
+            "displayName": "兵蜂 TwinBee",
+            "description": "Unofficial TwinBee fan art of TwinBee, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

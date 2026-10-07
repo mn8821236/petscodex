@@ -12144,6 +12144,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ken-washio",
+            "path": "cozy-ken-washio",
+            "displayName": "大鹫之健 Ken Washio",
+            "description": "Unofficial Science Ninja Team Gatchaman fan art of Ken Washio, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

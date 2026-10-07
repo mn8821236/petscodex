@@ -11803,6 +11803,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-athena-asamiya",
+            "path": "cozy-athena-asamiya",
+            "displayName": "麻宫雅典娜 Athena Asamiya",
+            "description": "Unofficial The King of Fighters fan art of Athena Asamiya, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11792,6 +11792,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-warsman",
+            "path": "cozy-warsman",
+            "displayName": "战争人 Warsman",
+            "description": "Unofficial Kinnikuman fan art of Warsman, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

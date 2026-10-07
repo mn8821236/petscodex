@@ -12155,6 +12155,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-obotchaman",
+            "path": "cozy-obotchaman",
+            "displayName": "小少爷机器人 Obotchaman",
+            "description": "Unofficial Dr. Slump fan art of Obotchaman, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

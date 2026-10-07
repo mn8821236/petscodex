@@ -11869,6 +11869,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-ryoga-hibiki",
+            "path": "cozy-ryoga-hibiki",
+            "displayName": "响良牙 Ryoga Hibiki",
+            "description": "Unofficial Ranma 1/2 fan art of Ryoga Hibiki, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

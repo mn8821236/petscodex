@@ -12001,6 +12001,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-firebrand",
+            "path": "cozy-firebrand",
+            "displayName": "红魔阿利玛 Firebrand",
+            "description": "Unofficial Ghosts ’n Goblins fan art of Firebrand, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11781,6 +11781,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-iori-yagami",
+            "path": "cozy-iori-yagami",
+            "displayName": "八神庵 Iori Yagami",
+            "description": "Unofficial The King of Fighters fan art of Iori Yagami, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

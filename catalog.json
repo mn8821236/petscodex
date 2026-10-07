@@ -12012,6 +12012,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shingo-yabuki",
+            "path": "cozy-shingo-yabuki",
+            "displayName": "矢吹真吾 Shingo Yabuki",
+            "description": "Unofficial The King of Fighters fan art of Shingo Yabuki, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

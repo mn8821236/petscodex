@@ -11979,6 +11979,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-casshan",
+            "path": "cozy-casshan",
+            "displayName": "卡辛 Casshan",
+            "description": "Unofficial Casshan fan art of Casshan, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

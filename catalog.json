@@ -11836,6 +11836,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nakoruru",
+            "path": "cozy-nakoruru",
+            "displayName": "娜可露露 Nakoruru",
+            "description": "Unofficial Samurai Shodown fan art of Nakoruru, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

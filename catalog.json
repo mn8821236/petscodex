@@ -12144,6 +12144,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-susumu-hori",
+            "path": "cozy-susumu-hori",
+            "displayName": "堀进 Susumu Hori",
+            "description": "Unofficial Mr. Driller fan art of Susumu Hori, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

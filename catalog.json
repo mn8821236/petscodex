@@ -12100,6 +12100,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-bucky-ohare",
+            "path": "cozy-bucky-ohare",
+            "displayName": "巴奇·奥黑尔 Bucky O’Hare",
+            "description": "Unofficial Bucky O’Hare fan art of Bucky O’Hare, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -11924,6 +11924,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-geese-howard",
+            "path": "cozy-geese-howard",
+            "displayName": "吉斯·霍华德 Geese Howard",
+            "description": "Unofficial Fatal Fury fan art of Geese Howard, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -12441,6 +12441,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-aigis-persona3",
+            "path": "cozy-aigis-persona3",
+            "displayName": "埃癸斯 Aigis",
+            "description": "Unofficial Aigis fan art from Persona 3. Original-form Aigis performs servo-like finger and wrist checks, balances and recovers a paper crane, crouches to inspect a harmless foam nut, takes a controlled low hop and walks in three articulated directions. Opaque white joint infills, compact neutral proportions and smooth nonweapon wrist cuffs are explicit adaptations; no guns or display stand.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

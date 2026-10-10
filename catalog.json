@@ -12463,6 +12463,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "ruby",
+            "path": "ruby",
+            "displayName": "Ruby",
+            "description": "Ruby is a bright, affectionate apricot-gold shaggy dog with soulful dark eyes, floppy ears and a fluffy curled tail.",
+            "author": "Pets Codex user: pjbate",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -12485,6 +12485,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-lord-grim",
+            "path": "cozy-lord-grim",
+            "displayName": "君莫笑 Lord Grim",
+            "description": "Unofficial The King's Avatar fan art of Ye Xiu / Lord Grim, with the Thousand Chance Umbrella. A chibi animated companion with nine expressive states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

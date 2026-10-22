@@ -12529,6 +12529,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-desert-dust",
+            "path": "cozy-desert-dust",
+            "displayName": "大漠孤烟 Desert Dust",
+            "description": "Unofficial fan-inspired chibi companion of Han Wenqing’s striker avatar Desert Dust from The King’s Avatar (全职高手). Features nine animated states with red-black martial armor and fist gauntlets. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

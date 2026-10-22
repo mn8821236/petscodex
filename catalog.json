@@ -12518,6 +12518,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cloud-piercer",
+            "path": "cozy-cloud-piercer",
+            "displayName": "一枪穿云 Cloud Piercer",
+            "description": "Unofficial The King’s Avatar fan art of Zhou Zekai’s sharpshooter avatar, Cloud Piercer. A white-hatted, dual-pistol chibi companion with nine expressive animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

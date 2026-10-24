@@ -12617,6 +12617,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kim-kaphwan",
+            "path": "cozy-kim-kaphwan",
+            "displayName": "金甲唤 Kim Kaphwan",
+            "description": "Unofficial Fatal Fury fan art of Kim Kaphwan, an animated companion with nine expressive states and character-specific movement. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

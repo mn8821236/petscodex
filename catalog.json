@@ -12628,6 +12628,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-sam-altman",
+            "path": "cozy-sam-altman",
+            "displayName": "山姆·奥特曼 Sam Altman",
+            "description": "Unofficial cartoon caricature of Sam Altman, with nine animated states: relaxed idle, left/right walks, friendly wave, jump, laptop error recovery, thoughtful waiting, laptop work and notebook review. Fan art only; not affiliated with or endorsed by Sam Altman, OpenAI or ChatGPT. No official representation or endorsement is implied.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

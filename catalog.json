@@ -12639,6 +12639,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-kun-dance-doodle",
+            "path": "cozy-kun-dance-doodle",
+            "displayName": "舞步坤 Kun Dance Doodle",
+            "description": "Original monochrome human doodle with center-part hair, suspenders, shoulder sways, back-turn glances and basketball rhythm in nine animated states. Unofficial parody fan art inspired by the public performance by Cai Xukun. Not affiliated with or endorsed by Cai Xukun or any rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

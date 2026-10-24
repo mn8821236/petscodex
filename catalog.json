@@ -12606,6 +12606,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-haley",
+            "path": "cozy-stardew-haley",
+            "displayName": "海莉 Haley",
+            "description": "Unofficial Stardew Valley fan art of Haley, the golden-haired photography enthusiast. A blue-clad chibi companion with nine expressive animated states, including taking photographs, admiring a sunflower and reviewing a print. Not affiliated with or endorsed by ConcernedApe or the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

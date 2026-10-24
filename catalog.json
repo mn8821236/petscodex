@@ -12584,6 +12584,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-wizard",
+            "path": "cozy-stardew-wizard",
+            "displayName": "法师 Wizard",
+            "description": "Unofficial Stardew Valley fan art. A purple-haired, purple-bearded mage with expressive walking and greeting cycles, gentle potion mixing, and spellbook study motions. Nine animated states. Not affiliated with or endorsed by ConcernedApe or the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

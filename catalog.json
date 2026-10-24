@@ -12595,6 +12595,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-leah",
+            "path": "cozy-stardew-leah",
+            "displayName": "莉亚 Leah",
+            "description": "Unofficial Stardew Valley fan art of Leah, the auburn-braided woodland artist. A green-plaid chibi companion with nine expressive animated states, including painting and sketchbook review. Not affiliated with or endorsed by ConcernedApe or the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

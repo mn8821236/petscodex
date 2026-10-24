@@ -12573,6 +12573,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-krobus",
+            "path": "cozy-stardew-krobus",
+            "displayName": "科罗布斯 Krobus",
+            "description": "Unofficial Stardew Valley fan art. A friendly shadow companion with expressive blinks, real walking cycles, a polite wave, and Void Egg shop and inventory-book motions. Nine animated states. Not affiliated with or endorsed by ConcernedApe or the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -12551,6 +12551,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-abigail",
+            "path": "cozy-stardew-abigail",
+            "displayName": "阿比盖尔 Abigail",
+            "description": "Unofficial Stardew Valley fan art of Abigail, with violet hair, amethyst treasures, flute melodies and nine hand-drawn animated states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

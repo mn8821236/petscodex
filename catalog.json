@@ -12672,6 +12672,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tibo-reset",
+            "path": "cozy-tibo-reset",
+            "displayName": "重置按钮 Tibo Reset",
+            "description": "Unofficial cartoon caricature of Thibault \"Tibo\" Sottiaux carrying an oversized red RESET button, with nine animated states including playful walking, waving, jumping, button pressing and spring-back, waiting and inspection. Decorative fan art only: the button does not reset software or perform any action. Not affiliated with or endorsed by Thibault Sottiaux, OpenAI or ChatGPT.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

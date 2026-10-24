@@ -12540,6 +12540,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "chibi-steve-macbook",
+            "path": "chibi-steve-macbook",
+            "displayName": "Chibi Steve",
+            "description": "A chibi anime Steve Jobs in his classic black turtleneck and jeans, typing on a silver MacBook while working.",
+            "author": "Pets Codex user: zakikero",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

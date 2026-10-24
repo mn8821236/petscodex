@@ -12562,6 +12562,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-stardew-sebastian",
+            "path": "cozy-stardew-sebastian",
+            "displayName": "塞巴斯蒂安 Sebastian",
+            "description": "Unofficial Stardew Valley fan art. A shy purple-hoodie programmer with nine animated states, a tiny frog friend, and quiet laptop coding moments. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

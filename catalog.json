@@ -12738,6 +12738,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-murloc",
+            "path": "cozy-murloc",
+            "displayName": "鱼人 Murloc",
+            "description": "Unofficial Warcraft Murloc fan art: a teal-green, orange-finned chibi with nine animated states, shellwork and pearl inspection. Not affiliated with or endorsed by Blizzard.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

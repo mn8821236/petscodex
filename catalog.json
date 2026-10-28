@@ -12738,6 +12738,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-tyrande-whisperwind",
+            "path": "cozy-tyrande-whisperwind",
+            "displayName": "泰兰德·语风 Tyrande Whisperwind",
+            "description": "Unofficial Warcraft fan art of Tyrande Whisperwind, the moon priestess with teal hair, silver crescent armor and a luminous wing-shaped bow. Nine expressive animation states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

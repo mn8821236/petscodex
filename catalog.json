@@ -12738,6 +12738,12 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "sakiko-pixel-pet",
+            "displayName": "Sakiko Togawa",
+            "description": "Unofficial pixel-art Sakiko Togawa from BanG Dream! It's MyGO!!!!! / Ave Mujica, in her everyday outfit. Nine animations and sixteen look directions. By ppepperkok-hue.",
+            "path": "sakiko-pixel-pet"
         }
     ]
 }

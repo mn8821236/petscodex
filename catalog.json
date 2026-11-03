@@ -12738,6 +12738,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-malfurion-stormrage",
+            "path": "cozy-malfurion-stormrage",
+            "displayName": "玛法里奥·怒风 Malfurion Stormrage",
+            "description": "Unofficial Warcraft fan art of Malfurion Stormrage, the antlered archdruid with his emerald staff, green beard and feathered bracers. Nine expressive animation states. Not affiliated with or endorsed by the rights holders.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

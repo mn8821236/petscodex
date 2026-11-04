@@ -12771,6 +12771,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "silver-lilac",
+            "path": "silver-lilac",
+            "displayName": "銀紫龍娘",
+            "description": "白銀長髮、淡紫龍翼的柔和 Q 版桌面夥伴。",
+            "author": "Pets Codex user: mourinho",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

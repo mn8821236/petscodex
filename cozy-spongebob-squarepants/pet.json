@@ -1,0 +1,19 @@
+{
+  "id": "cozy-spongebob-squarepants",
+  "displayName": "海绵宝宝 SpongeBob SquarePants",
+  "description": "Adapted/animated from SpongeBob character.svg by NickRewind (SVG: 999real). https://commons.wikimedia.org/wiki/File:SpongeBob_character.svg CC BY 3.0: https://creativecommons.org/licenses/by/3.0/ No endorsement.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "NickRewind; SVG uploaded by 999real; animation adaptation by Cozy Critters Studio",
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceTitle": "SpongeBob character.svg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpongeBob_character.svg",
+  "sourceRevisionUrl": "https://commons.wikimedia.org/w/index.php?title=File:SpongeBob_character.svg&oldid=1120012688",
+  "originalSourceTitle": "Voice Acting Tips w/ Tom Kenny — Make My Nick Dreams Come True Ep. 2",
+  "originalSourceUrl": "https://www.youtube.com/watch?v=lCp4kX8T-gI",
+  "sourceTime": "00:19",
+  "changes": "Adapted the existing vectorizer.ai SVG trace by separating existing arm, leg, eye and mouth shapes; applying joint rotation, body squash, blinking, facial compression, mirroring and vertical jump displacement; rendering nine animation states in a transparent 57-frame WebP atlas. Source-native vector geometry was used, not AI-generated replacement artwork.",
+  "licenseEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Voice_Acting_Tips_with_Tom_Kenny.webm",
+  "licenseEvidence": "Wikimedia Commons records license review by Yann on 2023-10-09 confirming CC BY 3.0. Subsequent removal of that license from YouTube does not revoke the existing license.",
+  "rightsNotice": "Unofficial adaptation; no affiliation or endorsement. The license covers the specific source depiction and adaptation, not other SpongeBob depictions or trademark rights."
+}

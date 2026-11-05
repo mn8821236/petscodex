@@ -12782,6 +12782,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-spongebob-squarepants",
+            "path": "cozy-spongebob-squarepants",
+            "displayName": "海绵宝宝 SpongeBob SquarePants",
+            "description": "Adapted/animated from SpongeBob character.svg by NickRewind (SVG: 999real). https://commons.wikimedia.org/wiki/File:SpongeBob_character.svg CC BY 3.0: https://creativecommons.org/licenses/by/3.0/ No endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

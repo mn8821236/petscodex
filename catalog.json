@@ -12815,6 +12815,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-goku-black-pixel",
+            "path": "cozy-goku-black-pixel",
+            "displayName": "黑悟空 Goku Black · Pixel",
+            "description": "Unofficial Dragon Ball Super fan-art pet: fixed base-form Goku Black with black spiky hair, dark gi, red sash, white boots and left Potara earring. Big-head pixel art with nine states and57 drawn frames. No transformation or official affiliation.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

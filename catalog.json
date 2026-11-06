@@ -12826,6 +12826,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-goku-base-pixel",
+            "path": "cozy-goku-base-pixel",
+            "displayName": "常态悟空 Son Goku · Pixel",
+            "description": "Unofficial Dragon Ball Super fan-art pet: friendly Son Goku in his black-haired base form, orange gi and blue accessories. Big-head pixel-art rendition with nine animation states and 57 drawn frames, distinct from previous Goku listings. No official affiliation or endorsement.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

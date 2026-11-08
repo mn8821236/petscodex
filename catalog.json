@@ -12859,6 +12859,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-cookieann",
+            "path": "cozy-cookieann",
+            "displayName": "可琦安 CookieAnn",
+            "description": "可琦安主题非官方粉丝创作：奶黄色垂耳小狗、绿眼睛、粉色蝴蝶结与厨师帽，包含挥手、跳跃、捧饼干、思考与打盹等动作。AI-assisted fan art. CookieAnn / Duffy and Friends character rights belong to Disney. Not affiliated with or endorsed by Disney.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

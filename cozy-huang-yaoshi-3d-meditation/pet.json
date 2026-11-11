@@ -1,0 +1,12 @@
+{
+  "id": "cozy-huang-yaoshi-3d-meditation",
+  "displayName": "黄药师·墨袍运气 Huang Yaoshi 3D Meditation",
+  "description": "黄药师主题非官方粉丝创作，参考周一围影视形象。略偏真人的3D质感、大头比例、深墨绿织物长袍与银白挑染黑发，闭目盘坐，双掌运气、呼吸吐纳等九组动作。 AI-assisted fan art. Character and screen adaptation rights belong to their owners. No official endorsement.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial AI-assisted fan art inspired by Huang Yaoshi as portrayed by Zhou Yiwei. Character, portrayal, and screen adaptation rights belong to their owners. No official affiliation or commercial character rights granted. Reference photographs are not included.",
+  "generationMethod": "Built-in image generation from costume and character references. Connected-pose extraction and deterministic transparent atlas packaging.",
+  "referenceSources": [
+    "https://star.tom.com/202406/1309007501.html"
+  ]
+}

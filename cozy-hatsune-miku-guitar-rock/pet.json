@@ -1,0 +1,9 @@
+{
+  "id": "cozy-hatsune-miku-guitar-rock",
+  "displayName": "初音未来·摇滚吉他 Hatsune Miku Guitar Rock",
+  "description": "初音未来主题非官方粉丝创作：青绿双马尾、黑青短外套与背带电吉他，九组动作包含拨弦摇头演奏、挥手、跳跃、等待与检查指板。 AI-assisted fan art. Hatsune Miku character rights belong to Crypton Future Media, INC. Not affiliated with or endorsed by Crypton.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial fan art. Hatsune Miku character and trademark rights belong to Crypton Future Media, INC. No official affiliation or endorsement. No grant of commercial character rights.",
+  "generationMethod": "Built-in image generation; source-pose segmentation and deterministic transparent atlas packaging. Separate choreography and prop identity from existing variants."
+}

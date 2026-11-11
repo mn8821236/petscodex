@@ -1,0 +1,12 @@
+{
+  "id": "cozy-huang-yaoshi-anime-meditation",
+  "displayName": "黄药师·青衫静修 Huang Yaoshi Anime Meditation",
+  "description": "黄药师主题非官方粉丝创作，参考周一围影视形象。略动漫插画风、大头比例、青绿色宽袖长袍与银白挑染黑发，闭目盘坐，呼吸起伏、袍袖轻摆、双手归元等九组动作。 AI-assisted fan art. Character and screen adaptation rights belong to their owners. No official endorsement.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial AI-assisted fan art inspired by Huang Yaoshi as portrayed by Zhou Yiwei. Character, portrayal, and screen adaptation rights belong to their owners. No official affiliation or commercial character rights granted. Reference photographs are not included.",
+  "generationMethod": "Built-in image generation from costume and character references. Connected-pose extraction and deterministic transparent atlas packaging.",
+  "referenceSources": [
+    "https://star.tom.com/202406/1309007501.html"
+  ]
+}

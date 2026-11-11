@@ -12870,6 +12870,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-hatsune-miku-starlight",
+            "path": "cozy-hatsune-miku-starlight",
+            "displayName": "初音未来·星光舞台 Hatsune Miku Starlight",
+            "description": "初音未来星光舞台非官方粉丝创作：青绿色双马尾、白银舞台裙与青色蝴蝶结，九组待机、奔跑、挥手、跳跃、失落、等待、歌唱舞步和思考动作。AI-assisted fan art. Hatsune Miku character rights belong to Crypton Future Media, INC. Not affiliated with or endorsed by Crypton.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

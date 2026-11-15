@@ -12925,6 +12925,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "classic-doomguy",
+            "path": "classic-doomguy",
+            "displayName": "Classic Doomguy",
+            "description": "The classic Doom status-bar face, reacting with original pixel-art expressions and additional look directions.",
+            "author": "Pets Codex user: thebreenis",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

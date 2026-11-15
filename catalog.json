@@ -12936,6 +12936,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "meat-boy",
+            "path": "meat-boy",
+            "displayName": "Meat Boy",
+            "description": "A grinning red cube character with animated poses.",
+            "author": "Pets Codex user: thebreenis",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

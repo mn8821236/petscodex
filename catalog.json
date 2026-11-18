@@ -12958,6 +12958,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "puck",
+            "path": "puck",
+            "displayName": "Puck",
+            "description": "A teal-eyed cream cat with a purple shoulder bag and a curious spirit.",
+            "author": "Pets Codex user: emilia_01",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

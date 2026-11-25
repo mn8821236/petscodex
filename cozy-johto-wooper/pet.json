@@ -1,0 +1,10 @@
+{
+  "id": "cozy-johto-wooper",
+  "displayName": "乌波 Wooper",
+  "description": "两侧粉色鳃会随步子一晃一晃，忙起来踩出水花，跳起时还会甩出一串小水泡。 The Johto Wooper waddles with bouncing pink gills, splashes through puddles, and sends up bubbles when it jumps. 非官方粉丝创作；非官方游戏素材。 Unofficial fan art; independent of the franchise rights holders.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "sourceUrl": "https://www.pokemon.com/us/pokedex/wooper",
+  "rightsNotice": "Unofficial fan-created animation. No official sprites are included; no affiliation, endorsement, or grant of rights to the underlying character.",
+  "generationMethod": "Original programmatically drawn pixel art and character-specific animation."
+}

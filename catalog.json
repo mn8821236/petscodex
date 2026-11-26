@@ -13024,6 +13024,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-roco-meevy-illustrated",
+            "path": "cozy-roco-meevy-illustrated",
+            "displayName": "喵喵 Meevy",
+            "description": "好奇地歪头，跑起来卷过一阵绿叶，等候时有花瓣落下。 Tilts with curiosity, kicks up green leaves when it runs, and watches petals drift down while waiting. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

@@ -1,0 +1,9 @@
+{
+  "id": "cozy-roco-sparka-illustrated",
+  "displayName": "火花 Sparka",
+  "description": "尾边的余烬跟着步子飘，起跳时迸出一圈小火星。 Embers trail its steps and burst outward when it jumps. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial AI-assisted fan illustration. No affiliation, endorsement, or grant of rights to the underlying character.",
+  "generationMethod": "AI-generated cutout, with procedural pose deformation, movement and individually directed animation effects."
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cozy-seer-bubu-seed-illustrated",
+  "displayName": "布布种子 Bubu Seed",
+  "description": "小步连跳时撒下嫩叶，停下后头顶的芽会轻轻点头。 Tiny hops scatter young leaves; its sprout nods when it comes to rest. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial AI-assisted fan illustration. No affiliation, endorsement, or grant of rights to the underlying character.",
+  "generationMethod": "AI-generated cutout, with procedural pose deformation, movement and individually directed animation effects."
+}

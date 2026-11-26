@@ -13046,6 +13046,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-seer-gaia-illustrated",
+            "path": "cozy-seer-gaia-illustrated",
+            "displayName": "盖亚 Gaia",
+            "description": "压低重心蓄力，向前一顿，红色拳劲沿地面掠过。 Settles into a low fighting stance, then lunges with a streak of crimson energy. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

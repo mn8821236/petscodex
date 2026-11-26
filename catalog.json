@@ -13035,6 +13035,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-seer-bubu-seed-illustrated",
+            "path": "cozy-seer-bubu-seed-illustrated",
+            "displayName": "布布种子 Bubu Seed",
+            "description": "小步连跳时撒下嫩叶，停下后头顶的芽会轻轻点头。 Tiny hops scatter young leaves; its sprout nods when it comes to rest. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

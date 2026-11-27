@@ -1,10 +1,10 @@
 {
   "id": "cozy-seer-rey",
   "displayName": "雷伊 Rey",
-  "description": "经典金色雷伊。跑动时带起短小电弧，跳跃蓄电，查看结果时释放闪电。 Classic gold Rey trails small lightning arcs, charges up in the air, and releases sparks when reviewing results. 非官方粉丝创作；非官方游戏素材。 Unofficial fan art; independent of the franchise rights holders.",
+  "description": "抱住雷球蓄电，抬过头顶，再腾空伸掌放出闪电。 Cups a lightning orb, lifts it overhead, then jumps and releases a bolt. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
   "spritesheetPath": "spritesheet.webp",
   "author": "Cozy Critters Studio",
   "sourceUrl": "https://seer.61.com/",
   "rightsNotice": "Unofficial fan-created animation. No official sprites are included; no affiliation, endorsement, or grant of rights to the underlying character.",
-  "generationMethod": "Original programmatically drawn pixel art and character-specific animation."
+  "generationMethod": "Original AI-assisted full-body pose redraws and character-directed animation timing."
 }

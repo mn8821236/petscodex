@@ -1,9 +1,9 @@
 {
   "id": "cozy-seer-gaia-illustrated",
   "displayName": "盖亚 Gaia",
-  "description": "压低重心蓄力，向前一顿，红色拳劲沿地面掠过。 Settles into a low fighting stance, then lunges with a streak of crimson energy. 非官方粉丝创作。 Unofficial fan art; no official game sprites used.",
+  "description": "盖亚沉肩收紧双拳，踏出弓步猛推前拳，收回时重新架起护臂。 Gaia draws both gauntlets into guard, plants a lunge, drives the front fist out, then resets his guard. 非官方粉丝创作。 Unofficial fan art.",
   "spritesheetPath": "spritesheet.webp",
   "author": "Cozy Critters Studio",
   "rightsNotice": "Unofficial AI-assisted fan illustration. No affiliation, endorsement, or grant of rights to the underlying character.",
-  "generationMethod": "AI-generated cutout, with procedural pose deformation, movement and individually directed animation effects."
+  "generationMethod": "Original published illustration animated with separately keyed wrist, shoulder, head and knee deformation."
 }

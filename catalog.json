@@ -13112,6 +13112,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-this-is-fine-coffee",
+            "path": "cozy-this-is-fine-coffee",
+            "displayName": "淡定狗 This Is Fine Dog",
+            "description": "装作若无其事地抿咖啡，又悄悄拿手帕擦汗。 Pretends to be fine, sips from the cup, then quietly dabs his forehead. 非官方粉丝创作。 Unofficial fan illustration.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

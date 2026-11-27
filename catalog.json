@@ -13068,6 +13068,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-wish-me-mell-post",
+            "path": "cozy-wish-me-mell-post",
+            "displayName": "许愿兔 Wish me mell",
+            "description": "背着薄荷色邮差包，轻跳时小信封会从身后飘出。 A mint mailbag and tiny flying envelopes that follow her hops. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

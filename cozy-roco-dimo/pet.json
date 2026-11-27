@@ -1,10 +1,10 @@
 {
   "id": "cozy-roco-dimo",
   "displayName": "迪莫 Dimo",
-  "description": "蓝白大耳朵与金色光印，跑动时耳尖随步伐弹跳，挥手和查看结果时会点亮小小的星光。 This blue-and-white Dimo bounces its ears as it runs and lights up little stars when it waves or checks the result. 非官方粉丝创作；非官方游戏素材。 Unofficial fan art; independent of the franchise rights holders.",
+  "description": "迪莫先低身把光聚在前爪间，随后跃起，放出蓝星。 Dimo crouches to gather starlight between its paws, then leaps and lets a blue star flare. 非官方粉丝创作。 Unofficial fan art.",
   "spritesheetPath": "spritesheet.webp",
   "author": "Cozy Critters Studio",
   "sourceUrl": "https://roco.qq.com/",
   "rightsNotice": "Unofficial fan-created animation. No official sprites are included; no affiliation, endorsement, or grant of rights to the underlying character.",
-  "generationMethod": "Original programmatically drawn pixel art and character-specific animation."
+  "generationMethod": "Six separately redrawn action key poses with character-specific timing and staging."
 }

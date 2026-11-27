@@ -13123,6 +13123,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-silent-film-tramp-bow",
+            "path": "cozy-silent-film-tramp-bow",
+            "displayName": "默片流浪汉 Silent Film Tramp",
+            "description": "摘帽深鞠躬，差点摔倒，靠手杖撑了回来。 Tips his bowler and bows too far, then catches himself on his cane. 非官方插画。 Unofficial illustration.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

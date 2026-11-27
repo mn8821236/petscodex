@@ -1,0 +1,9 @@
+{
+  "id": "cozy-my-melody-daisy",
+  "displayName": "美乐蒂 My Melody",
+  "description": "戴着雏菊粉兜帽，起跳时会带起一圈雏菊。 A daisy-pink hood and little flowers that bloom as she hops. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "rightsNotice": "Unofficial AI-assisted fan illustration. No affiliation, endorsement, or grant of rights to the underlying character.",
+  "generationMethod": "AI-generated cutout, with procedural pose deformation, movement and individually directed animation effects."
+}

@@ -13090,6 +13090,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-gudetama-snooze",
+            "path": "cozy-gudetama-snooze",
+            "displayName": "蛋黄哥 Gudetama",
+            "description": "跑起来也只是软绵绵地滑两下，等候时趴着打盹。 The lazy yolk slides with a soft wobble and dozes while waiting. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

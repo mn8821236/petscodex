@@ -1,9 +1,9 @@
 {
   "id": "cozy-gudetama-snooze",
   "displayName": "蛋黄哥 Gudetama",
-  "description": "跑起来也只是软绵绵地滑两下，等候时趴着打盹。 The lazy yolk slides with a soft wobble and dozes while waiting. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+  "description": "等候时用小手拽起蛋白当被子，缩进去闭眼睡觉。 Pulls the egg white up like a blanket and settles in for a nap. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
   "spritesheetPath": "spritesheet.webp",
   "author": "Cozy Critters Studio",
   "rightsNotice": "Unofficial AI-assisted fan illustration. No affiliation, endorsement, or grant of rights to the underlying character.",
-  "generationMethod": "AI-generated cutout, with procedural pose deformation, movement and individually directed animation effects."
+  "generationMethod": "Four individually redrawn full-body key poses with focused in-betweens, separate walk timing and character-specific staging."
 }

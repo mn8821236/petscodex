@@ -13070,6 +13070,39 @@
             ]
         },
         {
+            "id": "cozy-hello-kitty-ribbon",
+            "path": "cozy-hello-kitty-ribbon",
+            "displayName": "凯蒂猫 Hello Kitty",
+            "description": "粉色背带裙配经典红蝴蝶结，打招呼时身旁绽开小丝带。 A pink pinafore and classic red bow, with tiny ribbon flourishes on greeting. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-my-melody-daisy",
+            "path": "cozy-my-melody-daisy",
+            "displayName": "美乐蒂 My Melody",
+            "description": "戴着雏菊粉兜帽，起跳时会带起一圈雏菊。 A daisy-pink hood and little flowers that bloom as she hops. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
+            "id": "cozy-gudetama-snooze",
+            "path": "cozy-gudetama-snooze",
+            "displayName": "蛋黄哥 Gudetama",
+            "description": "跑起来也只是软绵绵地滑两下，等候时趴着打盹。 The lazy yolk slides with a soft wobble and dozes while waiting. 非官方粉丝创作。 Unofficial fan art; no official assets used.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
+        },
+        {
             "id": "cozy-wish-me-mell-post",
             "path": "cozy-wish-me-mell-post",
             "displayName": "许愿兔 Wish me mell",

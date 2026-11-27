@@ -1,0 +1,8 @@
+{
+  "id": "cozy-walnut-chess-knight",
+  "displayName": "胡桃棋马 Walnut Chess Knight",
+  "description": "抬起木制前蹄亮出蓝旗，再收拢关节落回棋座。 Rears on brass hinges to unfurl a blue pennant, then folds back onto the chess base. 原创角色。 Original mascot.",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "Cozy Critters Studio",
+  "generationMethod": "Four unique hand-directed generated key poses, dedicated state sequences, small secondary transforms, and clean pose holds."
+}

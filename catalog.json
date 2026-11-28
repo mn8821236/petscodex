@@ -13167,6 +13167,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-enamel-flip-clock",
+            "path": "cozy-enamel-flip-clock",
+            "displayName": "咔哒翻页钟 Click-Clack Flip Clock",
+            "description": "翘起象牙色翻片，咔哒落下，露出橘色新页。 Hinges its ivory flap out, snaps it down, and reveals a bright orange panel.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

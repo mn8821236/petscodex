@@ -13189,6 +13189,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "kim-catsuragi",
+            "path": "kim-catsuragi",
+            "displayName": "Kim Catsuragi",
+            "description": "An unofficial fan-made pixel pet inspired by Lieutenant Kim Kitsuragi: composed, observant, and always carrying his black notebook.",
+            "author": "Pets Codex user: trdelnik",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

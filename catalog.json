@@ -13156,6 +13156,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-nuthatch-tree-walk",
+            "path": "cozy-nuthatch-tree-walk",
+            "displayName": "红胸䴓 Red-breasted Nuthatch",
+            "description": "翻身朝下，勾住树皮走两步，再仰头回看。 Turns headfirst, climbs two steps down the bark, then glances back up.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }

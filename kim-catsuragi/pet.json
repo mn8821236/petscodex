@@ -1,0 +1,8 @@
+{
+  "id": "kim-catsuragi",
+  "displayName": "Kim Catsuragi",
+  "description": "An unofficial fan-made pixel pet inspired by Lieutenant Kim Kitsuragi: composed, observant, and always carrying his black notebook.",
+  "spritesheetPath": "spritesheet.webp",
+  "spriteVersionNumber": 2,
+  "kind": "animal"
+}

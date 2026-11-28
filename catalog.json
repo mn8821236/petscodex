@@ -13178,6 +13178,17 @@
                 "community",
                 "user-upload"
             ]
+        },
+        {
+            "id": "cozy-shadow-swallow-player",
+            "path": "cozy-shadow-swallow-player",
+            "displayName": "皮影燕戏 Shadow Swallow Player",
+            "description": "双手牵动操杆，让幕上的燕子展开翅膀，再收翅低头谢幕。 Pulls the rod to unfold a swallow’s wing across the lit screen, then folds it into a bow.",
+            "author": "Pets Codex user: Pets Codex Admin",
+            "tags": [
+                "community",
+                "user-upload"
+            ]
         }
     ]
 }
